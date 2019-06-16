@@ -160,6 +160,11 @@ layout: default
 |折騰到底（*The Boat Rocker*）|時報|哈金、譯者：湯秋妍|9789571368931
 |放逐的凝視：見證中國獨立紀錄片|傾向|文海|9789868820487
 |如焉@sars.come|中国国际广播出版社|胡发云|9787507827446
+|冰点|安徽人民出版社|李大同、张可佳|9787212013530
+|冰点'98：寻回心灵深处的感动|中国林业出版社|李大同 编|9787503820694
+|冰点’02|西苑出版社|李大同|9787801086228
+|冰点’03|西苑出版社|李大同|9787801088857
+|冰点故事|广西师范大学出版社|李大同|9787563356997
 |刘宾雁自选集|中国文联出版公司|刘宾雁|9787505905658
 |第二種忠誠：劉賓雁報告文學精選(一)|人間出版社|劉賓雁|
 |人妖之間：劉賓雁報告文學精選(二)|人間出版社|劉賓雁|
@@ -428,6 +433,7 @@ layout: default
 |誰的長江：發展中的中國能否承擔三峽工程|牛津大學|薛煒嘉、編：戴晴|9780195878400
 |福兮祸兮: 长江三峡工程的再评价|文統|王維洛|9789578766013
 |三峽工程36計|博大|王維洛|9789868520912
+|茉莉花在中國（全套）：鎮壓與迫害實錄|允晨文化|華澤|9789869177931
 |政治維納斯：從一無所有到中國民主|晨鐘書局|夏明|9789881953995
 |關於近現代中國路徑選擇的思考：朱厚澤文選|溯源|朱厚澤|9789881644251
 |[民憲論：民國憲法釋疑、要義與中國大陸憲政制度展望](https://web.archive.org/web/20170305201609/http://huanghuagang.org/minxianlun/minxianlun.pdf)|開放出版社|丁毅|
@@ -471,6 +477,7 @@ layout: default
 |2017年，起來中國：酷刑下的維權律師高智晟自述|臺灣關懷中國人權聯盟|高智晟|9789869328012
 |雙規：一位中共前檢察官的調查報告|五七學社|沈良慶|9789881558749
 |失踪人民共和国：来自中国强迫失踪体系的故事（*The People's Republic of the Disappeared: Stories from inside China?s system for enforced disappearances*）|CreateSpace Independent Publishing Platform|迈克尔·卡斯特（Michael Caster）編、序：騰彪|[9781981289820](http://rsdlmonitor.com/zh/)
+|China's Human Rights Lawyers: Advocacy and Resistance|Routledge|Eva Pils|9780415870849
 |致命中國：中共赤龍對人類社會的危害|博大|彼得．那法若（Peter Navarro）、安一鳴（Greg Autry）、譯者：葉淑貞等|9789868897625
 |三十年備忘錄（修訂版）|開放|金鐘 編|9789627934608
 |出賣中國：權貴資本主義的起源與共產黨政權的潰敗（*China’s Crony Capitalism: The Dynamics of Regime Decay*）|八旗文化|裴敏欣，譯者：梁文傑|9789869486583
@@ -487,6 +494,7 @@ layout: default
 |中國即將開戰：中國新軍國主義崛起|時報|楊中美|9789571357256
 |從極權統治到韌性威權：中國政治變遷之路（*Political Change in China: From Totalitarian Rule to Resilient Authoritarianism*）|巨流|黎安友（Andrew J. Nathan）、譯者：何大明|9789577322760
 |脆弱的強權-在中國崛起的背後（*China - Fragile Superpower: How China’s Internal Politics Could Derail Its Peaceful Rise*）|遠流|謝淑麗（Susan L. Shirk）、譯者：溫洽溢|9789573263067
+|The Chinese Mafia: Organized Crime, Corruption, and Extra-Legal Protection|Oxford University Press|Peng Wang|9780198758402
 |中國革命再闡釋|牛津大學|鄒讜、編：甘阳|9780195932294
 |共產主義後與中國|牛津大學|丁学良|9780195866452
 |共產世界的變遷：四個共黨政權的比較|東大|吳玉山|9789571918501
