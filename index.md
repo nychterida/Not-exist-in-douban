@@ -355,6 +355,7 @@ layout: default
 |解毒國民教育：通往心靈自由的五十本書|晨鐘書局|余杰|9789881620361
 |大江東去：司徒華回憶錄|牛津大學|司徒華|9780193975910
 |我與香港地下黨 (增訂本)|開放|梁慕嫻|9627934313
+|香港的第三條道路：莫昭如的安那其民眾戲劇|手民出版社|楊慧儀|9789881423375
 |民主推進器：兩岸三地的公民社會|獨立作家|蘇佳善|9789869006293
 |蔣介石與現代中國的奮鬥（*The Generalissimo: Chiang Kai-shek and the Struggle for Modern China*）|時報|陶涵（Jay Taylor）、譯者：林添貴|9789571351728
 |民主台灣：後威權時代的社會運動與文化政治|香港中文大學|莊雅仲|9789629965921
@@ -754,6 +755,8 @@ layout: default
 |一個紅衛兵小報主編的文革記憶|新銳文創|周孜仁|9789866094651
 |毛澤東與紅衛兵的故事|新潮社|陳佩華|9789861672533
 |*The Red Guard Generation and Political Activism in China*|Columbia University Press|Guobin Yang|9780231149648
+|China's New Red Guards: The Return of Radicalism and the Rebirth of Mao Zedong|Oxford University Press|	
+Jude Blanchette|9780190605841
 |外交部文革紀實|香港中文大學|馬繼森|9789629960674
 |暴風雨的記憶：1965－1970年的北京四中(增訂版)|牛津大學|主編：北島、曹一凡、維一|9780193964860（9780190476540） 
 |一叶知秋：清华大学1968年“百日大武斗”|香港中文大學|唐少傑|9789629961268
