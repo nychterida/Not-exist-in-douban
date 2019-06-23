@@ -148,7 +148,7 @@ layout: default
 |[丁庄梦](https://www.worldcat.org/title/ding-zhuang-meng/oclc/952361538?loc=)|上海文艺出版社|阎连科|[7532129489](https://www.goodreads.com/book/show/20869383)
 |為人民服務|麥田|閻連科|9867252942
 |四書|麥田|閻連科|9789861204901
-|软埋|人民文学出版社|方方|[7020116140](https://www.goodreads.com/book/show/35414562)
+|软埋|人民文学出版社(民國歷史文化學社)|方方|[7020116140](https://www.goodreads.com/book/show/35414562)(9789887851097)
 |盛世：中國2013年|牛津大學（麥田）|陳冠中|9780193958463（9789861735795）
 |裸命|麥田|陳冠中|9789861738499
 |建豐二年：新中國烏有史|牛津大學（麥田）|陳冠中|9780199429400（9789863442943）
@@ -211,6 +211,7 @@ layout: default
 |[野心時代：在新中國追求財富、真相和信仰（Age of Ambition: Chasing Fortune, Truth and Faith in the New China）]()|八旗文化|歐逸文（Evan Osnos）、譯者：潘勛|9789865842475
 |野草：底層中國的緩慢革命（苛稅、胡同和法輪功：底層中國的緩慢革命）（*Wild Grass: Three Portraits of Change in Modern China*）|八旗文化|張彥（Ian Jounson），譯者：吳美真|9789869356244（9789868845428）
 |中國的靈魂 後毛澤東時代的宗教復興（*The Souls of China: The Return of Religion After Mao*）|八旗文化|張彥（Ian Jounson），譯者：廖彥博|9789578654495
+|失去新中國：美商在中國的理想與背叛|博大|伊森‧葛特曼（Ethan Gutmann）、譯者：丁柯|1932674217
 |[當十億中國人一起跳（When a Billion Chinese Jump—How China Will Save Mankind or Destroy It）](https://book.douban.com/subject/5502980/)|天下雜誌|華衷（Jonathan Watts）、譯者：李芳齡|9789862412077
 |謊言帝國：中國雞年紀行（*L'Année du Coq*）|允晨文化|索爾孟（Guy Sorman）、譯者：許益源|9867178262
 |[中国，特色](https://book.douban.com/subject/25941656/)|当代中国出版社|雷克|9787515404882
@@ -475,6 +476,7 @@ layout: default
 |行者思之：張思之回憶錄|遠流|張思之、孫國棟|9789573275770
 |堂堂正正做公民：我的自由中國|新世紀|許志永、編：滕彪、華澤|9789881329516
 |盲眼律師：在黑暗中國尋找光明的維權鬥士（*The Barefoot Lawyer: A Blind Man’s Fight for Justice and Freedom in China*）|八旗文化| 陳光誠，譯者：吳潤璿|9789865842604
+|中國民企維權第一案|博大|高智晟|9868163633
 |2017年，起來中國：酷刑下的維權律師高智晟自述|臺灣關懷中國人權聯盟|高智晟|9789869328012
 |雙規：一位中共前檢察官的調查報告|五七學社|沈良慶|9789881558749
 |失踪人民共和国：来自中国强迫失踪体系的故事（*The People's Republic of the Disappeared: Stories from inside China?s system for enforced disappearances*）|CreateSpace Independent Publishing Platform|迈克尔·卡斯特（Michael Caster）編、序：騰彪|[9781981289820](http://rsdlmonitor.com/zh/)
@@ -487,6 +489,14 @@ layout: default
 |完美的獨裁：二十一世紀的中國（*The Perfect Dictatorship: China in the 21st Century*）|左岸文化|斯坦．林根（Stein Ringen）、譯者：薛青詩|9789865727482
 |主宰中國的太子黨（*Les fils de princes: Une génération au pouvoir en Chine*）|聯經|杜明（Jean-Luc Domenach），譯者：何啟仁|9789570851809
 |權力的劇場：中共黨代會的制度運作|香港中文大學|吳國光，譯者：趙燦|9789882370562
+|九評共產黨（十周年紀念版）|博大|大紀元系列社論|1932674160（9789868897656）
+|共產主義的終極目的：中國篇|博大|《九評》編輯部|9789869264266
+|魔鬼在統治著我們的世界|博大|九評編輯部|9789869264280
+|中國的和平轉型之路|博大|章天亮|9789868520936
+|國家掠奪器官：器官移植在中國被濫用的黑幕|博大|大衛．麥塔斯（David Matas）、托斯托斯坦．特瑞（Torsten Trey, MD, PhD）|9789868897601
+|血腥的活摘器官|博大|大衛．麥塔斯（David Matas）、大衛．喬高（David Kilgour）、譯者：洪蓮、許非|9789868520950
+|前所未有的邪惡迫害|博大|托斯坦‧特瑞（Torsten Trey）、朱婉琪、譯者：臺灣國際器官移植關懷協會醫法小組|9789868897687
+|中國X檔案：中共掩蓋的內部歷史|明鏡|蘭斯斯|9781940004679
 |低端人口：中國，是地下這幫鼠族撐起來的（*Le peuple des rats: Dans les sous-sols interdits de la Chine*）|聯經|派屈克‧聖保羅（Patrick Saint-Paul），譯者：陳文瑤|9789570851090
 |2049百年馬拉松：中國稱霸全球的祕密戰略（*The Hundred-Year Marathon: China’s Secret Strategy to Replace America as the Global Superpower*）|麥田|白邦瑞（Michael Pillsbury）、譯者：林添貴|9789863442639
 |富國強兵之後：中國的百年復興及下一步（*Wealth & Power: China’s Long March to the Twenty-first Century*）|夏偉（Orville Schell）、魯樂漢（John Delury）、譯者：潘勛|9789869423168
@@ -518,6 +528,8 @@ layout: default
 |薄熙來周永康謎局與十八大：重慶事變核心文件、爭議性文獻續編|溯源|信息自由觀察工作室|9781921815324
 |河蟹大帝胡錦濤：他讓中國失去了十年|晨鐘（亞太政治哲學文化）|余杰|9789881620323（9789868971882）
 |中國影帝溫家寶|新世紀（亞太政治哲學文化）|余杰、序：鮑彤|9789881943026（9789868971899）
+|江澤民其人|博大|大紀元編輯部|1932674233
+|江澤民其人連環畫集|博大|大紀元編輯部、孟圓、屠龍、繪者：佟舟、齊祥|9789868520967
 |朱鎔基傳：從反黨右派到鄧小平繼承人|新新聞文化事業股份有限公司|高新、何頻|9789578591264
 |進出中組部: 一個紅二代理想主義者的另類人生|明鏡|閻淮|9781630323936
 |鄧小平：革命人生（*Deng Xiaoping: A Revolutionary Life*）|聯經|亞歷山大‧潘佐夫（Alexander V. Pantsov）、梁思文（Steven I. Levine），譯者：吳潤璿|9789570847796
