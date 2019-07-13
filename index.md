@@ -17,6 +17,7 @@ layout: default
 7|昂山素季|2011|吕克贝松|[The Lady](https://www.imdb.com/title/tt1802197/)
 8|夹边沟|2010|王兵|[The Ditch](https://www.imdb.com/title/tt1723112/)
 9|被出賣的台灣|2009|Adam Kane|[Formosa Betrayed](https://www.imdb.com/title/tt1121786/)
+10|红日风暴|2009|彭小莲、闽燕墨雨|[Storm Under the Sun](https://www.imdb.com/title/tt1387278/)
 11|苹果|2007|李玉|[Lost in Beijing](https://www.imdb.com/title/tt0949489/)
 12|华丽的假期|2007|‎金志勋|[May 18](https://www.imdb.com/title/tt0800341/)
 13|颐和园|2006|娄烨|[Summer Palace](https://www.imdb.com/title/tt0794374/)
