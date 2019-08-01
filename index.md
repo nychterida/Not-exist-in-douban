@@ -753,6 +753,7 @@ layout: default
 |文化大革命的起源：浩劫的來臨，1961-1966年（*The Origins of the Cultural Revolution - 3. The Coming of the Cataclysm, 1961-1966*）|新世紀|馬若德（Roderick MacFarquhar）|9789881557001
 |文化大革命（*Cultural Revolution: A Very Short Introduction*）|牛津大學|Richard Curt Kraus|9780190832148
 |文化大革命：人民的歷史 1962-1976（*The Cultural Revolution: A People’s History 1962-1976*）|聯經|馮客（Frank Dikötter）、譯者：向淑容、堯嘉寧|9789570848656
+|非常年代 1964-1978 (兩卷盒裝)|牛津大學出版社|趙園|9780190988685
 |狂熱的年代：1966-1976年紅色的大陸|天地圖書|張萬舒|9789882198296
 |文化大革命：史實與研究|香港中文大學|劉青峰|9789622017634
 |天地翻覆：中國文化大革命史（全3冊第3版修訂本）|天地圖書|楊繼繩|9789888258369
