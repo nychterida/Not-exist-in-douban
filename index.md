@@ -84,6 +84,8 @@ layout: default
 74|傲骨之战 第三季|2018|罗伯特·金、弗雷德·托耶|[The Good Fight Season 3](https://www.imdb.com/title/tt8363128/)
 75|凶年之畔|2017|黄闻海|[We the Workers](https://www.imdb.com/title/tt6433144/)
 76|未来岁月（此去经年）|2019|西蒙·赛伦·琼斯（Simon Cellan Jones）|[Years and Years](https://www.imdb.com/title/tt8694364/)
+77|独生之国|2019|王男栿(Nanfu Wang), 张嘉玲[Jialing Zhang (as Zhang Lynn)]|[One Child Nation](https://www.imdb.com/title/tt8923482/)
+78|流氓燕|2016|王男栿(Nanfu Wang)|[Hooligan Sparrow](https://www.imdb.com/title/tt4079902/)
 {: #movie .display}
 
 ### 参考资料
