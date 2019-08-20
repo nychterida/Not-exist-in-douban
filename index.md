@@ -140,7 +140,7 @@ layout: default
 130|西藏战士|2015|Dodo Hunziker|[Tibetan Warrior](https://www.imdb.com/title/tt4285612/)
 131|高科技，低生活|2012|Stephan Maing|[High Tech, Low Life](https://www.imdb.com/title/tt2151988/)
 132|第三次世界大战|2016|Sugan Kartthi|[Moondraam Ullaga Por](https://www.imdb.com/title/tt4020644/)
-133|未够秤|2014|杜浩纶|[Lessons in Dissent](https://www.imdb.com/title/tt3425898/)
+133|未夠秤|2014|杜浩綸（Matthew Torne）|[Lessons in Dissent](https://www.imdb.com/title/tt3425898/)
 134|达赖喇嘛觉醒|2014|Khashyar Darvich|[Dalai Lama Awakening](https://www.imdb.com/title/tt3325392/)
 135|移山|1994|Michael Apted|[Moving the Mountain](https://www.imdb.com/title/tt0110583/)
 136|[黑太阳731之死亡列车](https://movie.douban.com/subject/3631034/)|1994|何志强|[Maruta 3 ... Destroy all Evidence](https://www.imdb.com/title/tt0105401/)
@@ -148,11 +148,11 @@ layout: default
 138|缅甸起义：看不到的真相|2008|Anders Østergaard|[Burma VJ: Reporting from a Closed Country](https://www.imdb.com/title/tt1333634/)
 139|罪行摘要|2014|徐星|[Zuixing Zhaiyao](https://www.imdb.com/title/tt4370220/)
 140|[即将到来的对华战争](https://movie.douban.com/subject/26929113/)|2016|John Pilger|[The Coming War on China](https://www.imdb.com/title/tt6197028/)
-141|黄之锋：青年对强权|2017|Joe Piscatella|[Joshua: Teenager vs. Superpower](https://www.imdb.com/title/tt6333072/)
+141|黃之鋒：青年對強權|2017|Joe Piscatella|[Joshua: Teenager vs. Superpower](https://www.imdb.com/title/tt6333072/)
 142|故乡劫|1966|张曾泽|[Gu xiang jie](https://www.imdb.com/title/tt0193992/)
 143|乌坎三日|2012|艾晓明|[Three Days in Wukan](https://www.imdb.com/title/tt9712038/)
 144|[天下无诈](https://movie.douban.com/subject/27028777/)|2019|余丁|[Tian Xia Wu Zha](https://www.imdb.com/title/tt9685348/)
-145|乱世备忘|2016|陈梓桓|[Yellowing](https://www.imdb.com/title/tt5456136/)
+145|亂世備忘|2016|陳梓桓|[Yellowing](https://www.imdb.com/title/tt5456136/)
 146|当龙吞了太阳|2010|Dirk Simon|[When the Dragon Swallowed the Sun](https://www.imdb.com/title/tt1379210/)
 147|时间之轮|2003|Werner Herzog|[Wheel of Time](https://www.imdb.com/title/tt0331080/)
 148|色情片天王|1999|Wesley Emerson|[Wadd: The Life & Times of John C. Holmes](https://www.imdb.com/title/tt0207195/)
@@ -227,8 +227,13 @@ layout: default
 217|選老項|2016|邱禮濤|[The Mobfathers](https://www.imdb.com/title/tt5609302/)
 218|不再恐惧|2008|Dhondup Wangchen|[Leaving Fear Behind](https://www.imdb.com/title/tt3464336/)
 219|竞相灭绝|2015|Louie Psihoyos|[Racing Extinction](https://www.imdb.com/title/tt1618448/)
-220|杜海滨-1428
-
+220|烏坎：民主之光|2013|梁思衆|[Wukan: The Flame of Democracy](https://www.imdb.com/title/tt3461160/)
+221|傘上：遍地開花|2018|梁思衆|Umbrella Diaries: The First Umbrella
+222|撐傘|2016|陳耀成|[Raise the Umbrellas](https://www.imdb.com/title/tt6337076/)
+223|分域大道|2018|杜浩綸（Matthew Torne）|[Last Exit to Kai Tak](https://www.imdb.com/title/tt8668616/)
+224|迷航|2019|Jill Li|[Lost Course](https://www.viff.org/Online/2019-series-dragonsandtigers)
+225|[自由行](https://movie.douban.com/subject/30197582/)|2018|应亮|[A Family Tour](https://www.imdb.com/title/tt8731042/)
+226|我还有话要说|2012|应亮|[When Night Falls](https://www.imdb.com/title/tt2164662/)
 {: #movie .display}
 
 ### 参考资料
