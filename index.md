@@ -223,7 +223,7 @@ layout: default
 213|无处为家：一个在北京的藏族人|2014|Jocelyn Ford|[Nowhere to Call Home: A Tibetan in Beijing](https://www.imdb.com/title/tt3451314/)
 214|我毕业了|1992|王光利|[Wo Biye le](https://www.imdb.com/title/tt4370650/)
 215|中英街1號|2018|趙崇基|[No. 1 Chung Ying Street](https://www.imdb.com/title/tt7473032/)
-216|凶年之畔|2017|黄文海|[We the Workers](https://www.imdb.com/title/tt6433144/)
+216|凶年之畔|2017|黄文海、曾金燕|[We the Workers](https://www.imdb.com/title/tt6433144/)
 217|選老項|2016|邱禮濤|[The Mobfathers](https://www.imdb.com/title/tt5609302/)
 218|不再恐惧|2008|Dhondup Wangchen|[Leaving Fear Behind](https://www.imdb.com/title/tt3464336/)
 219|竞相灭绝|2015|Louie Psihoyos|[Racing Extinction](https://www.imdb.com/title/tt1618448/)
@@ -234,6 +234,39 @@ layout: default
 224|迷航|2019|Jill Li|[Lost Course](https://www.viff.org/Online/2019-series-dragonsandtigers)
 225|[自由行](https://movie.douban.com/subject/30197582/)|2018|应亮|[A Family Tour](https://www.imdb.com/title/tt8731042/)
 226|我还有话要说|2012|应亮|[When Night Falls](https://www.imdb.com/title/tt2164662/)
+227|大堡小劳教|2014|谢贻卉|[Juvenile Laborers Confined in Dabao](https://www.imdb.com/title/tt4406580/)
+228|自由城的囚徒|2007|胡佳、曾金燕|[Prisoners in Freedom City](https://www.nchrd.org/2008/02/eyewitness-article-3/)
+229|超越恐惧：高智晟的故事|2012|马文璟|[Transcending Fear: The Story of Gao Zhisheng](https://www.imdb.com/title/tt2415718/)
+230|小鬼头上的女人|2013|杜斌|[The Women of Masanjia Labor Camp](https://www.imdb.com/title/tt4505062/)
+231|孩子不惧怕死亡，但是害怕魔鬼|2017|荣光荣|[Children Are Not Afraid of Death, Children Are Afraid of Ghosts](https://www.imdb.com/title/tt7059538/)
+232|媒婆|1995|胡杰|[Women Matchmaker](https://www.chineseupress.com/index.php?route=product/product&product_id=2896)
+233|晒太阳|2002|胡杰|[Basking in the Sun](https://www.chineseupress.com/index.php?route=product/product&product_id=2897)
+234|[中原纪事](https://movie.douban.com/subject/30354477/)|2006|艾晓明|[The Epic of Central Plains](https://www.chineseupress.com/index.php?route=product/product&product_id=2994)
+235|[天堂花园](https://movie.douban.com/subject/2131861/)|2005|艾晓明、胡杰|[Garden in Heaven](https://www.chineseupress.com/index.php?route=product/product&product_id=2957)
+236|为革命画画：户县农民画|2005|艾晓明、胡杰|[Painting for the Revolution](https://www.chineseupress.com/index.php?route=product/product&product_id=2943)
+237|阴道独白：幕后故事|2004|胡杰、艾晓明|[The Vagina Monologues: Stories from China](https://www.chineseupress.com/index.php?route=product/product&product_id=2978)
+238|阴道独白：中山大学师生演出|2003|艾晓明、宋素凤|[The Vagina Monologues](https://www.chineseupress.com/index.php?route=product/product&product_id=2979)
+239|[开往家乡的列车](https://movie.douban.com/subject/26280526/)|2008|艾晓明|[The Train to My Home Town](https://www.chineseupress.com/index.php?route=product/product&product_id=2921)
+240|国家的敌人|2010|艾晓明|[Guojia de diren](https://www.chineseupress.com/index.php?route=product/product&product_id=2948)
+241|人民代表姚立法|2006|艾晓明|[People's Representative YAO](https://www.chineseupress.com/index.php?route=product/product&product_id=2955)
+242|性、性別与权利|2006|艾晓明|[Sexualities Genders & Rights in Asia](https://www.chineseupress.com/index.php?route=product/product&product_id=2956)
+243|我们的娃娃|2009|艾晓明|[Our Children](https://www.chineseupress.com/index.php?route=product/product&product_id=2971)
+244|忘川|2010|艾晓明|[Wang Chuan](https://www.chineseupress.com/index.php?route=product/product&product_id=2951)
+245|花儿为什么这样红|2010|艾晓明|[Why the flower is red](https://www.chineseupress.com/index.php?route=product/product&product_id=2965)
+246|档案|2014|朱日坤|[Dang an](https://www.imdb.com/title/tt3902570/)
+247|欢迎|2016|朱日坤|[Welcome](https://www.imdb.com/title/tt5772470/)
+248|安妮|2018|朱日坤|[Anni](https://www.imdb.com/title/tt8223320/)
+249|尘|2014|朱日坤|[Dust](https://zhurikun.blogspot.com/2014/11/blog-post.html)
+250|回到原处|2002|郭熙志|
+251|喉舌|2009|郭熙志|
+252|红日风暴|2007|彭小莲、魏时煜|[Storm Under the Sun](https://www.imdb.com/title/tt1387278/)
+253|赫索格的日子|2010|何杨|[Herzog's Days](https://www.youtube.com/watch?v=hPwrOEM0dec)
+254|吊照门|2010|何杨|[Disbarment](https://www.youtube.com/watch?v=SWtxHLFhncQ)
+255|应急避难场所|2010|何杨|[Emergency shelter](https://www.youtube.com/watch?v=EHFHWmTM0uQ)
+256|退无可退|2017|何杨|https://www.youtube.com/watch?v=B_a8csMNBZ4
+257|血色年华|2010|何杨|https://www.youtube.com/watch?v=w4V7FjubOek
+258|亡命|2012|翰光|[Outside the Great Wall](https://www.youtube.com/watch?v=qGVd7phN148)
+259|让阳光撒到地上|2011|艾晓明|[Let the Sun Shine on the Ground](https://www.youtube.com/playlist?list=PL60F211CDC816434A)
 {: #movie .display}
 
 ### 参考资料
