@@ -268,6 +268,8 @@ layout: default
 258|亡命|2012|翰光|[Outside the Great Wall](https://www.youtube.com/watch?v=qGVd7phN148)
 259|让阳光撒到地上|2011|艾晓明|[Let the Sun Shine on the Ground](https://www.youtube.com/playlist?list=PL60F211CDC816434A)
 260|我的母亲王佩英|2010|胡杰|[My Mother is Wang Pei Ying](https://www.chineseupress.com/index.php?route=product/product&product_id=3148)
+261|并：控制|2017|李惠仁|https://www.youtube.com/watch?v=ozlVdidEH_I
+262|乡村牧师布道记|2012|佟卫军|https://www.douban.com/event/22075939/
 {: #movie .display}
 
 ### 参考资料
