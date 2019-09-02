@@ -129,7 +129,7 @@ layout: default
 119|活佛|1994|Clemens Kuby|[Living Buddha](https://www.imdb.com/title/tt0110371/)
 120|如何发动一场革命|2011|Ruaridh Arrow|[How to Start a Revolution](https://www.imdb.com/title/tt1956516/)
 121|西藏七年|1959|Hans Nieter|[Seven Years in Tibet](https://www.imdb.com/title/tt0405304/)
-122|神仙代言人|2016|许慧晶|[The Spokesperson](https://www.imdb.com/title/tt6089678/)
+122|[神仙代言人](https://movie.douban.com/subject/26881163/)|2016|许慧晶|[The Spokesperson](https://www.imdb.com/title/tt6089678/)
 123|走起！|2012|陈小雨|[Zou qi!](https://www.imdb.com/title/tt4378472/)
 124|议程：粉碎美国|2010|Curtis Bowers|[Agenda: Grinding America Down](https://www.imdb.com/title/tt2360880/)
 125|日常反抗|2013|Arash T. Riahi, Arman T. Riahi|[Everyday Rebellion](https://www.imdb.com/title/tt3391782/)
@@ -270,6 +270,7 @@ layout: default
 260|我的母亲王佩英|2010|胡杰|[My Mother is Wang Pei Ying](https://www.chineseupress.com/index.php?route=product/product&product_id=3148)
 261|并：控制|2017|李惠仁|https://www.youtube.com/watch?v=ozlVdidEH_I
 262|乡村牧师布道记|2012|佟卫军|https://www.douban.com/event/22075939/
+263|China: A New World Order|2019|Richard Cookson|https://www.bbc.co.uk/programmes/m0007znv
 {: #movie .display}
 
 ### 参考资料
@@ -1232,10 +1233,9 @@ Jude Blanchette|9780190605841
 |我有翅膀如鴿子：「基督與生命」系列訪談錄第二卷|雅歌|余杰、王怡 等|9789868637900
 |萬縷神恩眷此生：基督與生命系列訪談錄 第三卷|雅歌|余杰|9789868637931
 |誰為神洲理舊疆：中國信仰重建與社會轉型|雅歌|余杰|9789868637917
-
-
-
-
+|誰是新中國：中國現代史辨（*Which is the New China: Distinguishing between Right and Wrong in Modern Chinese History*）|夏菲爾（Blue Sky Publishing House）|辛灝年|9789881589354（0966609506）
+|中國命運與臺灣前途：辛灝年講演錄|博大|辛灝年|9789868897694
+|最後的侮辱|博大|辛灝年|9789868897663
 {: #book .display}
 
 #### 参考资料
