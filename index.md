@@ -298,6 +298,7 @@ layout: default
 |过去与未来之间（*Between Past and Future*）|译林出版社|汉娜•阿伦特（Hannah Arendt）、译者：王寅丽、张立立|9787544720779
 |哈維爾選集|基進出版社|瓦茨拉夫·哈维尔（Václav Havel）|9789578900318
 |無權力者的權力|左岸文化|瓦茨拉夫·哈维尔（Václav Havel）、譯者：崔衛平 等|986785425X
+|合法性的政治：當代中國的國家與社會關係（平裝版）（二版）|國立臺灣大學出版中心|趙鼎新|[9789863503101](https://library.proletarian.me/download.php?link=books%2F263d982f0c5df15cd8e7cd9ba71a7c52.pdf)
 |[定西孤儿院纪事](https://book.douban.com/subject/26671188/)|花城出版社|杨显惠|9781780421834
 |一滴淚：從肅反到文革的回憶|允晨文化|巫寧坤|9789867178398
 |暴風雨中一羽毛：動亂中失去的童年|明報出版社|巫一毛|9789628958245
@@ -419,7 +420,7 @@ layout: default
 |走出毛澤東的陰影（*Out of Mao's Shadow*）|新世紀|潘公凱（Philip P. Pan）|9789881329615
 |[野心時代：在新中國追求財富、真相和信仰（Age of Ambition: Chasing Fortune, Truth and Faith in the New China）]()|八旗文化|歐逸文（Evan Osnos）、譯者：潘勛|9789865842475
 |野草：底層中國的緩慢革命（苛稅、胡同和法輪功：底層中國的緩慢革命）（*Wild Grass: Three Portraits of Change in Modern China*）|八旗文化|張彥（Ian Jounson），譯者：吳美真|9789869356244（9789868845428）
-|中國的靈魂 後毛澤東時代的宗教復興（*The Souls of China: The Return of Religion After Mao*）|八旗文化|張彥（Ian Jounson），譯者：廖彥博|9789578654495
+|中國的靈魂：後毛澤東時代的宗教復興（*The Souls of China: The Return of Religion After Mao*）|八旗文化|張彥（Ian Jounson），譯者：廖彥博|9789578654495
 |失去新中國：美商在中國的理想與背叛|博大|伊森‧葛特曼（Ethan Gutmann）、譯者：丁柯|1932674217
 |[當十億中國人一起跳（When a Billion Chinese Jump—How China Will Save Mankind or Destroy It）](https://book.douban.com/subject/5502980/)|天下雜誌|華衷（Jonathan Watts）、譯者：李芳齡|9789862412077
 |謊言帝國：中國雞年紀行（*L'Année du Coq*）|允晨文化|索爾孟（Guy Sorman）、譯者：許益源|9867178262
@@ -531,6 +532,8 @@ layout: default
 |近代史的墮落：民國文人卷|八旗文化|劉仲敬|9789578654174
 |香港簡史：從殖民地至特別行政區（*A Concise History of Hong Kong*）|中華書局|高馬可（John M. Carroll）、译者：林立偉|9789888263202
 |社運年代：香港抗爭政治的軌跡|香港中文大學|鄭煒、袁瑋熙 編|9789882370661
+|自由六月：2019年香港「反送中」與自由運動的開端|新銳文創|22 Hongkongers|9789578924697
+|二十道陰影下的自由：香港新聞審查日常|香港中文大學|區家麟|9789629967703
 |七月圍城（2003-2013）|新世紀|蔡詠梅、劉懷昭|9789881557155
 |香港民族論|香港大學學生會|梁繼平、王俊傑、曹曉諾、李啟迪、吳叡人、練乙錚、孔誥烽、徐承恩、蘇賡哲|[9789881363107](https://www.goodreads.com/book/show/24681152)
 |憲政．中國：從現代化及文化轉變看中國憲政發展|香港大學|戴耀廷|9789888083916
@@ -586,6 +589,7 @@ layout: default
 |史明口述史(共三冊)|行人|史明口述訪談小組|9789868823693
 |大拋錨？！中國號超級拼裝巴士駛向何方？|八旗文化|范疇|9789868790681
 |與習近平聊聊台灣和中國|八旗文化|范疇|9789865842727
+|中共百年：看習近平十年|新銳文創|洪耀南|9789869545204
 |台灣政府閉口不提的中國戰力報告：解放軍打算如何攻下台灣？台海為何是中、美、日的最主要戰場？（中国の戦争力）|大是文化|小川和久、西恭之、譯者：郭凡嘉|9789865770914
 |被囚禁的臺灣|亞太政治哲學文化出版有限公司|袁紅冰|9789868971868
 |決戰2016：創建台灣共和國|亞太政治哲學文化出版有限公司|袁紅冰|9789869086790
@@ -967,8 +971,10 @@ layout: default
 |極端十年：中國文化大革命全過程分析（*The extreme decade : 1966-1976 in China*）|明鏡|柯雲路|9781932138504
 |*China's Cultural Revolution As History*|Stanford University Press|Joseph W. Esherick, Paul G. Pickowicz, Andrew G. Walder (Eds.)|9780804753494
 |嚼火不息：文革民間思想研究筆記(兩卷本)|牛津大學|錢理群|9780190820510
+|極端年代的公民政治：群眾的文化大革命史|中國文化傳播出版社|童小溪|[9789881970381](https://library.proletarian.me/download.php?link=My-library%2FTong+Xiao+Xi%2FJi+Duan+Nian+Dai+De+Gong+Min+Zheng+Zhi+%2528467%2529%2FJi+Duan+Nian+Dai+De+Gong+Min+Zheng+Zhi+-+Tong+Xiao+Xi.pdf&book=%E6%A5%B5%E7%AB%AF%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%85%AC%E6%B0%91%E6%94%BF%E6%B2%BB)
 |文革時期中國農村的集體殺戮（*Collective Killings in Rural China during the Cultural Revolution*）|香港中文大學|蘇陽、譯者：宋熙|9789629965761
 |失蹤者的足跡：文化大革命期間的青年思潮|香港中文大學|印紅標|9789629963897
+|文革中的公民權競爭與集體暴力（文化大革命と中国の社会構造：公民権の配分と集団的暴力行為）|香港中文大學|楊麗君、譯者：趙曉靚|9789882370807
 |崇拜毛：文化大革命中的言辭崇拜與儀式崇拜（*Mao Cult: Rhetoric and Ritual in China's Cultural Revolution*）|香港中文大學|丹尼爾‧里斯（Daniel Leese）、譯者：秦禾聲、高康、楊雯琦、校：唐少傑|9789629967987
 |文革文鬥：文化大革命時期中國文化喧囂怪狀|海馬|鄭光路|9780966542189
 |毛沢東最高指示 : プロレタリア文化大革命期の発言|三一書房|新島淳良 編|1031702003-2726
@@ -1077,6 +1083,7 @@ Jude Blanchette|9780190605841
 |*La rivoluzione culturale in Cina. Ovvero il Convitato di pietra*|Bompiani|Alberto Moravia|9788845273018
 |受苦人的講述：驥村歷史與一種文明的邏輯|香港中文大學|郭于華|9789629965433
 |中國農民反行為研究（1950─1980）|香港中文大學|高王凌|9789629965754
+|毛澤東的新世界：中華人民共和國初期的政治文化（*Mao's New World : Political Culture in the Early People's Republic*）|香港中文大學|洪長泰、譯者：麥惠嫻|9789882371286
 |高家村：共和國農村生活素描（*Gao Village: Rural Life in Modern China*）|香港中文大學|高默波|9789629965587
 |中國佛教的社會主義改造|香港中文大學|學愚|9789629966027
 |身份和差異：1945-1965年中國社會的政治分層|香港中文大學香港亞太研究所|高華|9789624417173
