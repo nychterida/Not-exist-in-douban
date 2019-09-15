@@ -765,6 +765,7 @@ layout: default
 |真实的朝鲜|天津教育出版社|叶永烈|9787530951330
 |我與中共和柬共 赤色華人解秘：柬共如何興亡 (第二版)|田園書屋|周德高 筆述、朱學淵 撰寫|9623390688
 |無聲的入侵：中國因素在澳洲（*Silent Invasion: China’s Influence in Australia*）|左岸文化|克萊夫．漢密爾頓（Clive Hamilton）、譯者：江南英|9789865727833
+|茉莉花開：中東革命與民主路|圓桌文化|陳婉容|9789888270750
 |中國的第二個大陸：百萬中國移民如何在非洲投資新帝國（*China’s Second Continent: How a Million Migrants Are Building a New Empire in Africa*）|麥田|傅好文（Howard W. French）、譯者：李奧森|9789863441830
 |毛主義革命：二十世紀的中國與世界|田園書屋|程映虹|9623390718
 |站上十三億人的頂端：習近平掌權之路（十三億分の一の男 中国皇帝を巡る人類最大の権力闘争）|聯經|峯村健司，譯者：蘆荻|9789570846829
@@ -791,6 +792,8 @@ layout: default
 |毛澤東：真實的故事（*Mao: The Real Story*）（毛泽东传（插图本）（*МАО：ВЕЛИКИЙ КОРМЧИЙ»И ЕГО ЭПОХА*））|聯經（中国人民大学出版社）|亞歷山大‧潘佐夫（Alexander V. Pantsov）、梁思文（Steven I. Levine），譯者：林添貴（卿文辉、崔海智、周益跃 ）|9789570845532（9787300215143）
 |毛澤東時代和後毛澤東時代（1949-2009）：另一種歷史書寫|聯經|錢理群|上：9789570839241，下：9789570839258
 |毛主義的誕生：中國共產革命之路（*Mao Zedong*）|衛城出版|馬思樂（Maurice Meisner），譯者：溫洽溢|9789868816022
+|毛沢東―実践と思想|岩波書店|近藤邦康|9784000252904
+|China Under Mao: A Revolution Derailed|Harvard University Press|Andrew G. Walder|9780674975491
 |毛泽东的早年与晚年|贵州人民出版社|李锐|9787221028525
 |毛澤東的功過是非|天地圖書|李锐|9789622576605
 |李銳談毛澤東|時代國際|李锐|9789889828226
@@ -1034,6 +1037,7 @@ Jude Blanchette|9780190605841
 |暴風雨的記憶：1965－1970年的北京四中(增訂版)|牛津大學|主編：北島、曹一凡、維一|9780193964860（9780190476540） 
 |一叶知秋：清华大学1968年“百日大武斗”|香港中文大學|唐少傑|9789629961268
 |紅色工程師的崛起：清華大學與中國技術官僚階層的起源（*Rise of the Red Engineers: The Cultural Revolution and the Origins of China's New Class*）|香港中文大學|安舟（Joel Andreas）、譯者：何大明|9789629967963
+|Hundred Day War: The Cultural Revolution at Tsinghua University|Monthly Review Press|William Hinton|9780853452812
 |*Fractured Rebellion: The Beijing Red Guard Movement*|Harvard University Press|Andrew G. Walder|9780674064133
 |革命造反年代：上海文革運動史稿|牛津大學|李遜|9780199441686
 |理性與瘋狂：文化大革命中的群衆（*Failure of Charisma: The Cultural Revolution in Wuhan*）|牛津大學|王紹光、译者：燕青山、易飞先、张爱茹|9780195860221 
