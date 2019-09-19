@@ -729,12 +729,16 @@ layout: default
 |China's Human Rights Lawyers: Advocacy and Resistance|Routledge|Eva Pils|9780415870849
 |致命中國：中共赤龍對人類社會的危害|博大|彼得．那法若（Peter Navarro）、安一鳴（Greg Autry）、譯者：葉淑貞等|9789868897625
 |三十年備忘錄（修訂版）|開放|金鐘 編|9789627934608
+|暴政：掌控關鍵年代的獨裁風潮，洞悉時代之惡的20堂課（*On Tyranny: Twenty Lessons from the Twentieth Century*）|聯經|提摩希‧史奈德（Timothy Snyder）、譯者：劉維人|9789570853049
 |出賣中國：權貴資本主義的起源與共產黨政權的潰敗（*China’s Crony Capitalism: The Dynamics of Regime Decay*）|八旗文化|裴敏欣，譯者：梁文傑|9789869486583
 |從鄧小平到習近平（*Following the Leader Ruling: China, From Deng Xiaoping to Xi Jinping*）|遠流|大衛‧藍普頓（David M. Lampton）、譯者：林添貴|9789573276593
 |中國共產黨不可說的秘密（*The Party: The Secret World of China’s Communist Rulers*）|聯經|馬利德（Richard McGregor）、譯者：樂為良|9789570838749
 |完美的獨裁：二十一世紀的中國（*The Perfect Dictatorship: China in the 21st Century*）|左岸文化|斯坦．林根（Stein Ringen）、譯者：薛青詩|9789865727482
 |主宰中國的太子黨（*Les fils de princes: Une génération au pouvoir en Chine*）|聯經|杜明（Jean-Luc Domenach），譯者：何啟仁|9789570851809
+|紅旗警訊：習近平執政的中國為何陷入危機（*Red Flags: Why Xi’s China is in Jeopardy*）|時報|馬格納斯（George Magnus）、譯者：袁立山|9789571378800
+|赤裸裸的共產黨：共產主義如何危害自由世界（*The Naked Communist: Exposing Communism and Restoring Freedom*）|八旗文化|柯立安‧斯考森（W. Cleon Skousen）、譯者：潘勛|9789578654785
 |權力的劇場：中共黨代會的制度運作|香港中文大學|吳國光，譯者：趙燦|9789882370562
+|共產主義簡史：從血堆裡建立起來的理想國（*Communism: A Brief History*）|左岸文化|理查．皮佩斯（Richard Pipes）、譯者：蔡東杰|9867854586
 |九評共產黨（十周年紀念版）|博大|大紀元系列社論|1932674160（9789868897656）
 |共產主義的終極目的：中國篇|博大|《九評》編輯部|9789869264266
 |魔鬼在統治著我們的世界|博大|九評編輯部|9789869264280
@@ -1101,6 +1105,7 @@ Jude Blanchette|9780190605841
 |毛澤東和彭德懷、林彪的合作與衝突 1954-1971|新新聞文化|齊茂吉|9578591799
 |誰逼走林彪|哈耶|新史記編輯部|9781936043224
 |林彪元帥最新相册|明鏡|舒雲|9781935981312
+|The Culture of Power: The Lin Biao Incident in the Cultural Revolution|Stanford University Press|Qiu Jin|9780804735292
 |《毛主席語錄》的誕生及其他：唐平鑄文革實錄|香港中文大學|唐炎明、唐亞明|9789882370692
 |「文革」造反派真相|田園書屋|周倫佐|9623390637
 |開，南風氣窗：十年文革前後大逃亡港澳紀實|開放|蔡可風|9627934488
@@ -1146,6 +1151,7 @@ Jude Blanchette|9780190605841
 |李锐日记: 1946-1979|溪流|李南央|一（1946-1955）：9781933447292、二（1960-1965）：9781933447308、三（1966-1979）：9781933447315
 |李銳新政見：何時憲政大開張|天地圖書|李銳|9789882191105
 |解放的悲劇：中國革命史 1945-1957（*The Tragedy of Liberation: A History of the Communist Revolution, 1945–1957*）|聯經|馮客（Frank Dikötter）、譯者：蕭葉|9789570850895
+|林希翎自選集|林希翎|順景書局|
 |拒絕遺忘：“1957年學”研究筆記|牛津大學|錢理群|9780195496598
 |五十年後重評「反右」：中國當代知識份子的命運|田園書屋|丁抒 編|9623390696
 |從「土改」到「反右」：吳奔星一九五○年代日記|獨立作家|吳奔星9789865729059
