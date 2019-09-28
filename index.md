@@ -9,10 +9,12 @@ layout: default
 
 |电影|年代|导演|IMDB
 |---|---|---|---
+|返校|2019|徐漢強|[Detention](https://www.imdb.com/title/tt10805432/)
 |出租车司机|2017|张勋（장훈）|[A Taxi Driver](https://www.imdb.com/title/tt6878038/)
 |1987：黎明到来的那一天|2017|张俊焕（장준환）|[1987: When the Day Comes](https://www.imdb.com/title/tt6493286/)
 |樹大招風|2016|許學文、歐文傑、黃偉傑|[Trivisa](https://www.imdb.com/title/tt4379800/)
 |凛冬烈火：乌克兰为自由而战|2016|叶夫根尼·艾菲尼夫斯基|[Winter on Fire: Ukraine's Fight for Freedom](https://www.imdb.com/title/tt4908644/)
+|自助洗衣店（The Laundromat）|2019|史蒂文·索德伯格（Steven Soderbergh）|[The Laundromat](https://www.imdb.com/title/tt5865326/)
 |悲兮魔兽|2015|赵亮|[Plastic China](https://www.imdb.com/title/tt4901304/)
 |天注定|2013|贾樟柯|[A Touch of Sin](https://www.imdb.com/title/tt2852400/)
 |昂山素季|2011|吕克贝松|[The Lady](https://www.imdb.com/title/tt1802197/)
@@ -279,6 +281,7 @@ layout: default
 1. [品葱：有哪些豆瓣上不存在（被封杀）的电影名单？](https://www.pin-cong.com/p/46356/?s=52259)
 2. [维基百科：中华人民共和国被禁影视作品列表](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A2%AB%E7%A6%81%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8)
 3. [imdb 豆瓣无条目/无法标记](https://www.imdb.com/list/ls023736798/)
+4. [決絕---1997年年以來的中國獨立紀錄片展映](http://www.usc.cuhk.edu.hk/activities/summer-film-screening)
 
 ## 书籍
 
@@ -288,27 +291,44 @@ layout: default
 |尘世·挽歌|新星出版社|野夫|9787802258990
 |門後的守望者|南方家園|野夫|9789868831452
 |乡关何处：故乡 故人 故事|中信出版社|野夫|9787508632971
-|一滴淚：從肅反到文革的回憶（*A Single Tear*）|允晨文化|巫宁坤|9789867178398
 |上海生死劫（台版全本：上海生與死）/[*Life and Death in Shanghai*](https://www.goodreads.com/book/show/537404.Life_and_Death_in_Shanghai)）|百家出版社（新陸書局）|郑念，译者：方耀君、郑培君、方耀楣（譯者：陳小安、曾國清）|7900000011（9789869449762）
 |[燃灯者：忆周辅成](https://book.douban.com/subject/6795725/)|湖南文艺出版社|[法]赵越胜|9787540450809（中国文史增补978750347471，牛津大學9780193961289）
+|[尋找家園](https://book.douban.com/subject/4189980/)|印刻文學生活雜誌出版有限公司|高爾泰|9789866377228
 |一个普通中国人的家族史|中国广播出版社|国亚|9787504344311
 |往事何堪哀|长江文艺出版社|王彬彬|9787535431332
 |我反对：一个人大代表的参政传奇|海南出版社|朱凌|9787544318488
 |风云侧记：我在人民日报副刊的岁月|中国档案出版社（明報）|袁鷹|7801667506（9789628959075）
+|思痛錄|天地|韋君宜|9789629932800
+|陳永貴：毛澤東的農民|時代國際|吳思|9789881914224
+|血酬定律中國歷史上的生存遊戲|究竟|吳思|9789861371207
+|潛規則：中國歷史上的進退遊戲|究竟|吳思|9789861371160
 |十個詞彙裡的中國|麥田|余華|9789861204772
 |姜文的前世今生：鬼子來了|新銳文創|啓之|9789866094101
-|The Great Firewall of China:How to Build and Control an Alternative Version of the Internet|Zed Books|James Griffiths|[1786995352](https://www.goodreads.com/book/show/42585634-the-great-firewall-of-china)
+|暴政：掌控關鍵年代的獨裁風潮，洞悉時代之惡的20堂課（*On Tyranny: Twenty Lessons from the Twentieth Century*）|聯經|提摩希‧史奈德（Timothy Snyder）、譯者：劉維人|9789570853049
+|*The Great Firewall of China: How to Build and Control an Alternative Version of the Internet*|Zed Books|James Griffiths|[1786995352](https://www.goodreads.com/book/show/42585634-the-great-firewall-of-china)
+|抉擇 1949：中國知識分子的私人記錄|八旗文化|傅國涌|9789868563254
+|大國空巢：走入歧途的中國計劃生育|大風|易富賢|9789889972530
+|獨生：中國最激進的社會工程實驗（*One Child: The Story of China’s Most Radical Experiment*）|衛城出版|方鳳美（Mei Fong）9789869533461
+|罪在當代 遺禍千秋——中國計劃生育政策實施三十周年研究報告|勞改基金會|吳弘達、沈括|931550573
+|她們的征途：直擊、迂迴與衝撞，中國女性的公民覺醒之路|八旗文化|趙思樂|9789869516884
+|民以何食為天|開益|周勍|9789881771087
 |纳粹德国的腐败与反腐|译林出版社|弗兰克·巴约尔（译者：陆大鹏）|9787544754750
 |违宪审查与民主制的平衡：一项比较研究|中国社会科学出版社|翟桔红|9787516113943
+|知我者謂我心憂：十年觀察與思考1999-2008|星克爾|錢理群|9789889945633
 |过去与未来之间（*Between Past and Future*）|译林出版社|汉娜•阿伦特（Hannah Arendt）、译者：王寅丽、张立立|9787544720779
 |哈維爾選集|基進出版社|瓦茨拉夫·哈维尔（Václav Havel）|9789578900318
 |無權力者的權力|左岸文化|瓦茨拉夫·哈维尔（Václav Havel）、譯者：崔衛平 等|986785425X
+|大工地上：中國農民工之歌|商務印書館（香港）有限公司|潘毅、盧暉臨、張慧鵬|9789620764547
+|中國女工：新興打工階級的呼喚（*Made In China: Women Factory Workers In a Global Workplace*）|明報（九州出版社）（Duke University Press）|潘毅（Pun Ngai）|9789628958252（9787510807848）（9781932643008）
+|富士康辉煌背后的连环跳|商務印書館(香港)有限公司|潘毅、盧暉臨、郭于華、沈原|9789620764639
 |合法性的政治：當代中國的國家與社會關係（平裝版）（二版）|國立臺灣大學出版中心|趙鼎新|[9789863503101](https://library.proletarian.me/download.php?link=books%2F263d982f0c5df15cd8e7cd9ba71a7c52.pdf)
+|中國農民調查之小崗村的故事|發言權|陳桂棣、春桃|9789868528314
+|中国农民调查|人民文学出版社（大地）|陈桂棣、春桃|9787020044368（9789867480194）
 |[定西孤儿院纪事](https://book.douban.com/subject/26671188/)|花城出版社|杨显惠|9781780421834
-|一滴淚：從肅反到文革的回憶|允晨文化|巫寧坤|9789867178398
+|一滴淚：從肅反到文革的回憶（*A Single Tear*）|允晨文化|巫宁坤|9789867178398
 |暴風雨中一羽毛：動亂中失去的童年|明報出版社|巫一毛|9789628958245
 |往事并不如烟|人民文学出版社（時報）（牛津大學《最后的贵族》）（修訂版）|章怡和|9787020044405（9789571342108）（9780190975029）（9789571362090）
-|伶人往事：写给不看戏的人看|湖南文艺出版社（時報）（明報出版社）（增訂版）|章怡和|9787540438173（9571345199）（9628918370）（9789571362113）
+|伶人往事：写给不看戏的人看|湖南文艺出版社（時報）（明報）（增訂版）|章怡和|9787540438173（9571345199）（9628918370）（9789571362113）
 |一阵风，留下了千古绝唱：戏里戏外马连良|长江文艺（時報）|章怡和|9787535429209（9789571342665）
 |雲山幾盤，江流幾灣（順長江，水流殘月）|時報（牛津大学）|章詒和|9789571347752（9780195496369）
 |这样事和谁细讲|時報（牛津大學）（修訂版）|章詒和|9789571351193（9780198019299）（9789571362137）
@@ -420,17 +440,19 @@ layout: default
 |偽裝的盛世|八旗文化|許知遠|9789868845459
 |秦城國史：中共第一監獄史話|新世紀|袁凌|9789881329585
 |秦城監獄：中國的政治監獄|勞改基金會|吳弘達|9781931550567
-|天安門：中國的知識分子與革命（*The Gate of Heavenly Peace: Chinese and Their Revolution, 1895-1980*）|時報|史景迁（Jonathan D. Spence）|译者：溫洽溢|9789571366241
+|天安門：中國的知識分子與革命（*The Gate of Heavenly Peace: Chinese and Their Revolution, 1895-1980*）|時報|史景迁（Jonathan D. Spence）、译者：溫洽溢|9789571366241
 |八十年代訪談錄|牛津大學|查建英|9780195484038
 |弄潮兒（*Tide Players : The Movers and Shakers of a Rising China*）|牛津大學|查建英|9780198002093
 |中國波普（*China Pop*）|牛津大學|查建英、譯者：李家真|9780190486402
 |驚蟄·中國（*China Wakes: The Struggle for the Soul of a Rising Power*）|智庫股份有限公司|紀思道（Nicholas Kristof）、伍潔芳（Sheryl WuDunn）、譯者：陳妙香|9789579553209
+|低端人口：中國，是地下這幫鼠族撐起來的（*Le peuple des rats: Dans les sous-sols interdits de la Chine*）|聯經|派屈克‧聖保羅（Patrick Saint-Paul），譯者：陳文瑤|9789570851090
 |[甲骨文：一次占卜當代中國的旅程（*Oracle Bones, A Journey Through Time In China*）](https://book.douban.com/subject/6539859/)|八旗文化|何偉（Peter Hessler）、譯者：盧秋瑩|9789868727519
 |走出毛澤東的陰影（*Out of Mao's Shadow*）|新世紀|潘公凱（Philip P. Pan）|9789881329615
-|[野心時代：在新中國追求財富、真相和信仰（Age of Ambition: Chasing Fortune, Truth and Faith in the New China）]()|八旗文化|歐逸文（Evan Osnos）、譯者：潘勛|9789865842475
+|[野心時代：在新中國追求財富、真相和信仰（*Age of Ambition: Chasing Fortune, Truth and Faith in the New China*）]()|八旗文化|歐逸文（Evan Osnos）、譯者：潘勛|9789865842475
 |野草：底層中國的緩慢革命（苛稅、胡同和法輪功：底層中國的緩慢革命）（*Wild Grass: Three Portraits of Change in Modern China*）|八旗文化|張彥（Ian Jounson），譯者：吳美真|9789869356244（9789868845428）
 |中國的靈魂：後毛澤東時代的宗教復興（*The Souls of China: The Return of Religion After Mao*）|八旗文化|張彥（Ian Jounson），譯者：廖彥博|9789578654495
-|失去新中國：美商在中國的理想與背叛|博大|伊森‧葛特曼（Ethan Gutmann）、譯者：丁柯|1932674217
+|*The Shanghai Free Taxi: Journeys with the Hustlers and Rebels of the New China*|PublicAffairs|Frank Langfitt|9781610398145
+|失去新中國：美商在中國的理想與背叛（*Losing the New China: A Story of American Commerce, Desire And Betrayal*）|博大|伊森‧葛特曼（Ethan Gutmann）、譯者：丁柯|1932674217
 |[當十億中國人一起跳（When a Billion Chinese Jump—How China Will Save Mankind or Destroy It）](https://book.douban.com/subject/5502980/)|天下雜誌|華衷（Jonathan Watts）、譯者：李芳齡|9789862412077
 |謊言帝國：中國雞年紀行（*L'Année du Coq*）|允晨文化|索爾孟（Guy Sorman）、譯者：許益源|9867178262
 |[中国，特色](https://book.douban.com/subject/25941656/)|当代中国出版社|雷克|9787515404882
@@ -453,7 +475,7 @@ layout: default
 |中國共產革命七十年（修訂版上下）|聯經|陳永發|9570822732
 |中國現代思想的起源：超穩定結構與中國政治文化的演變（第一卷）|香港中文大學|金觀濤、劉青峰|9789622019195
 |觀念史研究：中國現代重要政治術語的形成|香港中文大學|金觀濤、劉青峰|9789881756312
-|中國・歷史的長河，第十二卷：巨龍的胎動——毛澤東、鄧小平與中華人民共和國（巨龍の胎動：毛沢東VS鄧小平）|台灣商務|天兒慧，譯者： 廖怡錚|9789570530612
+|中國・歷史的長河，第十二卷：巨龍的胎動——毛澤東、鄧小平與中華人民共和國（巨龍の胎動：毛沢東VS鄧小平）|台灣商務|天兒慧，譯者：廖怡錚|9789570530612
 |這才是真實的中國史：來自日本右翼史家的觀點（真実の中国史（1840-1949））|八旗文化|宮脇淳子、岡田英弘、譯者：王章如|9789865842666
 |這才是真實的滿洲史：中日滿糾纏不已的「東北」如何左右近代中國（真実の滿洲史（1894-1956））|八旗文化|宮脇淳子、譯者：郭婷玉|9789865842710
 |晚清七十年（全套；一：中國社會文化轉型綜論、二：太平天國、三：甲午戰爭與戊戌變法、四：義和團與八國聯軍、五：袁世凱,孫文與辛亥革命）|遠流|唐德剛|9789573235101
@@ -461,10 +483,11 @@ layout: default
 |邓小平时代：中国改革开放二十年纪实|中央编译出版社|杨继绳|7801093062
 |被埋葬的中國共產黨史：國民黨不提起的那些事，如何改變了中(華民)國的命運？|大是文化|譚璐美、譯者：潘承瑤|9789866037887
 |消失的「國民」：近代中國「少數民族」的國家認同與民族認同|香港中文大學|王柯|9789629966515
-|蒙古騎兵在西藏揮舞日本刀：蒙藏民族的時代悲劇（チベットに舞う日本刀 モンゴル騎兵の現代史|大塊文化|楊海英、譯者：吉普呼蘭|9789862137864
+|蒙古騎兵在西藏揮舞日本刀：蒙藏民族的時代悲劇（チベットに舞う日本刀 モンゴル騎兵の現代史）|大塊文化|楊海英、譯者：吉普呼蘭|9789862137864
 |在中國與蒙古的夾縫之間：一個蒙古人未竟的民族自決之夢（中囯とモンゴルのはざまで：ウラーンフーの実らなかった民族自決の夢）|八旗文化|楊海英|9789578654235
 |文明的遊牧史觀：一部逆轉的大中國史（逆転の大中国史―ユーラシアの視点から）|八旗文化|楊海英、譯者：鄭天恩|9789578654587
 |自由在落日中（新編版）|亞太政治哲學文化出版有限公司|袁紅冰|9789869373999
+|西藏现代史1951–1955：暴风雨之前的平静（*A History of Modern Tibet 1951–1955: The Calm Before the Storm*）|香港大學|Melvyn Goldstein、译者：吴继业|9789888139699
 |天葬：西藏的命运|大塊文化|王力雄|[9789862131077](https://www.goodreads.com/book/show/9335765)
 |龍在雪域：一九四七年後的西藏(*The Dragon in the Land of Snows: A History of Modern Tibet Since 1947*）|左岸文化|茨仁夏加(Tsering Shakya)、譯者：謝惟敏|9789866723490
 |平等團結路漫漫：對我國民族關係的反思|新世紀|平措汪杰（平汪）（Bapa Phüntso Wangye）|9789881557193
@@ -534,6 +557,7 @@ layout: default
 |金色的聖山（最新增訂版）|亞太政治哲學文化出版有限公司|袁紅冰|9789868971806
 |*Xinjiang and the Modern Chinese State*|University of Washington Press|Justin M. Jacobs|9780295995656
 |*The Uyghurs: Strangers in Their Own Land*|Columbia University Press|Gardner Bovingdon|9780231147583
+|*Negotiating Inseparability in China The Xinjiang Class and the Dynamics of Uyghur Identity*|Hong Kong University Press|Timothy Grose|9789888528097
 |東突厥斯坦獨立運動：1930年代至1940年代|香港中文大學出版社|王柯|9789629965006
 |躁動的新疆, 不安的維吾爾（*China's Forgotten People: Xinjiang, Terror and the Chinese State*）|光現出版|尼克·霍史達克（Nick Holdstock）、譯者：許庫爾|[9789869620246](https://www.goodreads.com/book/show/40949616)
 |我的西域，你的東土|大塊文化|王力雄|[9789862130117](https://www.goodreads.com/book/show/7906957)
@@ -547,6 +571,7 @@ layout: default
 |香港簡史：從殖民地至特別行政區（*A Concise History of Hong Kong*）|中華書局|高馬可（John M. Carroll）、译者：林立偉|9789888263202
 |社運年代：香港抗爭政治的軌跡|香港中文大學|鄭煒、袁瑋熙 編|9789882370661
 |自由六月：2019年香港「反送中」與自由運動的開端|新銳文創|22 Hongkongers|9789578924697
+|佔領論：從巴黎公社到佔領中環|圓桌精英|許煜|[9789881545350](https://www.academia.edu/7468965/%E4%BD%94%E9%A0%98%E8%AB%96_%E5%BE%9E%E5%B7%B4%E9%BB%8E%E5%85%AC%E7%A4%BE%E5%88%B0%E4%BD%94%E9%A0%98%E4%B8%AD%E7%92%B0)
 |二十道陰影下的自由：香港新聞審查日常|香港中文大學|區家麟|9789629967703
 |七月圍城（2003-2013）|新世紀|蔡詠梅、劉懷昭|9789881557155
 |香港民族論|香港大學學生會|梁繼平、王俊傑、曹曉諾、李啟迪、吳叡人、練乙錚、孔誥烽、徐承恩、蘇賡哲|[9789881363107](https://www.goodreads.com/book/show/24681152)
@@ -586,14 +611,15 @@ layout: default
 |大江東去：司徒華回憶錄|牛津大學|司徒華|9780193975910
 |我與香港地下黨 (增訂本)|開放|梁慕嫻|9627934313
 |香港的第三條道路：莫昭如的安那其民眾戲劇|手民出版社|楊慧儀|9789881423375
-|Civil Unrest and Governance in Hong Kong: Law and Order from Historical and Cultural Perspectives|Routledge|Edited by Michael H. K. Ng, John D Wong|pbk:9780367141912,hbk:9781138689978
+|獨立路上：從前蘇聯省思香港未來|新銳文創|梁啟智|9789869486446
+|*Civil Unrest and Governance in Hong Kong: Law and Order from Historical and Cultural Perspectives*|Routledge|Edited by Michael H. K. Ng, John D Wong|pbk:9780367141912,hbk:9781138689978
 |民主推進器：兩岸三地的公民社會|獨立作家|蘇佳善|9789869006293
 |蔣介石與現代中國的奮鬥（*The Generalissimo: Chiang Kai-shek and the Struggle for Modern China*）|時報|陶涵（Jay Taylor）、譯者：林添貴|9789571351728
 |民主台灣：後威權時代的社會運動與文化政治|香港中文大學|莊雅仲|9789629965921
 |台灣的中國兩難：台灣認同下的兩岸經貿困境（*Taiwan’s China Dilemma: Contested Identities and Multiple Interests in Taiwan’s Cross-Strait Economic Policy*）|商周出版|林夏如（Syaru Shirley Lin）、譯者：陳方隅、林添貴|9789864776290
 |台灣獨立運動史|玉山|陳佳宏|9867375785
-|太陽花之後(思想27)|聯經|思想編輯委員會|9789570844993
-|學運世代：從野百合到太陽花(全新增訂版)|時報|何榮幸9789571360188
+|太陽花之後（思想27）|聯經|思想編輯委員會|9789570844993
+|學運世代：從野百合到太陽花（全新增訂版）|時報|何榮幸|9789571360188
 |這不是太陽花學運：318運動全記錄|允晨文化|晏山農、羅慧雯、梁秋虹、江昺崙、策劃：小英教育基金會想想論壇、繪者：陳宜謙|9789865794347
 |從我們的眼睛看見島嶼天光：太陽花運動，我來，我看見|有鹿文化|小野、柯一正、范雲、余永寬、太陽花運動史料小組、學運參與者、林飛帆、林傳凱、邱毓斌、黃國昌、蔡培慧、謝芮娣、許悔之|9789866281747
 |革命的做法：從318太陽花看公民運動的創造性（革命のつくり方 台湾ひまわり運動―対抗運動の創造性）|心靈工坊|港千尋（Minato Chihiro）、譯者：林暉鈞|9789863570257
@@ -601,11 +627,12 @@ layout: default
 |這些太陽花學生教我們的事：24堂街頭上的民主課|費邊社文創有限公司|葉柏祥|9789869005371
 |野生的太陽花|玉山社|黃恐龍|9789862940921
 |台灣生死書：自己的國家自己救|亞太政治哲學文化出版有限公司|袁紅冰|9789868971875
-|史明口述史(共三冊)|行人|史明口述訪談小組|9789868823693
+|史明口述史（共三冊）|行人|史明口述訪談小組|9789868823693
 |大拋錨？！中國號超級拼裝巴士駛向何方？|八旗文化|范疇|9789868790681
 |與習近平聊聊台灣和中國|八旗文化|范疇|9789865842727
 |中共百年：看習近平十年|新銳文創|洪耀南|9789869545204
 |台灣政府閉口不提的中國戰力報告：解放軍打算如何攻下台灣？台海為何是中、美、日的最主要戰場？（中国の戦争力）|大是文化|小川和久、西恭之、譯者：郭凡嘉|9789865770914
+|返校：惡夢再續|尖端|赤燭股份有限公司、笭菁|9789571071701
 |被囚禁的臺灣|亞太政治哲學文化出版有限公司|袁紅冰|9789868971868
 |決戰2016：創建台灣共和國|亞太政治哲學文化出版有限公司|袁紅冰|9789869086790
 |台灣大國魂（新編版）|亞太政治哲學文化出版有限公司|袁紅冰|9789869086714
@@ -654,6 +681,7 @@ layout: default
 |自由荊冠：劉曉波與諾貝爾和平獎|晨鐘|陳奎德、夏明 編|9789881953933
 |同時代人：劉曉波紀念詩集|海浪文化|廖亦武、鴻鴻、楊小濱、廖偉棠、柴春芽|9789881644121
 |劉霞詩選|傾向|劉霞|9789868820456
+|Liu Xiaobo, Charter 08 and the Challenges of Political Reform in China|Hong Kong University Press|Edited by Jean-Philippe Béja, Fu Hualing, and Eva Pils|9789888139071
 |若為自由故：劉賢斌文選|勞改基金會|劉賢斌|9781931550024
 |第三共和：未來中國的選擇|時報|嚴家其|957130509X
 |聯邦中國構想|明報（聯經）|嚴家其|9623574320（9570808543）
@@ -665,7 +693,7 @@ layout: default
 |歧路中國|聯經|王超華 編|9570827165
 |遞進民主|大塊文化|王力雄|9867291832
 |權民一體論：遞進自組織社會|大塊文化|王力雄|9789862137383
-|推銷中共: 中宣部運作：讓黨繼續掌權|明鏡|安瑪麗.布雷迪（Anne-Marie Brady）|9781630328276
+|推銷中共：中宣部運作：讓黨繼續掌權|明鏡|安瑪麗.布雷迪（Anne-Marie Brady）|9781630328276
 |紅色滲透：中國媒體全球擴張的真相|八旗文化|何清漣|9789578654471
 |中國：崩而不潰|八旗文化|何清漣、程曉農|9789869541879
 |霧鎖中國：中國大陸控制媒體策略大揭密|黎明文化|何清漣|9789571607603
@@ -681,6 +709,9 @@ layout: default
 |茉莉花在中國（全套）：鎮壓與迫害實錄|允晨文化|華澤|9789869177931
 |政治維納斯：從一無所有到中國民主|晨鐘書局|夏明|9789881953995
 |關於近現代中國路徑選擇的思考：朱厚澤文選|溯源|朱厚澤|9789881644251
+|國家理性與優良政體：關於「中國問題」的「中國意識」|香港城市大學|許章潤|9789629373092
+|政體與文明：立國‧立憲‧立教‧立人|香港城市大學|許章潤|9789629372866
+|人間不是匪幫|牛津大學|許章潤|9780190989453
 |[民憲論：民國憲法釋疑、要義與中國大陸憲政制度展望](https://web.archive.org/web/20170305201609/http://huanghuagang.org/minxianlun/minxianlun.pdf)|開放出版社|丁毅|
 |亞洲憲政啟示錄|新世紀|曹思源|9789881329509
 |解構與建設：中國民主轉型縱橫談|晨鐘|張博樹|9789881780478
@@ -713,11 +744,13 @@ layout: default
 |敵人是怎樣煉成的：沒有權利沉默的中國人|時報|寇延丁|9789571367859
 |九一憶往|新世紀|于浩成|9789881329585
 |從王實味到劉曉波：中國當代文字獄囚徒編年錄(1947-2010年)(第一卷)|自由文化|張裕|9789868820425
+|*Censored: Distraction and Diversion Inside China's Great Firewall*|Princeton University Press|Margaret E. Roberts|(Hardcover 2018)9780691178868, (Paperback 2020)9780691204000
+|*Capitalism with Chinese Characteristics: Entrepreneurship and the State*|Cambridge University Press|Yasheng Huang|9780521898102
 |中國一把抓：你未必深知的108個問題（*China in the 21st Century：What Everyone Needs to Know*）|八旗文化|華志堅（Jeffrey N. Wasserstrom）；譯者：楊濤斌、蔣文豪|9789865842062
+|獨特又矛盾的經濟體：21世紀中國奇蹟背後的真相（*China’s Economy: What Everyone Needs to Know*）|聯經|葛藝豪（Arthur R. Kroeber）、譯者：吳國卿|9789570849813
+|與中國打交道：親歷一個新經濟大國的崛起（與中國打交道：美國前財長鮑爾森的二十年內幕觀察）（*Dealing with China: An Insider Unmasks the New Economic Superpower*）|香港中文大學（時報）|亨利‧保爾森（Henry M. Paulson）、譯：王宇光、朱淵、朱啟文、王慧、譯校：胡祖六、朱淵|9789629968175（9789571368696）
+|紅天鵝：中國非常規決策過程（*Red Swan: How Unorthodox Policy-Making Facilitated China's Rise*）|香港中文大學|韓博天（Sebastian Heilmann）、譯者：石磊|9789629968267
 |強國危機：中國官僚資本主義的興衰（*China’s Rise: Strength and Fragility*）|群學|區龍宇、譯者：區龍宇|9789869280389
-|獨生：中國最激進的社會工程實驗（*One Child: The Story of China’s Most Radical Experiment*）|衛城出版|方鳳美（Mei Fong）9789869533461
-|罪在當代 遺禍千秋——中國計劃生育政策實施三十周年研究報告|勞改基金會|吳弘達、沈括|931550573
-|她們的征途：直擊、迂迴與衝撞，中國女性的公民覺醒之路|八旗文化|趙思樂|9789869516884
 |講黃笑話的中國女孩|溯源|吳虹飛|9781921815355
 |行者思之：張思之回憶錄|遠流|張思之、孫國棟|9789573275770
 |堂堂正正做公民：我的自由中國|新世紀|許志永、編：滕彪、華澤|9789881329516
@@ -726,40 +759,43 @@ layout: default
 |2017年，起來中國：酷刑下的維權律師高智晟自述|臺灣關懷中國人權聯盟|高智晟|9789869328012
 |雙規：一位中共前檢察官的調查報告|五七學社|沈良慶|9789881558749
 |失踪人民共和国：来自中国强迫失踪体系的故事（*The People's Republic of the Disappeared: Stories from inside China?s system for enforced disappearances*）|CreateSpace Independent Publishing Platform|迈克尔·卡斯特（Michael Caster）編、序：騰彪|[9781981289820](http://rsdlmonitor.com/zh/)
-|China's Human Rights Lawyers: Advocacy and Resistance|Routledge|Eva Pils|9780415870849
-|致命中國：中共赤龍對人類社會的危害|博大|彼得．那法若（Peter Navarro）、安一鳴（Greg Autry）、譯者：葉淑貞等|9789868897625
+|*China's Human Rights Lawyers: Advocacy and Resistance*|Routledge|Eva Pils|9780415870849
+|致命中國：中共赤龍對人類社會的危害（*Death by China: Confronting the Dragon – A Global Call to Action*）|博大|彼得．那法若（Peter Navarro）、安一鳴（Greg Autry）、譯者：葉淑貞等|9789868897625
 |三十年備忘錄（修訂版）|開放|金鐘 編|9789627934608
-|暴政：掌控關鍵年代的獨裁風潮，洞悉時代之惡的20堂課（*On Tyranny: Twenty Lessons from the Twentieth Century*）|聯經|提摩希‧史奈德（Timothy Snyder）、譯者：劉維人|9789570853049
+|治理中國：從革命到改革（*Governing China: from revolution through reform*）|國立編譯館|李侃如（Kenneth Lieberthal）、譯者：楊淑娟|9789570229189
 |出賣中國：權貴資本主義的起源與共產黨政權的潰敗（*China’s Crony Capitalism: The Dynamics of Regime Decay*）|八旗文化|裴敏欣，譯者：梁文傑|9789869486583
 |從鄧小平到習近平（*Following the Leader Ruling: China, From Deng Xiaoping to Xi Jinping*）|遠流|大衛‧藍普頓（David M. Lampton）、譯者：林添貴|9789573276593
-|中國共產黨不可說的秘密（*The Party: The Secret World of China’s Communist Rulers*）|聯經|馬利德（Richard McGregor）、譯者：樂為良|9789570838749
+|中國共產黨不可說的祕密（*The Party: The Secret World of China’s Communist Rulers*）|聯經|馬利德（Richard McGregor）、譯者：樂為良|9789570838749
 |完美的獨裁：二十一世紀的中國（*The Perfect Dictatorship: China in the 21st Century*）|左岸文化|斯坦．林根（Stein Ringen）、譯者：薛青詩|9789865727482
 |主宰中國的太子黨（*Les fils de princes: Une génération au pouvoir en Chine*）|聯經|杜明（Jean-Luc Domenach），譯者：何啟仁|9789570851809
 |紅旗警訊：習近平執政的中國為何陷入危機（*Red Flags: Why Xi’s China is in Jeopardy*）|時報|馬格納斯（George Magnus）、譯者：袁立山|9789571378800
 |赤裸裸的共產黨：共產主義如何危害自由世界（*The Naked Communist: Exposing Communism and Restoring Freedom*）|八旗文化|柯立安‧斯考森（W. Cleon Skousen）、譯者：潘勛|9789578654785
-|權力的劇場：中共黨代會的制度運作|香港中文大學|吳國光，譯者：趙燦|9789882370562
+|買通白宮：柯林頓與北京的黑色交易（*Year of the Rat: How Bill Clinton Compromised U.S. Security for Chinese Cash*）|時報|愛德華．丁伯雷克（Edward Timperlake）、威廉．崔普烈（William C. Triplett）、譯者：林添貴|9571330183
+|僧侶與哲學家：父子对谈生命意义（*The Monk and the Philosopher: A Father and Son Discuss the Meaning of Life*）|先覺|Jean-Francois Revel、Matthieu Ricard、John Canti、Jack Miles、译者：賴聲川|9789576074189
+|權力的劇場：中共黨代會的制度運作（*China's Party Congress: Power, Legitimacy, and Institutional Manipulation*）|香港中文大學|吳國光，譯者：趙燦|9789882370562
 |共產主義簡史：從血堆裡建立起來的理想國（*Communism: A Brief History*）|左岸文化|理查．皮佩斯（Richard Pipes）、譯者：蔡東杰|9867854586
 |九評共產黨（十周年紀念版）|博大|大紀元系列社論|1932674160（9789868897656）
 |共產主義的終極目的：中國篇|博大|《九評》編輯部|9789869264266
 |魔鬼在統治著我們的世界|博大|九評編輯部|9789869264280
 |中國的和平轉型之路|博大|章天亮|9789868520936
+|屠殺（*The Slaughter*）|蝴蝶蘭文創|伊森‧葛特曼（Ethan Gutmann）|9789869709316 
 |國家掠奪器官：器官移植在中國被濫用的黑幕|博大|大衛．麥塔斯（David Matas）、托斯托斯坦．特瑞（Torsten Trey, MD, PhD）|9789868897601
 |血腥的活摘器官|博大|大衛．麥塔斯（David Matas）、大衛．喬高（David Kilgour）、譯者：洪蓮、許非|9789868520950
 |前所未有的邪惡迫害|博大|托斯坦‧特瑞（Torsten Trey）、朱婉琪、譯者：臺灣國際器官移植關懷協會醫法小組|9789868897687
 |中國X檔案：中共掩蓋的內部歷史|明鏡|蘭斯斯|9781940004679
-|低端人口：中國，是地下這幫鼠族撐起來的（*Le peuple des rats: Dans les sous-sols interdits de la Chine*）|聯經|派屈克‧聖保羅（Patrick Saint-Paul），譯者：陳文瑤|9789570851090
 |2049百年馬拉松：中國稱霸全球的祕密戰略（*The Hundred-Year Marathon: China’s Secret Strategy to Replace America as the Global Superpower*）|麥田|白邦瑞（Michael Pillsbury）、譯者：林添貴|9789863442639
 |富國強兵之後：中國的百年復興及下一步（*Wealth & Power: China’s Long March to the Twenty-first Century*）|夏偉（Orville Schell）、魯樂漢（John Delury）、譯者：潘勛|9789869423168
 |注定一戰？中美能否避免修昔底德陷阱(*Destined for War: Can America and China Escape Thucydides’ Trap?*)|八旗文化|格雷厄姆・艾利森（Graham Allison）、譯者：包淳亮|9789578654310
 |美、中開戰的起點： 既有的強權，應該如何對面崛起中的強權？川普時代的美國，應該對中國採取什麼樣的態度？中國與美國，是否終需一戰？（*Crouching Tiger: What China’s Militarism Means for the World*）|光現出版|彼得‧納瓦羅（Peter Navarro）譯者：鍾友綸|9789869416498
 |中國即將開戰：中國新軍國主義崛起|時報|楊中美|9789571357256
 |從極權統治到韌性威權：中國政治變遷之路（*Political Change in China: From Totalitarian Rule to Resilient Authoritarianism*）|巨流|黎安友（Andrew J. Nathan）、譯者：何大明|9789577322760
-|脆弱的強權-在中國崛起的背後（*China - Fragile Superpower: How China’s Internal Politics Could Derail Its Peaceful Rise*）|遠流|謝淑麗（Susan L. Shirk）、譯者：溫洽溢|9789573263067
-|The Chinese Mafia: Organized Crime, Corruption, and Extra-Legal Protection|Oxford University Press|Peng Wang|9780198758402
+|脆弱的強權：在中國崛起的背後（*China - Fragile Superpower: How China’s Internal Politics Could Derail Its Peaceful Rise*）|遠流|謝淑麗（Susan L. Shirk）、譯者：溫洽溢|9789573263067
+|*The Chinese Mafia: Organized Crime, Corruption, and Extra-Legal Protection*|Oxford University Press|Peng Wang|9780198758402
 |中國革命再闡釋|牛津大學|鄒讜、編：甘阳|9780195932294
 |共產主義後與中國|牛津大學|丁学良|9780195866452
 |共產世界的變遷：四個共黨政權的比較|東大|吳玉山|9789571918501
 |從中國改革大失敗看馬克思主義的謬誤——兼論中國和人類社會向何處去|五七學社|朱振和|9789881558879
+|長城與空城計（*The great wall and the empty fortress : China’s search for security*）|麥田|黎安友（Andrew J. Nathan）、陸伯彬（Robert S. Ross）、譯者：何大明|9577086578
 |沒有安全感的強國：從鎖國、開放到崛起，中國對外關係70年（*China’s Search for Security*）|左岸文化|黎安友（Andrew J. Nathan）、施道安（Andrew Scobell）、譯者：何大明|9789865727802
 |最后的“天朝”：毛泽东、金日成与中朝关系（增訂版）（*A Misunderstood Friendship : Mao Zedong, Kim Il-sung, and Sino-North Korean Relations, 1949-1976*）|香港中文大學|沈志華|9789882370197（9789882370753）（9780231188265）
 |[我們最幸福：北韓人民的真實生活（*Nothing to Envy: Ordinary Lives in North Korea*）](https://book.douban.com/subject/6428468/)|麥田出版|芭芭拉·德米克 Barbara Demick、譯者：黃煜文|9789861207896(增訂版9789863442325)
@@ -780,24 +816,28 @@ layout: default
 |薄熙來周永康謎局與十八大：重慶事變核心文件、爭議性文獻續編|溯源|信息自由觀察工作室|9781921815324
 |河蟹大帝胡錦濤：他讓中國失去了十年|晨鐘（亞太政治哲學文化）|余杰|9789881620323（9789868971882）
 |中國影帝溫家寶|新世紀（亞太政治哲學文化）|余杰、序：鮑彤|9789881943026（9789868971899）
+|朱鎔基傳|時報|楊中美|9571325198
+|江澤民傳|時報|楊中美|9571319228
 |江澤民其人|博大|大紀元編輯部|1932674233
 |江澤民其人連環畫集|博大|大紀元編輯部、孟圓、屠龍、繪者：佟舟、齊祥|9789868520967
 |朱鎔基傳：從反黨右派到鄧小平繼承人|新新聞文化事業股份有限公司|高新、何頻|9789578591264
 |進出中組部: 一個紅二代理想主義者的另類人生|明鏡|閻淮|9781630323936
+|胡耀邦傳|夏菲爾|陳利明|一：9789889737832、二：9789889737849
 |胡耀邦思想與習近平主義：改革開放論＆冷戰三段論|亞太政治哲學文化出版有限公司|胡海甯|9789869692120
 |鄧小平：革命人生（*Deng Xiaoping: A Revolutionary Life*）|聯經|亞歷山大‧潘佐夫（Alexander V. Pantsov）、梁思文（Steven I. Levine），譯者：吳潤璿|9789570847796
-|[文革前的鄧小平](https://book.douban.com/subject/30391772/)
+|文革前的鄧小平：毛澤東的「副帥」（1956-1966）|香港中文大學|鍾延麟|9789629965563
 |晚年鄧小平|新世紀|張錫金|9789881329561
 |鄧小平的皇權專制主義|新世紀|尹振環|9789881557162
 |張春橋：1949及其後|香港中文大學|鄭重|9789629966973
 |張春橋獄中家書|香港中文大學|張春橋|9789629967192
-|紅太陽是怎樣升起的：延安整風運動的來龍去脈（英譯本*How the Red Sun Rose: The Origins and Development of the Yan’an Rectification Movement, 1930–1945*）|香港中文大學|高華(Trans. Stacy Mosher & Guo Jian)|962201920X(9789629968229)
+|紅太陽是怎樣升起的：延安整風運動的來龍去脈（*How the Red Sun Rose: The Origins and Development of the Yan’an Rectification Movement, 1930–1945*）|香港中文大學|高華(Trans. Stacy Mosher & Guo Jian)|962201920X(9789629968229)
+|延安的陰影|中央研究院近代史研究所|陳永發|[9781875559404](http://www.mh.sinica.edu.tw/PGPublication_Detail.aspx?mid=62&pubid=159)
 |毛澤東傳 (全四冊)|香港中文大學|魯林（Alain Roux），譯者：穆蕾|9789882370531
 |毛澤東：真實的故事（*Mao: The Real Story*）（毛泽东传（插图本）（*МАО：ВЕЛИКИЙ КОРМЧИЙ»И ЕГО ЭПОХА*））|聯經（中国人民大学出版社）|亞歷山大‧潘佐夫（Alexander V. Pantsov）、梁思文（Steven I. Levine），譯者：林添貴（卿文辉、崔海智、周益跃 ）|9789570845532（9787300215143）
 |毛澤東時代和後毛澤東時代（1949-2009）：另一種歷史書寫|聯經|錢理群|上：9789570839241，下：9789570839258
 |毛主義的誕生：中國共產革命之路（*Mao Zedong*）|衛城出版|馬思樂（Maurice Meisner），譯者：溫洽溢|9789868816022
 |毛沢東―実践と思想|岩波書店|近藤邦康|9784000252904
-|China Under Mao: A Revolution Derailed|Harvard University Press|Andrew G. Walder|9780674975491
+|*China Under Mao: A Revolution Derailed*|Harvard University Press|Andrew G. Walder|9780674975491
 |毛泽东的早年与晚年|贵州人民出版社|李锐|9787221028525
 |毛澤東的功過是非|天地圖書|李锐|9789622576605
 |李銳談毛澤東|時代國際|李锐|9789889828226
@@ -817,7 +857,8 @@ layout: default
 |紅朝宰相：周恩來人格解剖(再版)|開放|金鐘 編|9627934054
 |周恩來與毛澤東 卷一 北京宰相|聯經|京夫子|9570816929
 |周恩來的秘密情感世界|新世紀|蔡詠梅|9789881329578
-|Zhou Enlai: The Last Perfect Revolutionary|Public Affairs|高文謙|9781586486457
+|*Zhou Enlai: The Last Perfect Revolutionary*|Public Affairs|高文謙|9781586486457
+|康生传（龍爪：毛澤東背後的邪惡天才康生）（*The Claws of the Dragon: Kang Sheng*）|中国社会科学出版社（時報）|约翰·拜伦（John Byron）、罗伯特·帕克（Robert Pack）、译者：顾兆敏、顾兆平、金朝晖|9787500424017（9789571325378）
 |陳毅是個好同志嗎|五七學社|武宜三|9789881789471
 |重陽兵變|三民|京夫子|一：9789571446431、二：9789571447001、三：9789571447018
 |中南海恩仇錄|聯經|京夫子|9570812842
@@ -858,8 +899,8 @@ layout: default
 |*Tiananmen Diary: thirteen days in June*|Little, Brown|Harrison E. Salisbury|0316809047
 |*The iron house: a memoir of the Chinese democracy movement and the Tiananmen massacre*|Peregrine Smith BooksMichael S. Duke; introduction by John G. Healey|0879052554
 |*Chinese Democracy and the Crisis of 1989: Chinese and American Reflections*|SUNY Press|Roger V. DesForges, Luo Ning, Yen-bo Wu (Eds.)|9780791412701
-|Deathsong of the River: A Reader's Guide to the Chinese TV Series "Heshang"|Cornell University - Cornell East Asia Series|Xiaokang Su, Luxiang Wang, Trans. Richard W. Bodman, Pin P. Wan|9780939657544
-|Cries For Democracy: Writings and Speeches from the Chinese Democracy Movement|Princeton University Press|Minzhu Han|9780691008578
+|*Deathsong of the River: A Reader's Guide to the Chinese TV Series "Heshang"*|Cornell University - Cornell East Asia Series|Xiaokang Su, Luxiang Wang, Trans. Richard W. Bodman, Pin P. Wan|9780939657544
+|*Cries For Democracy: Writings and Speeches from the Chinese Democracy Movement*|Princeton University Press|Minzhu Han|9780691008578
 |中國「六四」真相（*The Tiananmen Papers*）|明鏡（Public Affairs）|Compiled by Liang Zhang（張良）; Edited by Andrew J. Nathan and Perry Link; With an introduction by Orville Schell|9628744364（9781586481223）
 |“六四”抗暴者法庭档案|国史出版社|中国政治及宗教受难者后援会（澳大利亚） 编|9781936895830
 |最後的秘密——中共十三屆四中全會「六四」結論文檔|新世紀|9789881329646
@@ -876,6 +917,7 @@ layout: default
 |卑微與輝煌：一個「六四」受難者的獄中札記|聯經|高新|9570806133
 |六四的內情：未完成的涅槃|風雲時代|包遵信|9576458129
 |商海雲帆：四通故事|天語|萬潤南|9783981091687
+|我的入獄|明報|戴晴|
 |六四日记：广场上的共和国（简体中文版 2018）（增訂版 2013）|溯源書社|封从德|[9781387800186](http://www.lulu.com/shop/feng-congde-封從德/六四日记a-tiananmen-journal/ebook/product-23636029.html);[9789881644268](https://www.goodreads.com/book/show/12825175)
 |王丹回憶錄：從六四到流亡|時報|王丹|9789571356525
 |王丹．獄中回憶錄|渠成文化|王丹|9789868888722
@@ -885,7 +927,7 @@ layout: default
 |王丹觀點|明鏡|王丹|9628563580
 |歲月蒼蒼：我與兒子王丹|明報|王凌雲|9629730597
 |從來就沒有救世主：六四30週年祭|渠成文化|王超華|9789869751322
-|The People and the Party: The Tiananmen Conflict of 1989|Verso|Chaohua Wang|9781788735476
+|*The People and the Party: The Tiananmen Conflict of 1989*|Verso|Chaohua Wang|9781788735476
 |從廣場到秦城：一個法律博士生的獄中探法|明鏡|李進進|9781935981060
 |走过冰山：一个中国良心犯的狱中回忆|五七学社|孙立勇|9789881880246
 |『六四』參加者回憶錄|明鏡||1932138196
@@ -978,6 +1020,7 @@ layout: default
 |趙紫陽文集（1980–1989）|香港中文大學|《趙紫陽文集》編輯組 編|第一卷：9789629968069，第二卷：9789629968076，第三卷：9789629968083，第四卷：9789629968090
 |趙紫陽文集，1975-1980（四川卷）|香港中文大學|《趙紫陽文集》編輯組 編|9789882371149
 |改革歷程：完整錄音 還原歷史（英譯本*Prisoner of the State: The Secret Journal of Premier Zhao Ziyang*）（台版 國家的囚徒：趙紫陽的祕密錄音）|新世紀（台灣：時報）|9789881720276（台版：9789571350523）
+|[改革历程：献给改革开放30年](https://book.douban.com/subject/3393295/)|经济科学出版社|高尚全|9787505877009
 |趙紫陽與政治改革|太平洋世紀硏究所|吳國光|
 |趙紫陽軟禁中的談話|開放|宗鳳鳴|9627934216
 |趙紫陽還說過甚麼？：杜導正日記|天地圖書（台灣：印刻）|杜導正|9789882191426（9789866377594）
@@ -990,6 +1033,7 @@ layout: default
 |中國的憂思|太平洋世紀|鮑彤|9628274287
 |陳一諮回憶錄|新世紀|陳一諮|9789881557148
 |生命之光：紀念陳一諮文集|新世紀||9789881329530
+|鄧力群自述：十二個春秋|大風|鄧力群|9789889807856
 |中國改革年代的政治鬥爭（修訂版）|天地圖書|楊繼繩|9789882193550
 |中國80年代政治改革的台前幕後|新世紀|吳偉|9789881557117
 |胡趙新政啟示錄：並對「新民主主義」進行剖析|新世紀|胡績偉、序：鮑彤、編：姚監復|9789881557018
@@ -1004,15 +1048,15 @@ layout: default
 |文化大革命（*Cultural Revolution: A Very Short Introduction*）|牛津大學|Richard Curt Kraus|9780190832148
 |文化大革命：人民的歷史 1962-1976（*The Cultural Revolution: A People’s History 1962-1976*）|聯經|馮客（Frank Dikötter）、譯者：向淑容、堯嘉寧|9789570848656
 |非常年代 1964-1978 (兩卷盒裝)|牛津大學出版社|趙園|9780190988685
-|狂熱的年代：1966-1976年紅色的大陸|天地圖書|張萬舒|9789882198296
+|狂熱的年代：1966-1976年 紅色的大陸|天地圖書|張萬舒|9789882198296
 |文化大革命：史實與研究|香港中文大學|劉青峰|9789622017634
 |天地翻覆：中國文化大革命史（全3冊第3版修訂本）|天地圖書|楊繼繩|9789888258369
-|文化大革命十年史(文化大革命十年史)|天津人民出版社(遠流)|高皋、严家其|11072-199（上：9573203154、下：9573203162）
+|文化大革命十年史（文化大革命十年史）|天津人民出版社(遠流)|高皋、严家其|11072-199（上：9573203154、下：9573203162）
 |錯亂狂飆的毛時代|新銳文創|啟之|9789865915650
 |毛澤東與文革|大風|胡鞍鋼|9789881730282
-|極端十年：中國文化大革命全過程分析（*The extreme decade : 1966-1976 in China*）|明鏡|柯雲路|9781932138504
+|極端十年：中國文化大革命全過程分析（*The extreme decade: 1966-1976 in China*）|明鏡|柯雲路|9781932138504
 |*China's Cultural Revolution As History*|Stanford University Press|Joseph W. Esherick, Paul G. Pickowicz, Andrew G. Walder (Eds.)|9780804753494
-|嚼火不息：文革民間思想研究筆記(兩卷本)|牛津大學|錢理群|9780190820510
+|嚼火不息：文革民間思想研究筆記（兩卷本）|牛津大學|錢理群|9780190820510
 |極端年代的公民政治：群眾的文化大革命史|中國文化傳播出版社|童小溪|[9789881970381](https://library.proletarian.me/download.php?link=My-library%2FTong+Xiao+Xi%2FJi+Duan+Nian+Dai+De+Gong+Min+Zheng+Zhi+%2528467%2529%2FJi+Duan+Nian+Dai+De+Gong+Min+Zheng+Zhi+-+Tong+Xiao+Xi.pdf&book=%E6%A5%B5%E7%AB%AF%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%85%AC%E6%B0%91%E6%94%BF%E6%B2%BB)
 |文革時期中國農村的集體殺戮（*Collective Killings in Rural China during the Cultural Revolution*）|香港中文大學|蘇陽、譯者：宋熙|9789629965761
 |失蹤者的足跡：文化大革命期間的青年思潮|香港中文大學|印紅標|9789629963897
@@ -1020,7 +1064,7 @@ layout: default
 |崇拜毛：文化大革命中的言辭崇拜與儀式崇拜（*Mao Cult: Rhetoric and Ritual in China's Cultural Revolution*）|香港中文大學|丹尼爾‧里斯（Daniel Leese）、譯者：秦禾聲、高康、楊雯琦、校：唐少傑|9789629967987
 |文革文鬥：文化大革命時期中國文化喧囂怪狀|海馬|鄭光路|9780966542189
 |毛沢東最高指示 : プロレタリア文化大革命期の発言|三一書房|新島淳良 編|1031702003-2726
-|文化大革命と中国の社会構造 : 公民権の配分と集団的暴力行為|御茶の水書房|楊麗君|9784275003010
+|文革中的公民權競爭與集體暴力（文化大革命と中国の社会構造 : 公民権の配分と集団的暴力行為）|香港中文大學（御茶の水書房）|楊麗君|9789882370807（9784275003010）
 |文化大革命の遺制と闘う―徐友漁と中国のリベラリズム|社会評論社|徐 友漁、遠藤 乾、川島 真、石井 知章、鈴木 賢|9784784513444 
 |*The Politics of the Chinese Cultural Revolution: A Case Study*|University of California Press|Hong Yung Lee|9780520040656
 |*The Cultural Revolution at the Margins: Chinese Socialism in Crisis*|Harvard University Press|Yiching Wu|9780674728790
@@ -1035,13 +1079,13 @@ layout: default
 |一個紅衛兵小報主編的文革記憶|新銳文創|周孜仁|9789866094651
 |毛澤東與紅衛兵的故事|新潮社|陳佩華|9789861672533
 |*The Red Guard Generation and Political Activism in China*|Columbia University Press|Guobin Yang|9780231149648
-|China's New Red Guards: The Return of Radicalism and the Rebirth of Mao Zedong|Oxford University Press|	
+|*China's New Red Guards: The Return of Radicalism and the Rebirth of Mao Zedong*|Oxford University Press|	
 Jude Blanchette|9780190605841
 |外交部文革紀實|香港中文大學|馬繼森|9789629960674
 |暴風雨的記憶：1965－1970年的北京四中(增訂版)|牛津大學|主編：北島、曹一凡、維一|9780193964860（9780190476540） 
 |一叶知秋：清华大学1968年“百日大武斗”|香港中文大學|唐少傑|9789629961268
 |紅色工程師的崛起：清華大學與中國技術官僚階層的起源（*Rise of the Red Engineers: The Cultural Revolution and the Origins of China's New Class*）|香港中文大學|安舟（Joel Andreas）、譯者：何大明|9789629967963
-|Hundred Day War: The Cultural Revolution at Tsinghua University|Monthly Review Press|William Hinton|9780853452812
+|*Hundred Day War: The Cultural Revolution at Tsinghua University*|Monthly Review Press|William Hinton|9780853452812
 |*Fractured Rebellion: The Beijing Red Guard Movement*|Harvard University Press|Andrew G. Walder|9780674064133
 |革命造反年代：上海文革運動史稿|牛津大學|李遜|9780199441686
 |理性與瘋狂：文化大革命中的群衆（*Failure of Charisma: The Cultural Revolution in Wuhan*）|牛津大學|王紹光、译者：燕青山、易飞先、张爱茹|9780195860221 
@@ -1058,7 +1102,7 @@ Jude Blanchette|9780190605841
 |文化大革命|平凡社|竹內実(たけうち みのる) 編|0322440160-7600
 |中国プロレタリア文化大革命資料集成|東方書店|東方書店出版部 編|
 |中共文化大革命資料彙編|明報月刊|丁望 編|
-|新編紅卫兵资料. III（*A new collection of red guard publications Part III, A comprehensive compilation of tabloids in the provinces*）|Center for Chinese Research Materials|宋永毅 編|
+|新编红卫兵资料（共115卷）|Center for Chinese Research Materials|宋永毅 編|
 |中国文化大革命の大宣伝|芸術新聞社|草森紳一|上：9784875861744、下：9784875861751
 |文革大年表：淵源 革命 餘波（*Culture revolution chronicle*）|明鏡|趙無眠|1896745067
 |モンゴル人ジェノサイドに関する基礎資料. 1, 滕海靑将軍の講話を中心に|風響社|楊海英 編|9784894898813
@@ -1105,7 +1149,7 @@ Jude Blanchette|9780190605841
 |毛澤東和彭德懷、林彪的合作與衝突 1954-1971|新新聞文化|齊茂吉|9578591799
 |誰逼走林彪|哈耶|新史記編輯部|9781936043224
 |林彪元帥最新相册|明鏡|舒雲|9781935981312
-|The Culture of Power: The Lin Biao Incident in the Cultural Revolution|Stanford University Press|Qiu Jin|9780804735292
+|*The Culture of Power: The Lin Biao Incident in the Cultural Revolution*|Stanford University Press|Qiu Jin|9780804735292
 |《毛主席語錄》的誕生及其他：唐平鑄文革實錄|香港中文大學|唐炎明、唐亞明|9789882370692
 |「文革」造反派真相|田園書屋|周倫佐|9623390637
 |開，南風氣窗：十年文革前後大逃亡港澳紀實|開放|蔡可風|9627934488
@@ -1124,6 +1168,7 @@ Jude Blanchette|9780190605841
 |林昭之死|開放|傅國湧 編|9627934240
 |*Blood Letters: The Untold Story of Lin Zhao, a Martyr in Mao's China*|Basic Books|Lian Xi|9781541644236
 |從前從前有個紅衛兵……|大塊文化|凌耿|9789862136751
+|烏合之眾The Crowd|香港大學|喻榮軍、Trans. Gigi Chang|9789881605689
 |*La rivoluzione culturale in Cina. Ovvero il Convitato di pietra*|Bompiani|Alberto Moravia|9788845273018
 |受苦人的講述：驥村歷史與一種文明的邏輯|香港中文大學|郭于華|9789629965433
 |中國農民反行為研究（1950─1980）|香港中文大學|高王凌|9789629965754
@@ -1132,7 +1177,7 @@ Jude Blanchette|9780190605841
 |中國佛教的社會主義改造|香港中文大學|學愚|9789629966027
 |身份和差異：1945-1965年中國社會的政治分層|香港中文大學香港亞太研究所|高華|9789624417173
 |毛時代經濟再評價：四川 1930-1980（*In Praise of Maoist Economic Planning: Living Standards and Economic Development in Sichuan Since 1931*）|牛津大學|布拉莫爾（Chris Bramall）、譯者：吳欽|9780195874020
-|饥荒政治：毛时代中国与苏联的比较研究（*Famine Politics in Maoist China and the Soviet Union*）|香港中文大學|文浩 (Felix Wemheuer) 、譯者：项佳谷|9789882370180
+|饑荒政治：毛時代中國與蘇聯的比較研究（*Famine Politics in Maoist China and the Soviet Union*）|香港中文大學|文浩 (Felix Wemheuer) 、譯者：項佳谷|9789882370180
 |毛澤東的大饑荒：1958-1962年的中國浩劫史（*Mao's Great Famine:The History of China’s Most Devastating Catastrophe*）|新世紀（印刻）|馮客（Frank Dikötter）、譯者：郭文襄、盧蜀萍、陳山|9789881943002（9789866135712）
 |*Eating Bitterness: New Perspectives on China's Great Leap Forward and Famine*|UBC Press|Kimberley Ens Manning, Felix Wemheuer(Eds.)|9780774817264
 |墓碑：中國六十年代大饑荒紀實|天地圖書|楊繼繩|9789882190665
@@ -1157,6 +1202,7 @@ Jude Blanchette|9780190605841
 |從「土改」到「反右」：吳奔星一九五○年代日記|獨立作家|吳奔星9789865729059
 |1957年的革命與反革命|五七學社|杜光|9789881204356
 |夾邊溝事件始末|五七學社|張中式|9789881204202
+|我不再是「我」一個右派分子的精神死亡檔案|明報|杜高|9789628871377
 |大夢誰先覺|五七學社|宇石|9789881204271
 |發瘋的大牆|五七學社|楊起初|9789881204226
 |還原1957|五七學社|魏紫丹|9789881558862
@@ -1233,12 +1279,14 @@ Jude Blanchette|9780190605841
 |新啟蒙：歷史的見證與省思|晨鐘|郭羅基|9789881852342
 |儲安平和他的時代：紀念儲安平誕辰一百週年學術研討會論文集|秀威資訊|謝泳 編|9789574167531
 |储安平与“党天下”|中国华侨出版公司|戴晴|9787800741104
-|知我者謂我心憂：十年觀察與思考1999-2008|星克爾|錢理群|9789889945633
+|詩人謝山和他的托派朋友們|天地|胡洛卿|9789882190382
 |楊憲益傳|明報|雷音|9789628959051
 |盲人奧里翁：龔祥瑞自傳|元照|龔祥瑞|9789862551264
 |[龔楚將軍回憶錄](https://www.worldcat.org/title/hui-yi/oclc/8984704)|明報|龔楚、編：聞堂|
 |雪白血情|春风文艺出版社|张正隆|9787531312154
 |長春餓殍戰：中國國共內戰最慘烈的圍困，1947.11.4~1948.10.19|白象文化|杜斌|9789863582748
+|大戰前之華北治安作戰：治安作戰(一)（北支治安戰(一)）|國防部史政編譯局|日本防衛廳戰史室、譯者：廖運潘|
+|大戰期間華北治安作戰（北支治安戰(2)）|國防部史政編譯局|日本防衛廳戰史室著 ; 黃朝茂譯|
 |双山回忆录|东方出版社|王凡西|750601702
 |延安日记（*Особый район Китая. 1942—1945*）|东方出版社|彼得·弗拉基米洛夫（Пётр Парфёнович Владимиров）|7506017032
 |苦笑录|东方出版社|陈公博|7506017067
