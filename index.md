@@ -769,6 +769,7 @@ layout: default
 |完美的獨裁：二十一世紀的中國（*The Perfect Dictatorship: China in the 21st Century*）|左岸文化|斯坦．林根（Stein Ringen）、譯者：薛青詩|9789865727482
 |主宰中國的太子黨（*Les fils de princes: Une génération au pouvoir en Chine*）|聯經|杜明（Jean-Luc Domenach），譯者：何啟仁|9789570851809
 |紅旗警訊：習近平執政的中國為何陷入危機（*Red Flags: Why Xi’s China is in Jeopardy*）|時報|馬格納斯（George Magnus）、譯者：袁立山|9789571378800
+|習近平與新中國：中國第三次革命的機會與挑戰（*The Third Revolution：Xi Jinping and the New Chinese State*）|天下文化|易明（Elizabeth C. Economy）、譯者：譚天|9789864796847
 |赤裸裸的共產黨：共產主義如何危害自由世界（*The Naked Communist: Exposing Communism and Restoring Freedom*）|八旗文化|柯立安‧斯考森（W. Cleon Skousen）、譯者：潘勛|9789578654785
 |買通白宮：柯林頓與北京的黑色交易（*Year of the Rat: How Bill Clinton Compromised U.S. Security for Chinese Cash*）|時報|愛德華．丁伯雷克（Edward Timperlake）、威廉．崔普烈（William C. Triplett）、譯者：林添貴|9571330183
 |僧侶與哲學家：父子对谈生命意义（*The Monk and the Philosopher: A Father and Son Discuss the Meaning of Life*）|先覺|Jean-Francois Revel、Matthieu Ricard、John Canti、Jack Miles、译者：賴聲川|9789576074189
