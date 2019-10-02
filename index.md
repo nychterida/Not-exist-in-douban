@@ -376,8 +376,8 @@ layout: default
 |一個吸毒女人的自述|明報|馬建|962357858X
 |人生伴侶：詩歌・散文|新世紀|馬建|9624996362
 |我是毛澤東的兒子|大地|葛銀、馬建|9622576028
-|Stick Out Your Tongue: Stories|Farrar Straus Giroux|Ma Jian, Trans. Flora Drew|9780374269883
-|China Dream|Chatto & Windus|Ma Jian, Trans. Flora Drew|9781784742492
+|*Stick Out Your Tongue: Stories*|Farrar Straus Giroux|Ma Jian, Trans. Flora Drew|9780374269883
+|*China Dream*|Chatto & Windus|Ma Jian, Trans. Flora Drew|9781784742492
 |[丁庄梦](https://www.worldcat.org/title/ding-zhuang-meng/oclc/952361538?loc=)|上海文艺出版社|阎连科|[7532129489](https://www.goodreads.com/book/show/20869383)
 |為人民服務|麥田|閻連科|9867252942
 |四書|麥田|閻連科|9789861204901
@@ -400,7 +400,7 @@ layout: default
 |冰点’02|西苑出版社|李大同|9787801086228
 |冰点’03|西苑出版社|李大同|9787801088857
 |冰点故事|广西师范大学出版社|李大同|9787563356997
-|China’s Crisis, China’s Hope: Essays from an Intellectual in exile|Harvard University Press|Binyan Liu|9780674118829
+|*China’s Crisis, China’s Hope: Essays from an Intellectual in exile*|Harvard University Press|Binyan Liu|9780674118829
 |刘宾雁自选集|中国文联出版公司|刘宾雁|9787505905658
 |第二種忠誠：劉賓雁報告文學精選(一)|人間出版社|劉賓雁|
 |人妖之間：劉賓雁報告文學精選(二)|人間出版社|劉賓雁|
@@ -681,7 +681,7 @@ layout: default
 |自由荊冠：劉曉波與諾貝爾和平獎|晨鐘|陳奎德、夏明 編|9789881953933
 |同時代人：劉曉波紀念詩集|海浪文化|廖亦武、鴻鴻、楊小濱、廖偉棠、柴春芽|9789881644121
 |劉霞詩選|傾向|劉霞|9789868820456
-|Liu Xiaobo, Charter 08 and the Challenges of Political Reform in China|Hong Kong University Press|Edited by Jean-Philippe Béja, Fu Hualing, and Eva Pils|9789888139071
+|*Liu Xiaobo, Charter 08 and the Challenges of Political Reform in China*|Hong Kong University Press|Edited by Jean-Philippe Béja, Fu Hualing, and Eva Pils|9789888139071
 |若為自由故：劉賢斌文選|勞改基金會|劉賢斌|9781931550024
 |第三共和：未來中國的選擇|時報|嚴家其|957130509X
 |聯邦中國構想|明報（聯經）|嚴家其|9623574320（9570808543）
@@ -737,8 +737,8 @@ layout: default
 |中國黑金政治揭秘：山西沁水國有資產流失天字大案|溯源|大國小資|9781921815393
 |紀冤獄：新青年學會案揭秘|勞改基金會|徐連勝|9780201379624
 |龍中策：蘇聯─中聯|亞太政治哲學文化出版有限公司|胡海甯|9789869373982
-|In the Red: On Contemporary Chinese Culture|Columbia University Press|Geremie R. Barmé|9780231106146 9780231106153
-|Social Protest and Contentious Authoritarianism in China|Cambridge University Press|Chen Xi|9781107014862
+|*In the Red: On Contemporary Chinese Culture*|Columbia University Press|Geremie R. Barmé|9780231106146 9780231106153
+|*Social Protest and Contentious Authoritarianism in China*|Cambridge University Press|Chen Xi|9781107014862
 |走|開放|寇延丁|9627934534
 |走着|開放|寇延丁|9622934542
 |敵人是怎樣煉成的：沒有權利沉默的中國人|時報|寇延丁|9789571367859
@@ -758,7 +758,7 @@ layout: default
 |中國民企維權第一案|博大|高智晟|9868163633
 |2017年，起來中國：酷刑下的維權律師高智晟自述|臺灣關懷中國人權聯盟|高智晟|9789869328012
 |雙規：一位中共前檢察官的調查報告|五七學社|沈良慶|9789881558749
-|失踪人民共和国：来自中国强迫失踪体系的故事（*The People's Republic of the Disappeared: Stories from inside China?s system for enforced disappearances*）|CreateSpace Independent Publishing Platform|迈克尔·卡斯特（Michael Caster）編、序：騰彪|[9781981289820](http://rsdlmonitor.com/zh/)
+|失踪人民共和国：来自中国强迫失踪体系的故事（*The People's Republic of the Disappeared: Stories from inside China's system for enforced disappearances*）|CreateSpace Independent Publishing Platform|迈克尔·卡斯特（Michael Caster）編、序：騰彪|[9781981289820](http://rsdlmonitor.com/zh/)
 |*China's Human Rights Lawyers: Advocacy and Resistance*|Routledge|Eva Pils|9780415870849
 |致命中國：中共赤龍對人類社會的危害（*Death by China: Confronting the Dragon – A Global Call to Action*）|博大|彼得．那法若（Peter Navarro）、安一鳴（Greg Autry）、譯者：葉淑貞等|9789868897625
 |三十年備忘錄（修訂版）|開放|金鐘 編|9789627934608
@@ -770,10 +770,12 @@ layout: default
 |主宰中國的太子黨（*Les fils de princes: Une génération au pouvoir en Chine*）|聯經|杜明（Jean-Luc Domenach），譯者：何啟仁|9789570851809
 |紅旗警訊：習近平執政的中國為何陷入危機（*Red Flags: Why Xi’s China is in Jeopardy*）|時報|馬格納斯（George Magnus）、譯者：袁立山|9789571378800
 |習近平與新中國：中國第三次革命的機會與挑戰（*The Third Revolution：Xi Jinping and the New Chinese State*）|天下文化|易明（Elizabeth C. Economy）、譯者：譚天|9789864796847
+|中共的全球資源戰（*By All Means Necessary: How China's Resource Quest is Changing the World*）|國防部政務辦公室史政編譯處|易明（Elizabeth Economy）、李維（Michael A. Levi）、譯者：蕭光霈|9789860588897
 |赤裸裸的共產黨：共產主義如何危害自由世界（*The Naked Communist: Exposing Communism and Restoring Freedom*）|八旗文化|柯立安‧斯考森（W. Cleon Skousen）、譯者：潘勛|9789578654785
 |買通白宮：柯林頓與北京的黑色交易（*Year of the Rat: How Bill Clinton Compromised U.S. Security for Chinese Cash*）|時報|愛德華．丁伯雷克（Edward Timperlake）、威廉．崔普烈（William C. Triplett）、譯者：林添貴|9571330183
 |僧侶與哲學家：父子对谈生命意义（*The Monk and the Philosopher: A Father and Son Discuss the Meaning of Life*）|先覺|Jean-Francois Revel、Matthieu Ricard、John Canti、Jack Miles、译者：賴聲川|9789576074189
 |權力的劇場：中共黨代會的制度運作（*China's Party Congress: Power, Legitimacy, and Institutional Manipulation*）|香港中文大學|吳國光，譯者：趙燦|9789882370562
+|中國共產黨的執政能力：意識型態、合法性與凝聚力|香港城市大學|曾敬涵|9789629372613
 |共產主義簡史：從血堆裡建立起來的理想國（*Communism: A Brief History*）|左岸文化|理查．皮佩斯（Richard Pipes）、譯者：蔡東杰|9867854586
 |九評共產黨（十周年紀念版）|博大|大紀元系列社論|1932674160（9789868897656）
 |共產主義的終極目的：中國篇|博大|《九評》編輯部|9789869264266
