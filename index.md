@@ -9,6 +9,7 @@ layout: default
 
 |电影|年代|导演|IMDB
 |---|---|---|---
+|南方公园S23E02|2019|Trey Parker|[Band in China](https://www.imdb.com/title/tt8660720/)
 |返校|2019|徐漢強|[Detention](https://www.imdb.com/title/tt10805432/)
 |出租车司机|2017|张勋（장훈）|[A Taxi Driver](https://www.imdb.com/title/tt6878038/)
 |1987：黎明到来的那一天|2017|张俊焕（장준환）|[1987: When the Day Comes](https://www.imdb.com/title/tt6493286/)
