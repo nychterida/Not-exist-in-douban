@@ -79,7 +79,8 @@ layout: default
 |南海之后|2016|王男栿|[Hooligan Sparrow](https://www.imdb.com/title/tt4079902/)
 |寻找林昭的灵魂|2004|胡杰|[In Search of Lin Zhao's Soul](https://www.imdb.com/title/tt6083394/)
 |穹顶之下|2015|柴静|[Under the Dome](https://www.imdb.com/title/tt4495750)
-|我们的青春，在台湾|2018|傅榆|[Our Youth in Taiwan](https://www.imdb.com/title/tt8711506/)
+|我們的青春，在台灣|2018|傅榆|[Our Youth in Taiwan](https://www.imdb.com/title/tt8711506/)
+|我們的那時此刻|2014|楊力州|[The Moment](https://www.imdb.com/title/tt7529652/)
 |独生子女国度|2019|Zhang Lynn（张嘉玲）, Nanfu Wang（王男栿）|[One Child Nation](https://www.imdb.com/title/tt8923482/)
 |公民哈维尔|2008|Miroslav Janek|[Obcan Havel(Citizen Havel)](https://www.imdb.com/title/tt0843329/)
 |中美共同体|2019|Channel 4 Television Corporation|[Chimerica](https://www.imdb.com/title/tt7948996)
@@ -456,6 +457,7 @@ layout: default
 |失去新中國：美商在中國的理想與背叛（*Losing the New China: A Story of American Commerce, Desire And Betrayal*）|博大|伊森‧葛特曼（Ethan Gutmann）、譯者：丁柯|1932674217
 |[當十億中國人一起跳（When a Billion Chinese Jump—How China Will Save Mankind or Destroy It）](https://book.douban.com/subject/5502980/)|天下雜誌|華衷（Jonathan Watts）、譯者：李芳齡|9789862412077
 |謊言帝國：中國雞年紀行（*L'Année du Coq*）|允晨文化|索爾孟（Guy Sorman）、譯者：許益源|9867178262
+|中國無法偉大的50個理由（*Fault Lines on the Face of China：50 Reasons Why China May Never Be Great*）|左岸文化|David Marriott、Karl Lacroix、譯者：謝佩玟|9789866723230
 |[中国，特色](https://book.douban.com/subject/25941656/)|当代中国出版社|雷克|9787515404882
 |徒步中國：從北京走到新疆 一個德國人4646公里的文化長路探索（*The Longest Way: 4646 Kilometer zu Fuß durch China*）|遠足文化|雷克（Christoph Rehage）、譯者：麻辣tongue|9789869423380
 |跟著陸客遊歐洲：一個德國人臥底陸客團13天的貼身紀錄（*Neuschweinstein - Mit zwölf Chinesen durch Europa*）|遠足文化|雷克（Christoph Rehage）、譯者：麻辣tongue|9789869532228
