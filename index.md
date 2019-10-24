@@ -772,10 +772,13 @@ layout: default
 |失踪人民共和国：来自中国强迫失踪体系的故事（*The People's Republic of the Disappeared: Stories from inside China's system for enforced disappearances*）|CreateSpace Independent Publishing Platform|迈克尔·卡斯特（Michael Caster）編、序：騰彪|[9781981289820](http://rsdlmonitor.com/zh/)
 |*China's Human Rights Lawyers: Advocacy and Resistance*|Routledge|Eva Pils|9780415870849
 |*Deceiving the Sky: Inside Communist China's Drive for Global Supremacy*|Encounter Books|Bill Gertz|9781641770545
+|*Authoritarianism: What Everyone Needs to Know*|Oxford University Press|Erica Frantz|9780190880194
+|*Routledge Handbook of the Chinese Communist Party*|Routledge|Willy Wo-Lap Lam ed.|9781138684430
 |致命中國：中共赤龍對人類社會的危害（*Death by China: Confronting the Dragon – A Global Call to Action*）|博大|彼得．那法若（Peter Navarro）、安一鳴（Greg Autry）、譯者：葉淑貞等|9789868897625
 |三十年備忘錄（修訂版）|開放|金鐘 編|9789627934608
 |治理中國：從革命到改革（*Governing China: from revolution through reform*）|國立編譯館|李侃如（Kenneth Lieberthal）、譯者：楊淑娟|9789570229189
 |出賣中國：權貴資本主義的起源與共產黨政權的潰敗（*China’s Crony Capitalism: The Dynamics of Regime Decay*）|八旗文化|裴敏欣，譯者：梁文傑|9789869486583
+|中國的未來|好優文化|沈大偉（David Shambaugh）、譯者：侯英豪|9789869546683
 |從鄧小平到習近平（*Following the Leader Ruling: China, From Deng Xiaoping to Xi Jinping*）|遠流|大衛‧藍普頓（David M. Lampton）、譯者：林添貴|9789573276593
 |中國共產黨不可說的祕密（*The Party: The Secret World of China’s Communist Rulers*）|聯經|馬利德（Richard McGregor）、譯者：樂為良|9789570838749
 |完美的獨裁：二十一世紀的中國（*The Perfect Dictatorship: China in the 21st Century*）|左岸文化|斯坦．林根（Stein Ringen）、譯者：薛青詩|9789865727482
