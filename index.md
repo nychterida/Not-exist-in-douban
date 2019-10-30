@@ -774,6 +774,7 @@ layout: default
 |*Deceiving the Sky: Inside Communist China's Drive for Global Supremacy*|Encounter Books|Bill Gertz|9781641770545
 |*Authoritarianism: What Everyone Needs to Know*|Oxford University Press|Erica Frantz|9780190880194
 |*Routledge Handbook of the Chinese Communist Party*|Routledge|Willy Wo-Lap Lam ed.|9781138684430
+|The State Strikes Back: The End of Economic Reform in China?|Peterson Institute for International Economics|Nicholas Lardy|9780881327373
 |致命中國：中共赤龍對人類社會的危害（*Death by China: Confronting the Dragon – A Global Call to Action*）|博大|彼得．那法若（Peter Navarro）、安一鳴（Greg Autry）、譯者：葉淑貞等|9789868897625
 |三十年備忘錄（修訂版）|開放|金鐘 編|9789627934608
 |治理中國：從革命到改革（*Governing China: from revolution through reform*）|國立編譯館|李侃如（Kenneth Lieberthal）、譯者：楊淑娟|9789570229189
