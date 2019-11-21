@@ -803,7 +803,7 @@ layout: default
 |前所未有的邪惡迫害|博大|托斯坦‧特瑞（Torsten Trey）、朱婉琪、譯者：臺灣國際器官移植關懷協會醫法小組|9789868897687
 |中國X檔案：中共掩蓋的內部歷史|明鏡|蘭斯斯|9781940004679
 |2049百年馬拉松：中國稱霸全球的祕密戰略（*The Hundred-Year Marathon: China’s Secret Strategy to Replace America as the Global Superpower*）|麥田|白邦瑞（Michael Pillsbury）、譯者：林添貴|9789863442639
-|富國強兵之後：中國的百年復興及下一步（*Wealth & Power: China’s Long March to the Twenty-first Century*）|夏偉（Orville Schell）、魯樂漢（John Delury）、譯者：潘勛|9789869423168
+|富國強兵之後：中國的百年復興及下一步（*Wealth & Power: China’s Long March to the Twenty-first Century*）|八旗|夏偉（Orville Schell）、魯樂漢（John Delury）、譯者：潘勛|9789869423168
 |注定一戰？中美能否避免修昔底德陷阱(*Destined for War: Can America and China Escape Thucydides’ Trap?*)|八旗文化|格雷厄姆・艾利森（Graham Allison）、譯者：包淳亮|9789578654310
 |美、中開戰的起點： 既有的強權，應該如何對面崛起中的強權？川普時代的美國，應該對中國採取什麼樣的態度？中國與美國，是否終需一戰？（*Crouching Tiger: What China’s Militarism Means for the World*）|光現出版|彼得‧納瓦羅（Peter Navarro）譯者：鍾友綸|9789869416498
 |中國即將開戰：中國新軍國主義崛起|時報|楊中美|9789571357256
@@ -828,6 +828,7 @@ layout: default
 |中國的第二個大陸：百萬中國移民如何在非洲投資新帝國（*China’s Second Continent: How a Million Migrants Are Building a New Empire in Africa*）|麥田|傅好文（Howard W. French）、譯者：李奧森|9789863441830
 |毛主義革命：二十世紀的中國與世界|田園書屋|程映虹|9623390718
 |站上十三億人的頂端：習近平掌權之路（十三億分の一の男 中国皇帝を巡る人類最大の権力闘争）|聯經|峯村健司，譯者：蘆荻|9789570846829
+|習近平：共產中國最弱勢的領袖（習近平：共産中国最弱の帝王）|天下雜誌|矢板明夫、譯者：黃怡筠|9789862415979
 |習近平是如何成為一位超級政治強人的？：對一場柔性政變的持續觀察|新銳文創|白信|9789578924338
 |中國教父習近平|開放（前衛）|余杰|9789627934332（9789578017399）
 |走向帝制：習近平與他的中國夢|前衛|余杰|9789578017931
