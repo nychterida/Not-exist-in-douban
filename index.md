@@ -561,12 +561,21 @@ layout: default
 |通向蒼穹之巔：翻越喜馬拉雅|亞太政治哲學文化出版有限公司|袁紅冰|9789869173964
 |金色的聖山（最新增訂版）|亞太政治哲學文化出版有限公司|袁紅冰|9789868971806
 |*Xinjiang and the Modern Chinese State*|University of Washington Press|Justin M. Jacobs|9780295995656
+|*The War on the Uyghurs: China's Internal Campaign against a Muslim Minority*|Princeton University Press|Sean R. Roberts|9780691202181
 |*The Uyghurs: Strangers in Their Own Land*|Columbia University Press|Gardner Bovingdon|9780231147583
+|*Autonomy in Xinjiang: Han Nationalist Imperatives and Uyghur Discontent*|East-West Center Washington|Gardner Bovingdon|[193272821X](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.624.9996&rep=rep1&type=pdf)
+|*Violent Separatism in Xinjiang: A Critical Assessment*|East-West Center Washington|James A. Millward|[1932728112](https://scholarspace.manoa.hawaii.edu/bitstream/10125/3502/PS006.pdf)
 |*Negotiating Inseparability in China The Xinjiang Class and the Dynamics of Uyghur Identity*|Hong Kong University Press|Timothy Grose|9789888528097
+|*The Ili Rebellion: The Moslem Challenge to Chinese Authority in Xinjiang, 1944-1949*|M. E. Sharpe|Linda Benson|9780873325097
 |東突厥斯坦獨立運動：1930年代至1940年代|香港中文大學出版社|王柯|9789629965006
 |躁動的新疆, 不安的維吾爾（*China's Forgotten People: Xinjiang, Terror and the Chinese State*）|光現出版|尼克·霍史達克（Nick Holdstock）、譯者：許庫爾|[9789869620246](https://www.goodreads.com/book/show/40949616)
 |我的西域，你的東土|大塊文化|王力雄|[9789862130117](https://www.goodreads.com/book/show/7906957)
 |東突厥斯坦：維吾爾人的真實世界|前衛|霍爾．唐日塔格（HÜR TANGRITAGH）|9789578018075
+|四十年動亂新疆|亞洲出版社|張大軍|
+|盛世才上莫斯科史達林報告書|中亞出版社|張大軍 編|
+|Uyghurlar（《維吾爾人》）|Urumqi: Šinjang yašlarösmülä näšriyati|Turghun Almas（吐爾渾‧阿勒馬斯）| 
+|Ana Yurt（《祖國》）|Urumqi: Šinjang yašlarösmülä näšriyati|Zordun Sabir|
+|Bizning tarikhiy Teziqlirmiz（《我們歷史上的文字》）|Urumqi: Šinjang yašlarösmülä näšriyati|Qurban Wali|
 |我的涼山兄弟：毒品、愛滋與流動青年|群學|劉紹華|9789866525674
 |中國窪地：一部內亞主導東亞的簡史|八旗文化|劉仲敬|9789869541824
 |遠東的線索：西方秩序的輸入與中國的演變|八旗文化|劉仲敬|9789869486521
