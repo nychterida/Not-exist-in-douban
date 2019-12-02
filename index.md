@@ -454,6 +454,8 @@ layout: default
 |野草：底層中國的緩慢革命（苛稅、胡同和法輪功：底層中國的緩慢革命）（*Wild Grass: Three Portraits of Change in Modern China*）|八旗文化|張彥（Ian Jounson），譯者：吳美真|9789869356244（9789868845428）
 |中國的靈魂：後毛澤東時代的宗教復興（*The Souls of China: The Return of Religion After Mao*）|八旗文化|張彥（Ian Jounson），譯者：廖彥博|9789578654495
 |*The Shanghai Free Taxi: Journeys with the Hustlers and Rebels of the New China*|PublicAffairs|Frank Langfitt|9781610398145
+|*A Chinese Odyssey: The Life and Times of a Chinese Dissident*|Scribner|
+Anne F. Thurston|9780684192192
 |失去新中國：美商在中國的理想與背叛（*Losing the New China: A Story of American Commerce, Desire And Betrayal*）|博大|伊森‧葛特曼（Ethan Gutmann）、譯者：丁柯|1932674217
 |[當十億中國人一起跳（When a Billion Chinese Jump—How China Will Save Mankind or Destroy It）](https://book.douban.com/subject/5502980/)|天下雜誌|華衷（Jonathan Watts）、譯者：李芳齡|9789862412077
 |謊言帝國：中國雞年紀行（*L'Année du Coq*）|允晨文化|索爾孟（Guy Sorman）、譯者：許益源|9867178262
@@ -790,7 +792,7 @@ layout: default
 |*Deceiving the Sky: Inside Communist China's Drive for Global Supremacy*|Encounter Books|Bill Gertz|9781641770545
 |*Authoritarianism: What Everyone Needs to Know*|Oxford University Press|Erica Frantz|9780190880194
 |*Routledge Handbook of the Chinese Communist Party*|Routledge|Willy Wo-Lap Lam ed.|9781138684430
-|The State Strikes Back: The End of Economic Reform in China?|Peterson Institute for International Economics|Nicholas Lardy|9780881327373
+|*The State Strikes Back: The End of Economic Reform in China?*|Peterson Institute for International Economics|Nicholas Lardy|9780881327373
 |致命中國：中共赤龍對人類社會的危害（*Death by China: Confronting the Dragon – A Global Call to Action*）|博大|彼得．那法若（Peter Navarro）、安一鳴（Greg Autry）、譯者：葉淑貞等|9789868897625
 |三十年備忘錄（修訂版）|開放|金鐘 編|9789627934608
 |治理中國：從革命到改革（*Governing China: from revolution through reform*）|國立編譯館|李侃如（Kenneth Lieberthal）、譯者：楊淑娟|9789570229189
