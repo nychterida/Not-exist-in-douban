@@ -450,7 +450,7 @@ layout: default
 |低端人口：中國，是地下這幫鼠族撐起來的（*Le peuple des rats: Dans les sous-sols interdits de la Chine*）|聯經|派屈克‧聖保羅（Patrick Saint-Paul），譯者：陳文瑤|9789570851090
 |[甲骨文：一次占卜當代中國的旅程（*Oracle Bones, A Journey Through Time In China*）](https://book.douban.com/subject/6539859/)|八旗文化|何偉（Peter Hessler）、譯者：盧秋瑩|9789868727519
 |走出毛澤東的陰影（*Out of Mao's Shadow*）|新世紀|潘公凱（Philip P. Pan）|9789881329615
-|[野心時代：在新中國追求財富、真相和信仰（*Age of Ambition: Chasing Fortune, Truth and Faith in the New China*）]()|八旗文化|歐逸文（Evan Osnos）、譯者：潘勛|9789865842475
+|野心時代：在新中國追求財富、真相和信仰（*Age of Ambition: Chasing Fortune, Truth and Faith in the New China*）|八旗文化|歐逸文（Evan Osnos）、譯者：潘勛|9789865842475
 |野草：底層中國的緩慢革命（苛稅、胡同和法輪功：底層中國的緩慢革命）（*Wild Grass: Three Portraits of Change in Modern China*）|八旗文化|張彥（Ian Jounson），譯者：吳美真|9789869356244（9789868845428）
 |中國的靈魂：後毛澤東時代的宗教復興（*The Souls of China: The Return of Religion After Mao*）|八旗文化|張彥（Ian Jounson），譯者：廖彥博|9789578654495
 |*The Shanghai Free Taxi: Journeys with the Hustlers and Rebels of the New China*|PublicAffairs|Frank Langfitt|9781610398145
@@ -463,6 +463,7 @@ Anne F. Thurston|9780684192192
 |[中国，特色](https://book.douban.com/subject/25941656/)|当代中国出版社|雷克|9787515404882
 |徒步中國：從北京走到新疆 一個德國人4646公里的文化長路探索（*The Longest Way: 4646 Kilometer zu Fuß durch China*）|遠足文化|雷克（Christoph Rehage）、譯者：麻辣tongue|9789869423380
 |跟著陸客遊歐洲：一個德國人臥底陸客團13天的貼身紀錄（*Neuschweinstein - Mit zwölf Chinesen durch Europa*）|遠足文化|雷克（Christoph Rehage）、譯者：麻辣tongue|9789869532228
+|惡的出世學：透視史達林、希特勒、毛澤東的心機與權謀（二版）（悪の出世学 ヒトラー・スターリン・毛沢東）|大牌出版|中川右介、譯者：蔡昭儀|9789867645906
 |历史的先声：半个世纪前的庄严承诺|汕头大学出版社|笑蜀|9787810363457
 |大江大海：一九四九|天下雜誌|龍應台|9789862410493
 |[中華人民共和國史，第一卷 斷裂與延續──中華人民共和國的建立（1949-1952）（即將出版）](https://book.douban.com/subject/3070922/)|香港中文大學|楊奎松|9789881727411
@@ -493,7 +494,7 @@ Anne F. Thurston|9780684192192
 |文明的遊牧史觀：一部逆轉的大中國史（逆転の大中国史―ユーラシアの視点から）|八旗文化|楊海英、譯者：鄭天恩|9789578654587
 |自由在落日中（新編版）|亞太政治哲學文化出版有限公司|袁紅冰|9789869373999
 |西藏现代史1951–1955：暴风雨之前的平静（*A History of Modern Tibet 1951–1955: The Calm Before the Storm*）|香港大學|Melvyn Goldstein、译者：吴继业|9789888139699
-|*A History of Modern Tibet, Volume 3: The Storm Clouds Descend, 1955–1957*|University of California Press|Melvyn Goldstein|9780520276512
+|現代西藏史1955–1957（*A History of Modern Tibet, Volume 3: The Storm Clouds Descend, 1955–1957*）|香港中文大學（University of California Press）|Melvyn Goldstein、彭雲譯|9789882371040（9780520276512）
 |*A History of Modern Tibet, Volume 4: In the Eye of the Storm, 1957-1959*|University of California Press|Melvyn Goldstein|9780520278554
 |天葬：西藏的命运|大塊文化|王力雄|[9789862131077](https://www.goodreads.com/book/show/9335765)
 |龍在雪域：一九四七年後的西藏(*The Dragon in the Land of Snows: A History of Modern Tibet Since 1947*）|左岸文化|茨仁夏加(Tsering Shakya)、譯者：謝惟敏|9789866723490
@@ -507,7 +508,7 @@ Anne F. Thurston|9780684192192
 |遮蔽的圖伯特：國際藏學家解讀西藏百題問答（*Authenticating TIBET: Answers to China’s 100 Questions*）|前衛|安瑪莉．布隆鐸（Anne-Marie Blondeau）、卡提亞．畢菲特里耶（Katia Buffetrille）等、譯者：謝惟敏|9789578016644
 |圖說西藏史|雪域|Claude Arpi|9789869308847
 |亞洲的水塔：西藏高原的生態危機|雪域|王維洛|9789869308885
-|西藏的地位 : 從國際法的角度對西藏歷史、權利與前景的分析|雪域|邁克爾.C.范沃爾特.范普拉赫(Michael C.Van Walt Van Praag)，藏譯：噶瑪默朗藏，藏譯中：跋熱.達瓦才仁|9789868562363
+|西藏的地位：從國際法的角度對西藏歷史、權利與前景的分析|雪域|邁克爾.C.范沃爾特.范普拉赫(Michael C.Van Walt Van Praag)，藏譯：噶瑪默朗藏，藏譯中：跋熱.達瓦才仁|9789868562363
 |我的土地，我的人民|台灣圖博之友會|第十四世達賴喇嘛丹增嘉措、譯者：丁一夫|9789868608108
 |達賴喇嘛自傳：流亡中的自在（*Freedom in exile*）|聯經|Dalai Lama、譯者：康鼎|9570805218
 |第十四次的旅程：達賴喇嘛的心靈之旅|台灣圖博之友會|第十四世達賴喇嘛丹增嘉措、譯者：林孟螢, 梁郁萍|9789868608139
@@ -559,6 +560,7 @@ Anne F. Thurston|9780684192192
 |西藏的護法與神鬼|雪域|譯者：雪域智庫暨見悲青增格西|9789869619332
 |天葬臺|雪域|桑傑嘉|9789869308809
 |國際藏學史導論|亞太政治哲學文化出版有限公司|安樂業（Namloyak Dhungser）|9789869173957
+|西藏自古以來就不是中國的一部份：用中國的官方權威文獻明證|雪域出版社|劉漢城|9789869619394
 |燃燒的安魂曲|亞太政治哲學文化出版有限公司|袁紅冰|9789868971820
 |通向蒼穹之巔：翻越喜馬拉雅|亞太政治哲學文化出版有限公司|袁紅冰|9789869173964
 |金色的聖山（最新增訂版）|亞太政治哲學文化出版有限公司|袁紅冰|9789868971806
@@ -587,11 +589,16 @@ Anne F. Thurston|9780684192192
 |香港簡史：從殖民地至特別行政區（*A Concise History of Hong Kong*）|中華書局|高馬可（John M. Carroll）、译者：林立偉|9789888263202
 |社運年代：香港抗爭政治的軌跡|香港中文大學|鄭煒、袁瑋熙 編|9789882370661
 |自由六月：2019年香港「反送中」與自由運動的開端|新銳文創|22 Hongkongers|9789578924697
+|反送中攝影集：我願榮光歸香港|台灣：奇異果文創事業有限公司|藝家, 天爸, Joey Kwok, Nasha Chan, 林健恆@USP, 香港理工大學學生會學生報編輯委員會|9789869759182
 |思索家邦：中國殖民主義狂潮下的香港|前衛|徐承恩|9789578018945
 |佔領論：從巴黎公社到佔領中環|圓桌精英|許煜|[9789881545350](https://www.academia.edu/7468965/%E4%BD%94%E9%A0%98%E8%AB%96_%E5%BE%9E%E5%B7%B4%E9%BB%8E%E5%85%AC%E7%A4%BE%E5%88%B0%E4%BD%94%E9%A0%98%E4%B8%AD%E7%92%B0)
 |二十道陰影下的自由：香港新聞審查日常|香港中文大學|區家麟|9789629967703
 |七月圍城（2003-2013）|新世紀|蔡詠梅、劉懷昭|9789881557155
+|香港獨立論|香港專業研習學會|梁衍華|[9789881483027](https://www.goodreads.com/book/show/41722273)
 |香港民族論|香港大學學生會|梁繼平、王俊傑、曹曉諾、李啟迪、吳叡人、練乙錚、孔誥烽、徐承恩、蘇賡哲|[9789881363107](https://www.goodreads.com/book/show/24681152)
+|城邦主權論|四筆象|陳雲|9789629923914
+|香港城邦論|天窗|陳雲|9789881550415
+|香港革新論|台灣：漫遊者文化|方志恆 編|9789865671556
 |我是黎智英：從一元港幣到五億美金的創業傳奇|商周|黎智英|9861247858
 |憲政．中國：從現代化及文化轉變看中國憲政發展|香港大學|戴耀廷|9789888083916
 |佔領中環：和平抗爭心戰室|天窗|戴耀廷|9789881680853
@@ -607,8 +614,6 @@ Anne F. Thurston|9780684192192
 |每一把傘|有種文化|李鴻彦、馬丁（Martin）|9789881345486
 |傘下力量|人民力量出版部|陳偉業 編|9789881417619
 |中國孤兒‧香港人|四筆象|桑普|9789629924317
-|城邦主權論|四筆象|陳雲|9789629923914
-|香港城邦論|天窗|陳雲|9789881550415
 |革命|四筆象|林匡正|9789629924287
 |獨立|四筆象|林匡正|9789629924294
 |香港抗爭運動史|四筆象|林匡正|9789629923518
@@ -629,8 +634,12 @@ Anne F. Thurston|9780684192192
 |我與香港地下黨 (增訂本)|開放|梁慕嫻|9627934313
 |香港的第三條道路：莫昭如的安那其民眾戲劇|手民出版社|楊慧儀|9789881423375
 |獨立路上：從前蘇聯省思香港未來|新銳文創|梁啟智|9789869486446
+|香港獨立|主流出版社|余杰|9789869665391
+|關於香港，#我冇嘢講|白卷出版社|健吾|9789887904458
+|誰賣走了我的香港|白卷出版社|傘下的人|9789887904427
 |*Civil Unrest and Governance in Hong Kong: Law and Order from Historical and Cultural Perspectives*|Routledge|Edited by Michael H. K. Ng, John D Wong|pbk:9780367141912,hbk:9781138689978
 |民主推進器：兩岸三地的公民社會|獨立作家|蘇佳善|9789869006293
+|為什麼要佔領街頭？從太陽花、雨傘，到反送中運動（*Challenging Beijing's Mandate of Heaven: Taiwan's Sunflower Movement and Hong Kong's Umbrella Movement*）|左岸文化（Temple University Press）|何明修（Ming-sho Ho）|9789869800648（9781439917060）
 |蔣介石與現代中國的奮鬥（*The Generalissimo: Chiang Kai-shek and the Struggle for Modern China*）|時報|陶涵（Jay Taylor）、譯者：林添貴|9789571351728
 |民主台灣：後威權時代的社會運動與文化政治|香港中文大學|莊雅仲|9789629965921
 |台灣的中國兩難：台灣認同下的兩岸經貿困境（*Taiwan’s China Dilemma: Contested Identities and Multiple Interests in Taiwan’s Cross-Strait Economic Policy*）|商周出版|林夏如（Syaru Shirley Lin）、譯者：陳方隅、林添貴|9789864776290
@@ -668,6 +677,7 @@ Anne F. Thurston|9780684192192
 |宦海沉沉楚天闊：昨日今日宋楚瑜|亞太政治哲學文化出版有限公司|楚門|9789869173926
 |直銷台獨：「台灣獨立建國」道路的探索|前衛|奧斯定|9789578017634
 |震撼1987：台獨勢力的崛起|費邊社文創有限公司|林樹枝|9789869005340
+|給台灣的八個建議|渠成文化|王丹|9789869751384
 |歷史的錯誤：台美中關係探源|玉山社|阮銘|9867375599
 |民主在台灣|遠流|阮銘|9789573241829
 |兩個臺灣的命運：認同Taiwan 認同China|玉山社|阮銘|9867819535
@@ -1113,7 +1123,7 @@ Anne F. Thurston|9780684192192
 |文革中的公民權競爭與集體暴力（文化大革命と中国の社会構造：公民権の配分と集団的暴力行為）|香港中文大學|楊麗君、譯者：趙曉靚|9789882370807
 |崇拜毛：文化大革命中的言辭崇拜與儀式崇拜（*Mao Cult: Rhetoric and Ritual in China's Cultural Revolution*）|香港中文大學|丹尼爾‧里斯（Daniel Leese）、譯者：秦禾聲、高康、楊雯琦、校：唐少傑|9789629967987
 |文革文鬥：文化大革命時期中國文化喧囂怪狀|海馬|鄭光路|9780966542189
-|毛沢東最高指示 : プロレタリア文化大革命期の発言|三一書房|新島淳良 編|1031702003-2726
+|毛沢東最高指示: プロレタリア文化大革命期の発言|三一書房|新島淳良 編|1031702003-2726
 |文革中的公民權競爭與集體暴力（文化大革命と中国の社会構造 : 公民権の配分と集団的暴力行為）|香港中文大學（御茶の水書房）|楊麗君|9789882370807（9784275003010）
 |文化大革命の遺制と闘う―徐友漁と中国のリベラリズム|社会評論社|徐 友漁、遠藤 乾、川島 真、石井 知章、鈴木 賢|9784784513444 
 |*The Politics of the Chinese Cultural Revolution: A Case Study*|University of California Press|Hong Yung Lee|9780520040656
@@ -1129,8 +1139,7 @@ Anne F. Thurston|9780684192192
 |一個紅衛兵小報主編的文革記憶|新銳文創|周孜仁|9789866094651
 |毛澤東與紅衛兵的故事|新潮社|陳佩華|9789861672533
 |*The Red Guard Generation and Political Activism in China*|Columbia University Press|Guobin Yang|9780231149648
-|*China's New Red Guards: The Return of Radicalism and the Rebirth of Mao Zedong*|Oxford University Press|	
-Jude Blanchette|9780190605841
+|*China's New Red Guards: The Return of Radicalism and the Rebirth of Mao Zedong*|Oxford University Press|Jude Blanchette|9780190605841
 |外交部文革紀實|香港中文大學|馬繼森|9789629960674
 |暴風雨的記憶：1965－1970年的北京四中(增訂版)|牛津大學|主編：北島、曹一凡、維一|9780193964860（9780190476540） 
 |一叶知秋：清华大学1968年“百日大武斗”|香港中文大學|唐少傑|9789629961268
@@ -1147,6 +1156,12 @@ Jude Blanchette|9780190605841
 |モンゴル人の民族自決と「対日協力」-いまなお続く中国文化大革命|集広舎|楊海英|9784904213414
 |廣西文革痛史鉤沉|新世紀|曉明|9789889942021
 |文革機密檔案：廣西報告|明鏡|中共廣西壯族自治區委員會整黨領導小組辦公室 編|9781940004587
+|浙江“文革”纪事（1966．5—1976．10）|《浙江方志》编辑部|程超 魏皓奔 主编|OCLC757009795
+|*The A to Z of the Chinese Cultural Revolution*|Scarecrow Press|Guo JianYongyi SongYuan Zhou|9780810870338
+|*Historical Dictionary of the Chinese Cultural Revolution*|Rowman & Littlefield|Guo Jian, Yongyi Song, Yuan Zhou|9781442251724
+|瘋狂、扭曲與墮落的年代之一：十年文革前期（1965.11—1969.4）系年录|新大陸|周良霄、顧菊英|[上](http://www.cnd.org/CR/XiNianLu_1.pdf)[中](http://www.cnd.org/CR/XiNianLu_2.pdf)[下](http://www.cnd.org/CR/XiNianLu_3.pdf)
+|瘋狂、扭曲與墮落的年代之二：十年文革中首长讲话传信录|新大陸|周良霄、顧菊英|[上](http://www.cnd.org/CR/ChuanXinLu_1.pdf)[中](http://www.cnd.org/CR/ChuanXinLu_2.pdf)[下](http://www.cnd.org/CR/ChuanXinLu_3.pdf)
+|瘋狂、扭曲與墮落的年代之三：十年文革大事記|新大陸|周良霄、顧菊英|[9789624480344](http://www.cnd.org/CR/DaShiJi.pdf)
 |文化大革命博物館|東方 天地|楊克林 編著|套：962810201X、上：9628102028、下：9628102036
 |1967中国文化大革命：荒牧万佐行写真集|集広舎|荒牧万佐行|9784904213544
 |文化大革命|平凡社|竹內実(たけうち みのる) 編|0322440160-7600
@@ -1182,7 +1197,7 @@ Jude Blanchette|9780190605841
 |十年一夢：前上海市委書記徐景賢文革回憶錄|時代|徐景賢|9889760819
 |一位大陸作家的文革記憶：訣別史達林模式及其他|秀威資訊|李冰封|9789862216910
 |家族記憶：百年家族的文革歷史實錄|秀威資訊|昌言|9789862217955
-|文革受難者：關於迫害、監禁與殺戮的尋訪實錄|開放雜誌|王友琴|9627934127
+|文革受難者：關於迫害、監禁與殺戮的尋訪實錄|開放雜誌|王友琴|[9627934127](http://ywang.uchicago.edu/history/docs/EBookVictim%2020190528.pdf)[ebook](http://ywang.uchicago.edu/history/victim_ebook_070505.pdf)
 |「九一三」回望：林彪事件史實與辨析|新世紀|天穹 韓鋼 王海光 余汝信、編：余汝信、序：馬若德|9789881557124
 |林彪的忠與逆：9/13事件重探|新銳文創|翁衍慶|9789866094934 
 |林彪日記|明鏡|李德、舒雲 編著|9781932138986
@@ -1205,6 +1220,10 @@ Jude Blanchette|9780190605841
 |開，南風氣窗：十年文革前後大逃亡港澳紀實|開放|蔡可風|9627934488
 |中外學者談文革|香港中文大學|熊景明、宋永毅、余國良 編|9789882371019
 |文革五十年祭|聯經|思想編委會|9789570848472
+|中华学人文革论文集（一）：文献与综述|美国华忆出版社（Remembering Publishing, LLC）|启之 编|9781951135041
+|中华学人文革论文集（二）：思想与文化|美国华忆出版社（Remembering Publishing, LLC）|启之 编|9781951135065
+|中华学人文革论文集（三）：学校和地方|美国华忆出版社（Remembering Publishing, LLC）|启之 编|9781951135089
+|中华学人文革论文集（四）：政治与群众|美国华忆出版社（Remembering Publishing, LLC）|启之 编|9781951135102
 |红祸：文革五十周年（1966-2016）论文集|世界华语出版社|吴称谋 编|9781940266091
 |文化大革命：歷史真相和集體記憶|田園書屋|宋永毅 編|上：9623390653，下：9623390661
 |文革密件：美國搜集的中共機密文件|明鏡|唐大宋|9781630328191
