@@ -664,6 +664,7 @@ Anne F. Thurston|9780684192192
 |與習近平聊聊台灣和中國|八旗文化|范疇|9789865842727
 |中共百年：看習近平十年|新銳文創|洪耀南|9789869545204
 |台灣政府閉口不提的中國戰力報告：解放軍打算如何攻下台灣？台海為何是中、美、日的最主要戰場？（中国の戦争力）|大是文化|小川和久、西恭之、譯者：郭凡嘉|9789865770914
+|國家的決斷：給台灣人看的二戰後國際關係史|八旗文化|張國城|9789578654846
 |全面滲透：中國正在遙控臺灣|主流|曾韋禎|9789869665377
 |返校：惡夢再續|尖端|赤燭股份有限公司、笭菁|9789571071701
 |被囚禁的臺灣|亞太政治哲學文化出版有限公司|袁紅冰|9789868971868
@@ -778,6 +779,7 @@ Anne F. Thurston|9780684192192
 |龍中策：蘇聯─中聯|亞太政治哲學文化出版有限公司|胡海甯|9789869373982
 |*In the Red: On Contemporary Chinese Culture*|Columbia University Press|Geremie R. Barmé|9780231106146 9780231106153
 |*Social Protest and Contentious Authoritarianism in China*|Cambridge University Press|Chen Xi|9781107014862
+|*China Entering the Xi Jinping Era*|Routledge|Zheng Yongnian, Lance L. P. Gore (Eds.)|9780415740395
 |走|開放|寇延丁|9627934534
 |走着|開放|寇延丁|9622934542
 |敵人是怎樣煉成的：沒有權利沉默的中國人|時報|寇延丁|9789571367859
@@ -801,13 +803,16 @@ Anne F. Thurston|9780684192192
 |*China's Human Rights Lawyers: Advocacy and Resistance*|Routledge|Eva Pils|9780415870849
 |*Deceiving the Sky: Inside Communist China's Drive for Global Supremacy*|Encounter Books|Bill Gertz|9781641770545
 |*Authoritarianism: What Everyone Needs to Know*|Oxford University Press|Erica Frantz|9780190880194
+|[*Decentralized Authoritarianism in China: The Communist Party's Control of Local Elites in the Post-Mao Era*](https://book.douban.com/subject/3273903/)|Cambridge University Press|Pierre F. Landry|9780521882354
 |*Routledge Handbook of the Chinese Communist Party*|Routledge|Willy Wo-Lap Lam ed.|9781138684430
+|*Legitimating the Chinese Communist Party Since Tiananmen: A Critical Analysis of the Stability Discourse*|Routledge|Peter Sandby-Thomas|9780415553988
 |*The State Strikes Back: The End of Economic Reform in China?*|Peterson Institute for International Economics|Nicholas Lardy|9780881327373
 |致命中國：中共赤龍對人類社會的危害（*Death by China: Confronting the Dragon – A Global Call to Action*）|博大|彼得．那法若（Peter Navarro）、安一鳴（Greg Autry）、譯者：葉淑貞等|9789868897625
 |三十年備忘錄（修訂版）|開放|金鐘 編|9789627934608
 |治理中國：從革命到改革（*Governing China: from revolution through reform*）|國立編譯館|李侃如（Kenneth Lieberthal）、譯者：楊淑娟|9789570229189
 |出賣中國：權貴資本主義的起源與共產黨政權的潰敗（*China’s Crony Capitalism: The Dynamics of Regime Decay*）|八旗文化|裴敏欣，譯者：梁文傑|9789869486583
 |中國的未來|好優文化|沈大偉（David Shambaugh）、譯者：侯英豪|9789869546683
+|[組織化皇權：中國共產黨的文化、再造和轉型](https://book.douban.com/subject/30145050/)|香港城市大學|郑永年|9789629373351
 |從鄧小平到習近平（*Following the Leader Ruling: China, From Deng Xiaoping to Xi Jinping*）|遠流|大衛‧藍普頓（David M. Lampton）、譯者：林添貴|9789573276593
 |中國共產黨不可說的祕密（*The Party: The Secret World of China’s Communist Rulers*）|聯經|馬利德（Richard McGregor）、譯者：樂為良|9789570838749
 |完美的獨裁：二十一世紀的中國（*The Perfect Dictatorship: China in the 21st Century*）|左岸文化|斯坦．林根（Stein Ringen）、譯者：薛青詩|9789865727482
@@ -838,6 +843,10 @@ Anne F. Thurston|9780684192192
 |從極權統治到韌性威權：中國政治變遷之路（*Political Change in China: From Totalitarian Rule to Resilient Authoritarianism*）|巨流|黎安友（Andrew J. Nathan）、譯者：何大明|9789577322760
 |脆弱的強權：在中國崛起的背後（*China - Fragile Superpower: How China’s Internal Politics Could Derail Its Peaceful Rise*）|遠流|謝淑麗（Susan L. Shirk）、譯者：溫洽溢|9789573263067
 |*The Chinese Mafia: Organized Crime, Corruption, and Extra-Legal Protection*|Oxford University Press|Peng Wang|9780198758402
+|*The Dictator's Dilemma: The Chinese Communist Party's Strategy for Survival*|Oxford University Press|Bruce J. Dickson|9780190228552
+|*Deceiving the Sky: Inside Communist China's Drive for Global Supremacy*|Encounter Books|Bill Gertz|9781641770545
+|*How China Sees the World: Han-Centrism and the Balance of Power in International Politics*|University of Nebraska Press|John M. Friend, Bradley A. Thayer|9781612349831
+|*Stealth War: How China Took Over While America's Elite Slept*|Portfolio|Robert Spalding|9780593084342
 |中國革命再闡釋|牛津大學|鄒讜、編：甘阳|9780195932294
 |共產主義後與中國|牛津大學|丁学良|9780195866452
 |共產世界的變遷：四個共黨政權的比較|東大|吳玉山|9789571918501
