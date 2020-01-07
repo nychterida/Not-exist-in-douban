@@ -323,7 +323,7 @@ layout: default
 |大工地上：中國農民工之歌|商務印書館（香港）有限公司|潘毅、盧暉臨、張慧鵬|9789620764547
 |中國女工：新興打工階級的呼喚（*Made In China: Women Factory Workers In a Global Workplace*）|明報（九州出版社）（Duke University Press）|潘毅（Pun Ngai）|9789628958252（9787510807848）（9781932643008）
 |富士康辉煌背后的连环跳|商務印書館(香港)有限公司|潘毅、盧暉臨、郭于華、沈原|9789620764639
-|合法性的政治：當代中國的國家與社會關係（平裝版）（二版）|國立臺灣大學出版中心|趙鼎新|[9789863503101](https://library.proletarian.me/download.php?link=books%2F263d982f0c5df15cd8e7cd9ba71a7c52.pdf)
+|合法性的政治：當代中國的國家與社會關係（平裝版）（二版）|國立臺灣大學出版中心|趙鼎新|[9789863503101](https://45.32.41.3/download.php?link=books%2F263d982f0c5df15cd8e7cd9ba71a7c52.pdf)
 |中國農民調查之小崗村的故事|發言權|陳桂棣、春桃|9789868528314
 |中国农民调查|人民文学出版社（大地）|陈桂棣、春桃|9787020044368（9789867480194）
 |[定西孤儿院纪事](https://book.douban.com/subject/26671188/)|花城出版社|杨显惠|9781780421834
@@ -407,6 +407,7 @@ layout: default
 |第二種忠誠：劉賓雁報告文學精選(一)|人間出版社|劉賓雁|
 |人妖之間：劉賓雁報告文學精選(二)|人間出版社|劉賓雁|
 |劉賓雁紀念文集|明鏡|黄河清、一平、北明、《劉賓雁紀念文集》編輯組|9781932138481
+|鬼推磨：中國魔幻三十年（1989-2019）|印刻|蘇曉康|9789863872177
 |中國冤案錄|勞改基金會|廖亦武|第一卷 2001 – 2003：9781931550048，第二卷 2003 – 2005：9781931550505
 |底層生活訪談錄|麥田|廖亦武（老威）|卷一：黑牢訪談錄9867895479、卷二：民間訪談錄9867895452、卷三：文人訪談錄9867895460
 |沉沦的圣殿：中国20世纪70年代地下诗歌遗照|新疆青少年出版社|廖亦武|7537132917
@@ -588,6 +589,9 @@ Anne F. Thurston|9780684192192
 |近代史的墮落：民國文人卷|八旗文化|劉仲敬|9789578654174
 |香港簡史：從殖民地至特別行政區（*A Concise History of Hong Kong*）|中華書局|高馬可（John M. Carroll）、译者：林立偉|9789888263202
 |社運年代：香港抗爭政治的軌跡|香港中文大學|鄭煒、袁瑋熙 編|9789882370661
+|香港第一課|春山出版|梁啓智|9789869849760
+|2019 香港風暴——《端傳媒》反修例運動報導精選|春山出版|端傳媒|9789869849777
+|潮湧——香港反修例運動影像紀錄|端傳媒出版|端傳媒|9789887993322
 |自由六月：2019年香港「反送中」與自由運動的開端|新銳文創|22 Hongkongers|9789578924697
 |反送中攝影集：我願榮光歸香港|台灣：奇異果文創事業有限公司|藝家, 天爸, Joey Kwok, Nasha Chan, 林健恆@USP, 香港理工大學學生會學生報編輯委員會|9789869759182
 |思索家邦：中國殖民主義狂潮下的香港|前衛|徐承恩|9789578018945
@@ -736,7 +740,7 @@ Anne F. Thurston|9780684192192
 |推銷中共：中宣部運作：讓黨繼續掌權|明鏡|安瑪麗.布雷迪（Anne-Marie Brady）|9781630328276
 |紅色滲透：中國媒體全球擴張的真相|八旗文化|何清漣|9789578654471
 |中國：崩而不潰|八旗文化|何清漣、程曉農|9789869541879
-|霧鎖中國：中國大陸控制媒體策略大揭密|黎明文化|何清漣|9789571607603
+|霧鎖中國：中國大陸控制媒體策略大揭密（*The Fog of Censorship: Media Control in China*）|黎明文化（Human Rights in China）|何清漣|9789571607603（[9780971735620](https://www.hrichina.org/sites/default/files/PDFs/Reports/HRIC-Fog-of-Censorship.pdf)）
 |中國改革的得與失|博大|何清漣、程曉農|9789628690701
 |20世紀後半葉歷史解密|博大|何清漣|9628690760
 |我们仍然在仰望星空|漓江出版社|何清涟|9787540726348
@@ -839,6 +843,7 @@ Anne F. Thurston|9780684192192
 |富國強兵之後：中國的百年復興及下一步（*Wealth & Power: China’s Long March to the Twenty-first Century*）|八旗|夏偉（Orville Schell）、魯樂漢（John Delury）、譯者：潘勛|9789869423168
 |注定一戰？中美能否避免修昔底德陷阱(*Destined for War: Can America and China Escape Thucydides’ Trap?*)|八旗文化|格雷厄姆・艾利森（Graham Allison）、譯者：包淳亮|9789578654310
 |美、中開戰的起點： 既有的強權，應該如何對面崛起中的強權？川普時代的美國，應該對中國採取什麼樣的態度？中國與美國，是否終需一戰？（*Crouching Tiger: What China’s Militarism Means for the World*）|光現出版|彼得‧納瓦羅（Peter Navarro）譯者：鍾友綸|9789869416498
+|人民解放軍的真相：中共200萬私軍的威脅、腐敗與野心（中国人民解放軍2050年の野望 - 米軍打倒を目指す200万人の「私兵」）|八旗文化|矢板明夫、譯者：鄭天恩|9789578654884
 |中國即將開戰：中國新軍國主義崛起|時報|楊中美|9789571357256
 |從極權統治到韌性威權：中國政治變遷之路（*Political Change in China: From Totalitarian Rule to Resilient Authoritarianism*）|巨流|黎安友（Andrew J. Nathan）、譯者：何大明|9789577322760
 |脆弱的強權：在中國崛起的背後（*China - Fragile Superpower: How China’s Internal Politics Could Derail Its Peaceful Rise*）|遠流|謝淑麗（Susan L. Shirk）、譯者：溫洽溢|9789573263067
@@ -846,7 +851,7 @@ Anne F. Thurston|9780684192192
 |*The Dictator's Dilemma: The Chinese Communist Party's Strategy for Survival*|Oxford University Press|Bruce J. Dickson|9780190228552
 |*Deceiving the Sky: Inside Communist China's Drive for Global Supremacy*|Encounter Books|Bill Gertz|9781641770545
 |*How China Sees the World: Han-Centrism and the Balance of Power in International Politics*|University of Nebraska Press|John M. Friend, Bradley A. Thayer|9781612349831
-|*Stealth War: How China Took Over While America's Elite Slept*|Portfolio|Robert Spalding|9780593084342
+|隱形戰：中國如何在美國菁英沉睡時悄悄奪取世界霸權（*Stealth War: How China Took Over While America's Elite Slept*）|遠流（Portfolio）|Robert Spalding、譯者：顏涵銳|9789573286929（9780593084342）
 |中國革命再闡釋|牛津大學|鄒讜、編：甘阳|9780195932294
 |共產主義後與中國|牛津大學|丁学良|9780195866452
 |共產世界的變遷：四個共黨政權的比較|東大|吳玉山|9789571918501
@@ -1126,7 +1131,7 @@ Anne F. Thurston|9780684192192
 |極端十年：中國文化大革命全過程分析（*The extreme decade: 1966-1976 in China*）|明鏡|柯雲路|9781932138504
 |*China's Cultural Revolution As History*|Stanford University Press|Joseph W. Esherick, Paul G. Pickowicz, Andrew G. Walder (Eds.)|9780804753494
 |嚼火不息：文革民間思想研究筆記（兩卷本）|牛津大學|錢理群|9780190820510
-|極端年代的公民政治：群眾的文化大革命史|中國文化傳播出版社|童小溪|[9789881970381](https://library.proletarian.me/download.php?link=My-library%2FTong+Xiao+Xi%2FJi+Duan+Nian+Dai+De+Gong+Min+Zheng+Zhi+%2528467%2529%2FJi+Duan+Nian+Dai+De+Gong+Min+Zheng+Zhi+-+Tong+Xiao+Xi.pdf&book=%E6%A5%B5%E7%AB%AF%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%85%AC%E6%B0%91%E6%94%BF%E6%B2%BB)
+|極端年代的公民政治：群眾的文化大革命史|中國文化傳播出版社|童小溪|[9789881970381](https://45.32.41.3/download.php?link=My-library%2FTong+Xiao+Xi%2FJi+Duan+Nian+Dai+De+Gong+Min+Zheng+Zhi+%2528467%2529%2FJi+Duan+Nian+Dai+De+Gong+Min+Zheng+Zhi+-+Tong+Xiao+Xi.pdf&book=%E6%A5%B5%E7%AB%AF%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%85%AC%E6%B0%91%E6%94%BF%E6%B2%BB)
 |文革時期中國農村的集體殺戮（*Collective Killings in Rural China during the Cultural Revolution*）|香港中文大學|蘇陽、譯者：宋熙|9789629965761
 |失蹤者的足跡：文化大革命期間的青年思潮|香港中文大學|印紅標|9789629963897
 |文革中的公民權競爭與集體暴力（文化大革命と中国の社会構造：公民権の配分と集団的暴力行為）|香港中文大學|楊麗君、譯者：趙曉靚|9789882370807
@@ -1389,6 +1394,7 @@ Anne F. Thurston|9780684192192
 |人類正常社會秩序概論|晨鐘|徐文立|9789881780447
 |我以我血薦軒轅|勞改基金會|徐文立|9781931550147
 |立此存照：500位中國人的心靈記錄|溯源|楊偉東|一：9781921815386，二：9789881644220，三：9789881644282，四（香港卷）：9789881279811
+|從兵馬俑到毛澤東與共產中國|前衛|宋亞伯|9789578018969
 |向中國低文明說不|天窗|鍾祖康|9789888292073
 |來生不做中國人|允晨文化|鍾祖康|9789867178527
 |中國比小說更離奇|允晨文化|鍾祖康|9789865794309
