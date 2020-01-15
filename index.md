@@ -10,6 +10,10 @@ layout: default
 |电影|年代|导演|IMDB
 |---|---|---|---
 |南方公园S23E02|2019|Trey Parker|[Band in China](https://www.imdb.com/title/tt8660720/)
+|南方公园S23E03|2019|Trey Parker|[Shots!!!](https://www.imdb.com/title/tt8660718/)
+|南方公园S1-|1999-|Trey Parker, Matt Stone, Brian Graden|[South Park](https://www.imdb.com/title/tt0121955/)
+|南方四贱客|1999|Trey Parker|[South Park: Bigger, Longer & Uncut](https://www.imdb.com/title/tt0158983/)
+|[蝴蝶](https://movie.douban.com/subject/1292331/)|2004|麦婉欣|[Butterfly](https://www.imdb.com/title/tt0440939/)
 |返校|2019|徐漢強|[Detention](https://www.imdb.com/title/tt10805432/)
 |出租车司机|2017|张勋（장훈）|[A Taxi Driver](https://www.imdb.com/title/tt6878038/)
 |1987：黎明到来的那一天|2017|张俊焕（장준환）|[1987: When the Day Comes](https://www.imdb.com/title/tt6493286/)
@@ -323,6 +327,7 @@ layout: default
 |大工地上：中國農民工之歌|商務印書館（香港）有限公司|潘毅、盧暉臨、張慧鵬|9789620764547
 |中國女工：新興打工階級的呼喚（*Made In China: Women Factory Workers In a Global Workplace*）|明報（九州出版社）（Duke University Press）|潘毅（Pun Ngai）|9789628958252（9787510807848）（9781932643008）
 |富士康辉煌背后的连环跳|商務印書館(香港)有限公司|潘毅、盧暉臨、郭于華、沈原|9789620764639
+|當代中國的國家與勞工：制度、衝突與變遷|香港中文大學|陳峰|9789882371705
 |合法性的政治：當代中國的國家與社會關係（平裝版）（二版）|國立臺灣大學出版中心|趙鼎新|[9789863503101](https://45.32.41.3/download.php?link=books%2F263d982f0c5df15cd8e7cd9ba71a7c52.pdf)
 |中國農民調查之小崗村的故事|發言權|陳桂棣、春桃|9789868528314
 |中国农民调查|人民文学出版社（大地）|陈桂棣、春桃|9787020044368（9789867480194）
@@ -454,6 +459,7 @@ layout: default
 |野心時代：在新中國追求財富、真相和信仰（*Age of Ambition: Chasing Fortune, Truth and Faith in the New China*）|八旗文化|歐逸文（Evan Osnos）、譯者：潘勛|9789865842475
 |野草：底層中國的緩慢革命（苛稅、胡同和法輪功：底層中國的緩慢革命）（*Wild Grass: Three Portraits of Change in Modern China*）|八旗文化|張彥（Ian Jounson），譯者：吳美真|9789869356244（9789868845428）
 |中國的靈魂：後毛澤東時代的宗教復興（*The Souls of China: The Return of Religion After Mao*）|八旗文化|張彥（Ian Jounson），譯者：廖彥博|9789578654495
+|邱吉爾與歐威爾：對抗極權主義，永不屈服！政治與文壇雙巨擘，影響後世革命深遠的不朽傳奇（*Churchill and Orwell: The Fight for Freedom*）|麥田|湯瑪斯．瑞克斯（Thomas E. Ricks）、譯者：洪慧芳|9789863446774
 |*The Shanghai Free Taxi: Journeys with the Hustlers and Rebels of the New China*|PublicAffairs|Frank Langfitt|9781610398145
 |*A Chinese Odyssey: The Life and Times of a Chinese Dissident*|Scribner|
 Anne F. Thurston|9780684192192
@@ -817,7 +823,7 @@ Anne F. Thurston|9780684192192
 |出賣中國：權貴資本主義的起源與共產黨政權的潰敗（*China’s Crony Capitalism: The Dynamics of Regime Decay*）|八旗文化|裴敏欣，譯者：梁文傑|9789869486583
 |中國的未來|好優文化|沈大偉（David Shambaugh）、譯者：侯英豪|9789869546683
 |[組織化皇權：中國共產黨的文化、再造和轉型](https://book.douban.com/subject/30145050/)|香港城市大學|郑永年|9789629373351
-|從鄧小平到習近平（*Following the Leader Ruling: China, From Deng Xiaoping to Xi Jinping*）|遠流|大衛‧藍普頓（David M. Lampton）、譯者：林添貴|9789573276593
+|從鄧小平到習近平（*Following the Leader Ruling: China, From Deng Xiaoping to Xi Jinping*）（中國夢：從鄧小平到習近平）|遠流|大衛‧藍普頓（David M. Lampton）、譯者：林添貴|9789573276593（9780520281219）（9789573287124）
 |中國共產黨不可說的祕密（*The Party: The Secret World of China’s Communist Rulers*）|聯經|馬利德（Richard McGregor）、譯者：樂為良|9789570838749
 |完美的獨裁：二十一世紀的中國（*The Perfect Dictatorship: China in the 21st Century*）|左岸文化|斯坦．林根（Stein Ringen）、譯者：薛青詩|9789865727482
 |主宰中國的太子黨（*Les fils de princes: Une génération au pouvoir en Chine*）|聯經|杜明（Jean-Luc Domenach），譯者：何啟仁|9789570851809
@@ -1360,7 +1366,7 @@ Anne F. Thurston|9780684192192
 |銀河裹的小白船|星克爾|靜雨|9789889945688
 |史學與佛學|星克爾|魏承思|9789889945619
 |中國的航船駛向何方|五七學社|蕭羽|9789881204301
-|歷史的覆轍：中俄革命之比較（*La récidive, Révolution russe, révolution chinoise*）|香港中文大學|畢仰高（Lucien Bianco），譯者：夏沛然|9789882370685
+|歷史的覆轍：中俄革命之比較（*La récidive, Révolution russe, révolution chinoise*）|香港中文大學|畢仰高（Lucien Bianco）、譯者：夏沛然|9789882370685
 |中國革命的起源，1915-1949（*Les Origines de la Révolution Chinoise 1915-1949*）|聯經|畢仰高（Lucien Bianco），譯者：陳三井，譯校：何啟仁|9789570849486
 |地主‧農民‧共產黨：社會博弈論分析|牛津大學|何高潮|9780195865868
 |光明前之黑暗．中國共產黨之觀察（殷海光全集第5卷）|國立臺灣大學出版中心|殷海光|9789860212242
@@ -1431,6 +1437,7 @@ Anne F. Thurston|9780684192192
 |我有翅膀如鴿子：「基督與生命」系列訪談錄第二卷|雅歌|余杰、王怡 等|9789868637900
 |萬縷神恩眷此生：基督與生命系列訪談錄 第三卷|雅歌|余杰|9789868637931
 |誰為神洲理舊疆：中國信仰重建與社會轉型|雅歌|余杰|9789868637917
+|用常識治國：右派商人川普的當國智慧|八旗文化|余杰|9789578654891
 |誰是新中國：中國現代史辨（*Which is the New China: Distinguishing between Right and Wrong in Modern Chinese History*）|夏菲爾（Blue Sky Publishing House）|辛灝年|9789881589354（0966609506）
 |中國命運與臺灣前途：辛灝年講演錄|博大|辛灝年|9789868897694
 |最後的侮辱|博大|辛灝年|9789868897663
