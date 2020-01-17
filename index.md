@@ -9,6 +9,7 @@ layout: default
 
 |电影|年代|导演|IMDB
 |---|---|---|---
+|新疆再教育營|2019|Jeanavive McGregor(ABC Australia)|[Tell the World](https://www.imdb.com/title/tt11091860/)
 |南方公园S23E02|2019|Trey Parker|[Band in China](https://www.imdb.com/title/tt8660720/)
 |南方公园S23E03|2019|Trey Parker|[Shots!!!](https://www.imdb.com/title/tt8660718/)
 |南方公园S1-|1999-|Trey Parker, Matt Stone, Brian Graden|[South Park](https://www.imdb.com/title/tt0121955/)
@@ -313,6 +314,7 @@ layout: default
 |暴政：掌控關鍵年代的獨裁風潮，洞悉時代之惡的20堂課（*On Tyranny: Twenty Lessons from the Twentieth Century*）|聯經|提摩希‧史奈德（Timothy Snyder）、譯者：劉維人|9789570853049
 |*The Great Firewall of China: How to Build and Control an Alternative Version of the Internet*|Zed Books|James Griffiths|[1786995352](https://www.goodreads.com/book/show/42585634-the-great-firewall-of-china)
 |抉擇 1949：中國知識分子的私人記錄|八旗文化|傅國涌|9789868563254
+|中國的人口危機：結婚難民、空巢青年、5億老人，了解這個超高齡大國的危機，你就知道中國為何突然急著統一臺灣（未来の中国年表 超高齢大国でこれから起こること）|大是文化|近藤大介、譯者：林農凱|9789579654586
 |大國空巢：走入歧途的中國計劃生育|大風|易富賢|9789889972530
 |獨生：中國最激進的社會工程實驗（*One Child: The Story of China’s Most Radical Experiment*）|衛城出版|方鳳美（Mei Fong）9789869533461
 |罪在當代 遺禍千秋——中國計劃生育政策實施三十周年研究報告|勞改基金會|吳弘達、沈括|931550573
@@ -598,6 +600,7 @@ Anne F. Thurston|9780684192192
 |香港第一課|春山出版|梁啓智|9789869849760
 |2019 香港風暴——《端傳媒》反修例運動報導精選|春山出版|端傳媒|9789869849777
 |潮湧——香港反修例運動影像紀錄|端傳媒出版|端傳媒|9789887993322
+|烈火黑潮： 城市戰地裡的香港人（隨書附贈「爆眼少女」手繪海報）|左岸文化|李雪莉、楊智強、陳怡靜|9789869865609
 |自由六月：2019年香港「反送中」與自由運動的開端|新銳文創|22 Hongkongers|9789578924697
 |反送中攝影集：我願榮光歸香港|台灣：奇異果文創事業有限公司|藝家, 天爸, Joey Kwok, Nasha Chan, 林健恆@USP, 香港理工大學學生會學生報編輯委員會|9789869759182
 |思索家邦：中國殖民主義狂潮下的香港|前衛|徐承恩|9789578018945
