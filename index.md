@@ -387,7 +387,7 @@ layout: default
 |人生伴侶：詩歌・散文|新世紀|馬建|9624996362
 |我是毛澤東的兒子|大地|葛銀、馬建|9622576028
 |*Stick Out Your Tongue: Stories*|Farrar Straus Giroux|Ma Jian, Trans. Flora Drew|9780374269883
-|*China Dream*|Chatto & Windus|Ma Jian, Trans. Flora Drew|9781784742492
+|中國夢（*China Dream*）|傾向（Chatto & Windus）|馬建（Trans. Flora Drew）|（）9781784742492
 |[丁庄梦](https://www.worldcat.org/title/ding-zhuang-meng/oclc/952361538?loc=)|上海文艺出版社|阎连科|[7532129489](https://www.goodreads.com/book/show/20869383)
 |為人民服務|麥田|閻連科|9867252942
 |四書|麥田|閻連科|9789861204901
@@ -724,6 +724,7 @@ Anne F. Thurston|9780684192192
 |劉曉波文集 第二卷 統一就是奴役：劉曉波論臺灣、香港及西藏|主流|劉曉波、編：余杰|9789869285032
 |劉曉波文集 第三卷 鐵窗後的自由|主流|劉曉波、編：余杰|9789869520010
 |劉曉波文集 第四卷 混世魔王毛澤東|主流|劉曉波、編：余杰|9789869520027
+|*Der Freiheit geopfert: Die Biografie des Friedensnobelpreisträgers Liu Xiaobo*|Riva|Bei Ling（貝嶺）|9783868831344
 |劉曉波傳|新世紀|余杰|9789881943057
 |我無罪：劉曉波傳|時報|余杰|9789571356280
 |不自由國度的自由人：劉曉波的生命與思想世界|八旗文化|余杰|9789869516839
