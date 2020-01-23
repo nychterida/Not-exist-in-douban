@@ -9,6 +9,7 @@ layout: default
 
 |电影|年代|导演|IMDB
 |---|---|---|---
+|[國際橋牌社](https://movie.douban.com/subject/32567923/)|2020|汪怡昕|[Island Nation](https://www.facebook.com/IslandNation1990/)
 |新疆再教育營|2019|Jeanavive McGregor(ABC Australia)|[Tell the World](https://www.imdb.com/title/tt11091860/)
 |南方公园S23E02|2019|Trey Parker|[Band in China](https://www.imdb.com/title/tt8660720/)
 |南方公园S23E03|2019|Trey Parker|[Shots!!!](https://www.imdb.com/title/tt8660718/)
@@ -650,6 +651,7 @@ Anne F. Thurston|9780684192192
 |香港獨立|主流出版社|余杰|9789869665391
 |關於香港，#我冇嘢講|白卷出版社|健吾|9789887904458
 |誰賣走了我的香港|白卷出版社|傘下的人|9789887904427
+|*City of Protest: A Recent History of Dissent in Hong Kong*|Penguin Random House Australia|Antony Dapiran|9780734399625
 |*Civil Unrest and Governance in Hong Kong: Law and Order from Historical and Cultural Perspectives*|Routledge|Edited by Michael H. K. Ng, John D Wong|pbk:9780367141912,hbk:9781138689978
 |民主推進器：兩岸三地的公民社會|獨立作家|蘇佳善|9789869006293
 |為什麼要佔領街頭？從太陽花、雨傘，到反送中運動（*Challenging Beijing's Mandate of Heaven: Taiwan's Sunflower Movement and Hong Kong's Umbrella Movement*）|左岸文化（Temple University Press）|何明修（Ming-sho Ho）|9789869800648（9781439917060）
@@ -666,6 +668,7 @@ Anne F. Thurston|9780684192192
 |這些太陽花學生教我們的事：24堂街頭上的民主課|費邊社文創有限公司|葉柏祥|9789869005371
 |野生的太陽花|玉山社|黃恐龍|9789862940921
 |[我的青春，在台灣](https://book.douban.com/subject/34875232/)|衛城|傅榆、陳令洋|9789869716550 
+|[國際橋牌社的時代](https://book.douban.com/subject/30298074/)|衛城|石芳瑜、吳崑玉、陳德愉、張鐵志|9789869681704
 |台灣生死書：自己的國家自己救|亞太政治哲學文化出版有限公司|袁紅冰|9789868971875
 |台灣如何成為一流國家|時報|李鴻源|9789571361529
 |中華民國如何不亡！？|台灣高齡化政策暨產業發展協會|楊志良|9789869250405
