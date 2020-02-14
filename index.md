@@ -313,6 +313,7 @@ layout: default
 |十個詞彙裡的中國|麥田|余華|9789861204772
 |姜文的前世今生：鬼子來了|新銳文創|啓之|9789866094101
 |暴政：掌控關鍵年代的獨裁風潮，洞悉時代之惡的20堂課（*On Tyranny: Twenty Lessons from the Twentieth Century*）|聯經|提摩希‧史奈德（Timothy Snyder）、譯者：劉維人|9789570853049
+|[永久记录](https://book.douban.com/subject/34862375/)（永久檔案*Permanent Record*）|民主与建设出版社（時報出版）|Edward Snowden、译者：萧美惠、郑胜得|[9787513927277](https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf)（9789571379531）
 |*The Great Firewall of China: How to Build and Control an Alternative Version of the Internet*|Zed Books|James Griffiths|[1786995352](https://www.goodreads.com/book/show/42585634-the-great-firewall-of-china)
 |抉擇 1949：中國知識分子的私人記錄|八旗文化|傅國涌|9789868563254
 |中國的人口危機：結婚難民、空巢青年、5億老人，了解這個超高齡大國的危機，你就知道中國為何突然急著統一臺灣（未来の中国年表 超高齢大国でこれから起こること）|大是文化|近藤大介、譯者：林農凱|9789579654586
@@ -331,7 +332,7 @@ layout: default
 |中國女工：新興打工階級的呼喚（*Made In China: Women Factory Workers In a Global Workplace*）|明報（九州出版社）（Duke University Press）|潘毅（Pun Ngai）|9789628958252（9787510807848）（9781932643008）
 |富士康辉煌背后的连环跳|商務印書館(香港)有限公司|潘毅、盧暉臨、郭于華、沈原|9789620764639
 |當代中國的國家與勞工：制度、衝突與變遷|香港中文大學|陳峰|9789882371705
-|合法性的政治：當代中國的國家與社會關係（平裝版）（二版）|國立臺灣大學出版中心|趙鼎新|[9789863503101](https://45.32.41.3/download.php?link=books%2F263d982f0c5df15cd8e7cd9ba71a7c52.pdf)
+|合法性的政治：當代中國的國家與社會關係（平裝版）（二版）|國立臺灣大學出版中心|趙鼎新|9789863503101
 |中國農民調查之小崗村的故事|發言權|陳桂棣、春桃|9789868528314
 |中国农民调查|人民文学出版社（大地）|陈桂棣、春桃|9787020044368（9789867480194）
 |[定西孤儿院纪事](https://book.douban.com/subject/26671188/)|花城出版社|杨显惠|9781780421834
@@ -1145,7 +1146,7 @@ Anne F. Thurston|9780684192192
 |極端十年：中國文化大革命全過程分析（*The extreme decade: 1966-1976 in China*）|明鏡|柯雲路|9781932138504
 |*China's Cultural Revolution As History*|Stanford University Press|Joseph W. Esherick, Paul G. Pickowicz, Andrew G. Walder (Eds.)|9780804753494
 |嚼火不息：文革民間思想研究筆記（兩卷本）|牛津大學|錢理群|9780190820510
-|極端年代的公民政治：群眾的文化大革命史|中國文化傳播出版社|童小溪|[9789881970381](https://45.32.41.3/download.php?link=My-library%2FTong+Xiao+Xi%2FJi+Duan+Nian+Dai+De+Gong+Min+Zheng+Zhi+%2528467%2529%2FJi+Duan+Nian+Dai+De+Gong+Min+Zheng+Zhi+-+Tong+Xiao+Xi.pdf&book=%E6%A5%B5%E7%AB%AF%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%85%AC%E6%B0%91%E6%94%BF%E6%B2%BB)
+|極端年代的公民政治：群眾的文化大革命史|中國文化傳播出版社|童小溪|9789881970381
 |文革時期中國農村的集體殺戮（*Collective Killings in Rural China during the Cultural Revolution*）|香港中文大學|蘇陽、譯者：宋熙|9789629965761
 |失蹤者的足跡：文化大革命期間的青年思潮|香港中文大學|印紅標|9789629963897
 |文革中的公民權競爭與集體暴力（文化大革命と中国の社会構造：公民権の配分と集団的暴力行為）|香港中文大學|楊麗君、譯者：趙曉靚|9789882370807
