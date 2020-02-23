@@ -423,7 +423,7 @@ layout: default
 |底層生活訪談錄|麥田|廖亦武（老威）|卷一：黑牢訪談錄9867895479、卷二：民間訪談錄9867895452、卷三：文人訪談錄9867895460
 |沉沦的圣殿：中国20世纪70年代地下诗歌遗照|新疆青少年出版社|廖亦武|7537132917
 |地震瘋人院：2008.5.12四川大地震記事|允晨文化|廖亦武|9789867178831
-|吆屍人（*THE CORPSE WALKER*）|允晨文化|廖亦武|9789865794293
+|吆屍人（*The Corpse Walker*）|允晨文化|廖亦武|9789865794293
 |輪迴的螞蟻|允晨文化|廖亦武|9789869622233
 |洞洞舞女和川菜廚子|允晨文化|廖亦武|9789865794071
 |上帝是紅色的|允晨文化|廖亦武|9789866274909
@@ -467,8 +467,7 @@ layout: default
 |中國的靈魂：後毛澤東時代的宗教復興（*The Souls of China: The Return of Religion After Mao*）|八旗文化|張彥（Ian Jounson），譯者：廖彥博|9789578654495
 |邱吉爾與歐威爾：對抗極權主義，永不屈服！政治與文壇雙巨擘，影響後世革命深遠的不朽傳奇（*Churchill and Orwell: The Fight for Freedom*）|麥田|湯瑪斯．瑞克斯（Thomas E. Ricks）、譯者：洪慧芳|9789863446774
 |*The Shanghai Free Taxi: Journeys with the Hustlers and Rebels of the New China*|PublicAffairs|Frank Langfitt|9781610398145
-|*A Chinese Odyssey: The Life and Times of a Chinese Dissident*|Scribner|
-Anne F. Thurston|9780684192192
+|*A Chinese Odyssey: The Life and Times of a Chinese Dissident*|Scribner|Anne F. Thurston|9780684192192
 |失去新中國：美商在中國的理想與背叛（*Losing the New China: A Story of American Commerce, Desire And Betrayal*）|博大|伊森‧葛特曼（Ethan Gutmann）、譯者：丁柯|1932674217
 |[當十億中國人一起跳（When a Billion Chinese Jump—How China Will Save Mankind or Destroy It）](https://book.douban.com/subject/5502980/)|天下雜誌|華衷（Jonathan Watts）、譯者：李芳齡|9789862412077
 |謊言帝國：中國雞年紀行（*L'Année du Coq*）|允晨文化|索爾孟（Guy Sorman）、譯者：許益源|9867178262
@@ -807,6 +806,7 @@ Anne F. Thurston|9780684192192
 |從王實味到劉曉波：中國當代文字獄囚徒編年錄(1947-2010年)(第一卷)|自由文化|張裕|9789868820425
 |*Censored: Distraction and Diversion Inside China's Great Firewall*|Princeton University Press|Margaret E. Roberts|(Hardcover 2018)9780691178868, (Paperback 2020)9780691204000
 |*Capitalism with Chinese Characteristics: Entrepreneurship and the State*|Cambridge University Press|Yasheng Huang|9780521898102
+|*The Art of Political Control in China*|Cambridge University Press|Daniel C. Mattingly|9781108485937
 |中國一把抓：你未必深知的108個問題（*China in the 21st Century：What Everyone Needs to Know*）|八旗文化|華志堅（Jeffrey N. Wasserstrom）；譯者：楊濤斌、蔣文豪|9789865842062
 |獨特又矛盾的經濟體：21世紀中國奇蹟背後的真相（*China’s Economy: What Everyone Needs to Know*）|聯經|葛藝豪（Arthur R. Kroeber）、譯者：吳國卿|9789570849813
 |與中國打交道：親歷一個新經濟大國的崛起（與中國打交道：美國前財長鮑爾森的二十年內幕觀察）（*Dealing with China: An Insider Unmasks the New Economic Superpower*）|香港中文大學（時報）|亨利‧保爾森（Henry M. Paulson）、譯：王宇光、朱淵、朱啟文、王慧、譯校：胡祖六、朱淵|9789629968175（9789571368696）
