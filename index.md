@@ -576,6 +576,7 @@ layout: default
 |燃燒的安魂曲|亞太政治哲學文化出版有限公司|袁紅冰|9789868971820
 |通向蒼穹之巔：翻越喜馬拉雅|亞太政治哲學文化出版有限公司|袁紅冰|9789869173964
 |金色的聖山（最新增訂版）|亞太政治哲學文化出版有限公司|袁紅冰|9789868971806
+|*Why the Dalai Lama is a Socialist: Buddhism and the Compassionate Society*|Zed Books|Terry Gibbs|9781783606450
 |*Xinjiang and the Modern Chinese State*|University of Washington Press|Justin M. Jacobs|9780295995656
 |*The War on the Uyghurs: China's Internal Campaign against a Muslim Minority*|Princeton University Press|Sean R. Roberts|9780691202181
 |*The Uyghurs: Strangers in Their Own Land*|Columbia University Press|Gardner Bovingdon|9780231147583
