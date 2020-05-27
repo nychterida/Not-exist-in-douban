@@ -9,6 +9,7 @@ layout: default
 
 |电影|年代|导演|IMDB
 |---|---|---|---
+|[历史入门101 第一季](https://movie.douban.com/subject/35052243/)|2020|Natalie Silverman|[History 101](https://www.imdb.com/title/tt11958648/)
 |[國際橋牌社](https://movie.douban.com/subject/32567923/)|2020|汪怡昕|[Island Nation](https://www.facebook.com/IslandNation1990/)
 |新疆再教育營|2019|Jeanavive McGregor(ABC Australia)|[Tell the World](https://www.imdb.com/title/tt11091860/)
 |南方公园S23E02|2019|Trey Parker|[Band in China](https://www.imdb.com/title/tt8660720/)
@@ -314,7 +315,7 @@ layout: default
 |姜文的前世今生：鬼子來了|新銳文創|啓之|9789866094101
 |暴政：掌控關鍵年代的獨裁風潮，洞悉時代之惡的20堂課（*On Tyranny: Twenty Lessons from the Twentieth Century*）|聯經|提摩希‧史奈德（Timothy Snyder）、譯者：劉維人|9789570853049
 |[永久记录](https://book.douban.com/subject/34862375/)（永久檔案*Permanent Record*）|民主与建设出版社（時報出版）|Edward Snowden、译者：萧美惠、郑胜得|[9787513927277](https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf)（9789571379531）
-|*The Great Firewall of China: How to Build and Control an Alternative Version of the Internet*|Zed Books|James Griffiths|[1786995352](https://www.goodreads.com/book/show/42585634-the-great-firewall-of-china)
+|牆國誌：中國如何控制網路（*The Great Firewall of China: How to Build and Control an Alternative Version of the Internet*）|遊擊文化（Zed Books）|James Griffiths、譯者：李屹|9789869762786（[1786995352](https://www.goodreads.com/book/show/42585634-the-great-firewall-of-china)）
 |抉擇 1949：中國知識分子的私人記錄|八旗文化|傅國涌|9789868563254
 |中國的人口危機：結婚難民、空巢青年、5億老人，了解這個超高齡大國的危機，你就知道中國為何突然急著統一臺灣（未来の中国年表 超高齢大国でこれから起こること）|大是文化|近藤大介、譯者：林農凱|9789579654586
 |大國空巢：走入歧途的中國計劃生育|大風|易富賢|9789889972530
@@ -685,6 +686,7 @@ layout: default
 |中華民國如何不亡！？|台灣高齡化政策暨產業發展協會|楊志良|9789869250405
 |[穿越紅色浪潮：史明的中國革命歷程與台灣獨立之路](https://book.douban.com/subject/4830862)|前衛|史明|9789868119925
 |史明口述史（共三冊）|行人|史明口述訪談小組|9789868823693
+|福爾摩沙實錄：2020大選以及台灣的前世今生|天下雜誌|吳豐山|9789863985365 
 |台灣獨曆2020：台灣歷史上的今天|前衛|Mock Mayson|9789578018921
 |台灣獨曆：台灣歷史上的今天（2019限定版）|前衛|Mock Mayson|9789578018594
 |大拋錨？！中國號超級拼裝巴士駛向何方？|八旗文化|范疇|9789868790681
@@ -726,6 +728,7 @@ layout: default
 |中國當代政治與中國知識份子|唐山|劉曉波|9789866552724
 |單刃毒劍：中國民族主義批判|博大|劉曉波|1932674322
 |大國沈淪：寫給中國的備忘錄|允晨文化|劉曉波|9789867178961
+|审美与人的自由|北京师范大学出版社|刘晓波|7303004149
 |劉曉波文集|新世紀|劉曉波、編：劉霞 胡平 廖天琪、代序：鮑彤、導言：胡平|9789881943040
 |向良心說謊的民族：劉曉波文集之一（增訂版）|捷幼|劉曉波|9789578523876
 |我沒有敵人：劉曉波文集之二|捷幼|劉曉波|9789578523869
@@ -811,6 +814,7 @@ layout: default
 |走|開放|寇延丁|9627934534
 |走着|開放|寇延丁|9622934542
 |敵人是怎樣煉成的：沒有權利沉默的中國人|時報|寇延丁|9789571367859
+|世界距離民主只有五天：一群中國少年的民主實驗|衛城|寇延丁|9789869889063
 |九一憶往|新世紀|于浩成|9789881329585
 |從王實味到劉曉波：中國當代文字獄囚徒編年錄(1947-2010年)(第一卷)|自由文化|張裕|9789868820425
 |*Censored: Distraction and Diversion Inside China's Great Firewall*|Princeton University Press|Margaret E. Roberts|(Hardcover 2018)9780691178868, (Paperback 2020)9780691204000
@@ -828,7 +832,7 @@ layout: default
 |中國民企維權第一案|博大|高智晟|9868163633
 |2017年，起來中國：酷刑下的維權律師高智晟自述|臺灣關懷中國人權聯盟|高智晟|9789869328012
 |雙規：一位中共前檢察官的調查報告|五七學社|沈良慶|9789881558749
-|失踪人民共和国：来自中国强迫失踪体系的故事（*The People's Republic of the Disappeared: Stories from inside China's system for enforced disappearances*）|CreateSpace Independent Publishing Platform|迈克尔·卡斯特（Michael Caster）編、序：騰彪|[9781981289820](http://rsdlmonitor.com/zh/)
+|失踪人民共和国：来自中国强迫失踪体系的故事（*The People's Republic of the Disappeared: Stories from inside China's system for enforced disappearances*）|CreateSpace Independent Publishing Platform, Safeguard Defenders (2nd ed.)|迈克尔·卡斯特（Michael Caster）編、序：騰彪|[9781981289820](http://rsdlmonitor.com/zh/)、9780999370681(2nd ed.)
 |*China's Human Rights Lawyers: Advocacy and Resistance*|Routledge|Eva Pils|9780415870849
 |*Deceiving the Sky: Inside Communist China's Drive for Global Supremacy*|Encounter Books|Bill Gertz|9781641770545
 |*Authoritarianism: What Everyone Needs to Know*|Oxford University Press|Erica Frantz|9780190880194
@@ -896,6 +900,7 @@ layout: default
 |毛主義革命：二十世紀的中國與世界|田園書屋|程映虹|9623390718
 |站上十三億人的頂端：習近平掌權之路（十三億分の一の男 中国皇帝を巡る人類最大の権力闘争）|聯經|峯村健司，譯者：蘆荻|9789570846829
 |習近平：共產中國最弱勢的領袖（習近平：共産中国最弱の帝王）|天下雜誌|矢板明夫、譯者：黃怡筠|9789862415979
+|守護靈靈言 習近平的辯解：為中國新冠肺炎所苦惱的領導人真實心聲(守護霊霊言　習近平の弁明：中国発・新型コロナウィルス蔓延に苦悩する指導者の本心)|台灣幸福科學出版有限公司|大川隆法、譯者：幸福科學經典翻譯小組|9789869844451
 |習近平是如何成為一位超級政治強人的？：對一場柔性政變的持續觀察|新銳文創|白信|9789578924338
 |中國教父習近平|開放（前衛）|余杰|9789627934332（9789578017399）
 |走向帝制：習近平與他的中國夢|前衛|余杰|9789578017931
