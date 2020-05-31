@@ -9,6 +9,7 @@ layout: default
 
 |电影|年代|导演|IMDB
 |---|---|---|---
+|明成皇后（명성황후）|2004|申昌碩|[Empress Myeongseong](https://www.imdb.com/title/tt2288116/)
 |[历史入门101 第一季](https://movie.douban.com/subject/35052243/)|2020|Natalie Silverman|[History 101](https://www.imdb.com/title/tt11958648/)
 |[國際橋牌社](https://movie.douban.com/subject/32567923/)|2020|汪怡昕|[Island Nation](https://www.facebook.com/IslandNation1990/)
 |新疆再教育營|2019|Jeanavive McGregor(ABC Australia)|[Tell the World](https://www.imdb.com/title/tt11091860/)
@@ -927,6 +928,7 @@ layout: default
 |張春橋：1949及其後|香港中文大學|鄭重|9789629966973
 |張春橋獄中家書|香港中文大學|張春橋|9789629967192
 |紅太陽是怎樣升起的：延安整風運動的來龍去脈（*How the Red Sun Rose: The Origins and Development of the Yan’an Rectification Movement, 1930–1945*）|香港中文大學|高華(Trans. Stacy Mosher & Guo Jian)|962201920X(9789629968229)
+|「紅星」是怎樣升起的：毛澤東早期形象研究（[赤い星は如何にして昇ったか：知られざる毛沢東の初期イメージ](https://book.douban.com/subject/30351172/)）｜香港中文大學|石川禎浩、譯者：袁广泉|9789882371736
 |延安的陰影|中央研究院近代史研究所|陳永發|[9781875559404](http://www.mh.sinica.edu.tw/PGPublication_Detail.aspx?mid=62&pubid=159)
 |毛澤東傳 (全四冊)|香港中文大學|魯林（Alain Roux），譯者：穆蕾|9789882370531
 |毛澤東：真實的故事（*Mao: The Real Story*）（毛泽东传（插图本）（*МАО：ВЕЛИКИЙ КОРМЧИЙ»И ЕГО ЭПОХА*））|聯經（中国人民大学出版社）|亞歷山大‧潘佐夫（Alexander V. Pantsov）、梁思文（Steven I. Levine），譯者：林添貴（卿文辉、崔海智、周益跃 ）|9789570845532（9787300215143）
