@@ -614,6 +614,7 @@ layout: default
 |香港簡史：從殖民地至特別行政區（*A Concise History of Hong Kong*）|中華書局|高馬可（John M. Carroll）、译者：林立偉|9789888263202
 |社運年代：香港抗爭政治的軌跡|香港中文大學|鄭煒、袁瑋熙 編|9789882370661
 |民現：在後佔領時代思考城市民主（*The Appearing Demos: Hong Kong During and After the Umbrella Movement*）|手民（University of Michigan Press）|彭麗君（Pang Laikwan）、譯者：李祖喬|9789887416135（9780472131785）
+|天愈黑，星愈亮──反修例運動的人和事|突破|譚蕙芸|9789888562220
 |香港第一課|春山出版|梁啓智|9789869849760
 |2019 香港風暴——《端傳媒》反修例運動報導精選|春山出版|端傳媒|9789869849777
 |潮湧——香港反修例運動影像紀錄|端傳媒出版|端傳媒|9789887993322
@@ -825,6 +826,7 @@ layout: default
 |*Censored: Distraction and Diversion Inside China's Great Firewall*|Princeton University Press|Margaret E. Roberts|(Hardcover 2018)9780691178868, (Paperback 2020)9780691204000
 |*Capitalism with Chinese Characteristics: Entrepreneurship and the State*|Cambridge University Press|Yasheng Huang|9780521898102
 |*The Art of Political Control in China*|Cambridge University Press|Daniel C. Mattingly|9781108485937
+|*China's Gilded Age: The Paradox of Economic Boom and Vast Corruption*|Cambridge University Press|Yuen Yuen Ang（洪源遠）|9781108478601
 |中國一把抓：你未必深知的108個問題（*China in the 21st Century：What Everyone Needs to Know*）|八旗文化|華志堅（Jeffrey N. Wasserstrom）；譯者：楊濤斌、蔣文豪|9789865842062
 |獨特又矛盾的經濟體：21世紀中國奇蹟背後的真相（*China’s Economy: What Everyone Needs to Know*）|聯經|葛藝豪（Arthur R. Kroeber）、譯者：吳國卿|9789570849813
 |與中國打交道：親歷一個新經濟大國的崛起（與中國打交道：美國前財長鮑爾森的二十年內幕觀察）（*Dealing with China: An Insider Unmasks the New Economic Superpower*）|香港中文大學（時報）|亨利‧保爾森（Henry M. Paulson）、譯：王宇光、朱淵、朱啟文、王慧、譯校：胡祖六、朱淵|9789629968175（9789571368696）
