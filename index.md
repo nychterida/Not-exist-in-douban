@@ -983,6 +983,7 @@ layout: default
 |中國民運反思|牛津大學|胡平|0195857666
 |天安门对峙|Sensys Corp|Eddie Cheng|9780982320310
 |邓小平在1989|新世紀|戴晴|9789881329639
+|*Remaking Beijing: Tiananmen Square and the Creation of a Political Space*|University of Chicago Press|Wu Hung|9780226360782
 |*Popular protest in the 1989 democracy movement: The pattern of grass-roots organization* (USC seminar series)|Hong Kong Institute of Asia-Pacific Studies, The Chinese University of Hong Kong|Andrew G Walder|9789624417081
 |*La Chine sous contrôle. Tiananmen 1989-2019*|Seuil|François Bougon|9782021398670
 |*Quelling the People: The Military Suppression of the Beijing Democracy Movement*|Stanford University Press|Timothy Brook|9780804736381
@@ -1427,6 +1428,7 @@ layout: default
 |中共興亡史 第一卷：中共的降生|帕米爾出版社|鄭學稼|9786686831114
 |中共興亡史 第二卷：由上海到武漢|帕米爾出版社|鄭學稼|9786686831121
 |中國共產主義運動史|政大出版社|鄭學稼|一：9789869735599、二：9789869830409、三：9789869830416、四：9789869830423
+|[*Finding Allies and Making Revolution: The Early Years of the Chinese Communist Party*](https://book.douban.com/subject/35098820/)|Brill|Tony Saich|9789004423442
 |太平杂说|百花文艺出版社|潘旭澜|9787530618691
 |盜賊史觀下的中國：從劉邦、朱元璋到毛澤東的盜賊皇帝史（中國の大盜賊）|八旗文化|高島俊男（たかしま としお）、譯者：張佑如|9789869457255
 |不受歡迎的中國人|開放|陳破空|9789627934437
