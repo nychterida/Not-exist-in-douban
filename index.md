@@ -9,6 +9,7 @@ layout: default
 |唱片名|发行年|创作者|发行公司
 |---|---|---|---
 |[下去不](https://music.douban.com/subject/3678439/)|1990|侯德健|名冠唱片
+|[還願（遊戲原聲帶）](https://open.spotify.com/album/0mK0f8CmAOtlG900CH2pR8?si=w6JfSOCMSJqjWqSR4f-xqQ)|2019|草東沒有派對、楊適維等|赤燭
 
 ### 电影
 
