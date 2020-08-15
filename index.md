@@ -291,6 +291,7 @@ layout: default
 |并：控制|2017|李惠仁|https://www.youtube.com/watch?v=ozlVdidEH_I
 |乡村牧师布道记|2012|佟卫军|https://www.douban.com/event/22075939/
 |China: A New World Order|2019|Richard Cookson|https://www.bbc.co.uk/programmes/m0007znv
+|[V字仇杀队](http://movie.douban.com/subject/1309046/)|2005|James McTeigue（詹姆斯·麦克特格）|[V for Vendetta](https://www.imdb.com/title/tt0434409/)
 {: #movie .display}
 
 ### 参考资料
