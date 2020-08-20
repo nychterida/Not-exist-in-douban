@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ## 豆瓣不存在的书籍
 
@@ -1258,20 +1255,3 @@ layout: default
 ### 参考资料
 
 1. [那些在豆瓣上消失的书](http://cul.qq.com/a/20151104/026086.htm)
-
-
-  <script type="text/javascript">
-    $(document).ready(function() {
-      $('#movie').DataTable({
-        "paging": false,
-      });
-    } );
-  </script>
-
-  <script type="text/javascript">
-    $(document).ready(function() {
-      $('#book').DataTable({
-        "paging": false,
-      });
-    } );
-  </script>
