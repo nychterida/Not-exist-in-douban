@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/X4_pd4NzQEqYqlH3kAW85w/badge)](https://hackmd.io/X4_pd4NzQEqYqlH3kAW85w)
 
 ## 豆瓣不存在的书籍
 
