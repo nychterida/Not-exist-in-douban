@@ -281,7 +281,6 @@
 |并：控制|2017|李惠仁|https://www.youtube.com/watch?v=ozlVdidEH_I
 |乡村牧师布道记|2012|佟卫军|https://www.douban.com/event/22075939/
 |China: A New World Order|2019|Richard Cookson|https://www.bbc.co.uk/programmes/m0007znv
-{: #movie .display}
 
 ### 参考资料
 
