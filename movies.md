@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/OBROsZzzTFmCUkAcKijZFw/badge)](https://hackmd.io/OBROsZzzTFmCUkAcKijZFw)
 ## 豆瓣不存在的影剧
 
 > 非登录状态不可见的 也会收录，因为这部分是对普通用户和搜索引擎不友好的  https://github.com/Terminus2049/Not-exist-in-douban/pull/9
