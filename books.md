@@ -1,307 +1,8 @@
----
-layout: default
----
+[![hackmd-github-sync-badge](https://hackmd.io/X4_pd4NzQEqYqlH3kAW85w/badge)](https://hackmd.io/X4_pd4NzQEqYqlH3kAW85w)
 
-## 豆瓣不存在的书影音
+## 豆瓣不存在的书籍
 
-### 音乐
-
-|唱片名|发行年|创作者|发行公司
-|---|---|---|---
-|[下去不](https://music.douban.com/subject/3678439/)|1990|侯德健|名冠唱片
-|[還願（遊戲原聲帶）](https://open.spotify.com/album/0mK0f8CmAOtlG900CH2pR8?si=w6JfSOCMSJqjWqSR4f-xqQ)|2019|草東沒有派對、楊適維等|赤燭
-
-### 电影
-
-|电影|年代|导演|IMDB
-|---|---|---|---
-|光州錄影帶：消失的4小時（광주비디오: 사라진 4시간）|2020|李祖勳（이조훈）|
-|明成皇后（명성황후）|2004|申昌碩|[Empress Myeongseong](https://www.imdb.com/title/tt2288116/)
-|[历史入门101 第一季](https://movie.douban.com/subject/35052243/)|2020|Natalie Silverman|[History 101](https://www.imdb.com/title/tt11958648/)
-|[國際橋牌社](https://movie.douban.com/subject/32567923/)|2020|汪怡昕|[Island Nation](https://www.facebook.com/IslandNation1990/)
-|新疆再教育營|2019|Jeanavive McGregor(ABC Australia)|[Tell the World](https://www.imdb.com/title/tt11091860/)
-|南方公园S23E02|2019|Trey Parker|[Band in China](https://www.imdb.com/title/tt8660720/)
-|南方公园S23E03|2019|Trey Parker|[Shots!!!](https://www.imdb.com/title/tt8660718/)
-|南方公园S1-|1999-|Trey Parker, Matt Stone, Brian Graden|[South Park](https://www.imdb.com/title/tt0121955/)
-|南方四贱客|1999|Trey Parker|[South Park: Bigger, Longer & Uncut](https://www.imdb.com/title/tt0158983/)
-|[蝴蝶](https://movie.douban.com/subject/1292331/)|2004|麦婉欣|[Butterfly](https://www.imdb.com/title/tt0440939/)
-|返校|2019|徐漢強|[Detention](https://www.imdb.com/title/tt10805432/)
-|出租车司机|2017|张勋（장훈）|[A Taxi Driver](https://www.imdb.com/title/tt6878038/)
-|1987：黎明到来的那一天|2017|张俊焕（장준환）|[1987: When the Day Comes](https://www.imdb.com/title/tt6493286/)
-|樹大招風|2016|許學文、歐文傑、黃偉傑|[Trivisa](https://www.imdb.com/title/tt4379800/)
-|凛冬烈火：乌克兰为自由而战|2016|叶夫根尼·艾菲尼夫斯基|[Winter on Fire: Ukraine's Fight for Freedom](https://www.imdb.com/title/tt4908644/)
-|自助洗衣店（The Laundromat）|2019|史蒂文·索德伯格（Steven Soderbergh）|[The Laundromat](https://www.imdb.com/title/tt5865326/)
-|悲兮魔兽|2015|赵亮|[Plastic China](https://www.imdb.com/title/tt4901304/)
-|天注定|2013|贾樟柯|[A Touch of Sin](https://www.imdb.com/title/tt2852400/)
-|昂山素季|2011|吕克贝松|[The Lady](https://www.imdb.com/title/tt1802197/)
-|夹边沟|2010|王兵|[The Ditch](https://www.imdb.com/title/tt1723112/)
-|被出賣的台灣|2009|Adam Kane|[Formosa Betrayed](https://www.imdb.com/title/tt1121786/)
-|红日风暴|2009|彭小莲、闽燕墨雨|[Storm Under the Sun](https://www.imdb.com/title/tt1387278/)
-|[江泽民/丹尼尔·巴伦博伊姆](https://movie.douban.com/subject/26829236/)|2000|CBS|[Jiang Zemin/Daniel Barenboim](https://www.imdb.com/title/tt2596436/)
-|华丽的假期|2007|金志勋|[May 18](https://www.imdb.com/title/tt0800341/)
-|颐和园|2006|娄烨|[Summer Palace](https://www.imdb.com/title/tt0794374/)
-|丑角登场|2004|崔子恩|[Enter the Clowns](https://www.imdb.com/title/tt0387120/)
-|盲井|2003|李杨|[Blind Shaft](https://www.imdb.com/title/tt0351299/)
-|任逍遥|2002|贾樟柯|[Unknown Pleasures](https://www.imdb.com/title/tt0318025/)
-|旧约|2002|崔子恩|[The Old Testament](https://www.imdb.com/title/tt1918883/)
-|安阳婴儿|2001|王超|[The Orphan of Anyang](https://www.imdb.com/title/tt0285848/)
-|北纬38度线|2000|韦廉、石伟等|[Northern Limit Line](https://www.imdb.com/title/tt4696222/)
-|天浴|1998|陈冲|[Xiu Xiu: The Sent Down Girl](https://www.imdb.com/title/tt0115005/)
-|红色角落|1997|乔恩·阿维奈|[Red Corner](https://www.imdb.com/title/tt0119994/)
-|天安门|1996|卡玛|[The Gate of Heavenly Peace](https://www.imdb.com/title/tt0113147/)
-|扁担·姑娘|1996|王小帅|[So Close to Paradise](https://www.imdb.com/title/tt0200486/)
-|迷岸|1996|于晓洋|
-|巫山云雨|1996|章明|[Rain Clouds over Wushan](https://www.imdb.com/title/tt0118199/)
-|桃花满天红|1995|王新生|[Tao hua man tian hong](https://www.imdb.com/title/tt0386814/)
-|裸血|1995|高子沣|[Naked Blood](https://www.imdb.com/title/tt0217679/)
-|蓝风筝|1993|田壮壮|[The Blue Kite](https://www.imdb.com/title/tt0107358/)
-|省港旗兵4：地下通道|1990|麦当杰|[Long Arm of the Law: Part 4](https://www.imdb.com/title/tt0103162/)
-|特别手术室|1988|田壮壮|[Unforgettable Life](https://www.imdb.com/title/tt0470549/)
-|挖掘机|2017|李柱亨|[Fork Lane](https://www.imdb.com/title/tt7506740/)
-|[厉害了，我的国](https://movie.douban.com/subject/30152451/)|2018|卫铁|[Amazing China](https://www.imdb.com/title/tt8081062/)
-|十年|2015|郭臻/黄飞鹏/欧文杰/周冠威/伍嘉良|[Ten Years](https://www.imdb.com/title/tt5269560/)
-|劫后天府泪纵横：四川的眼泪|2009|Jon Alpert, Matthew O'Neill|[China's Unnatural Disaster: The Tears of Sichuan Province](https://www.imdb.com/title/tt1430809/?ref_=ttls_li_tt)
-|上访|2009|赵亮|[Petition](https://www.imdb.com/title/tt1426381/)
-|塑料王国|2016|王久良|[Plastic China](https://www.imdb.com/title/tt6090264/)
-|垃圾围城|2012|王久良|[Beijing Besieged by Waste](https://www.imdb.com/title/tt1980046/)
-|[大路朝天](https://movie.douban.com/subject/26662337/)|2015|张赞波|[The Road](https://www.imdb.com/title/tt5142610/)
-|天降|2009|张赞波|[Falling From the SKy](https://www.imdb.com/title/tt2136916/?ref_=ttls_li_tt)
-|克拉玛依|2010|徐辛|[Karamay](https://www.imdb.com/title/tt1720130/)
-|刺杀金正恩|2014|塞思·罗根、埃文·戈德堡|[The Interview](https://www.imdb.com/title/tt2788710/)
-|[斯大林之死](https://movie.douban.com/subject/26779885/)|2017|阿尔曼多·伊安努奇|[The Death of Stalin](https://www.imdb.com/title/tt4686844/)
-|[小活佛](https://movie.douban.com/subject/1293408/)|1993|贝纳尔多·贝托鲁奇|[Little Buddha](https://www.imdb.com/title/tt0107426/)
-|[建国大业](https://movie.douban.com/subject/3543690/)|2009|黄建新|[The Founding of a Republic](https://www.imdb.com/title/tt1438461/)
-|[建党伟业](https://movie.douban.com/subject/4073898/)|2011|黄建新|[Beginning of the Great Revival](https://www.imdb.com/title/tt1699513/)
-|[皇天后土](https://movie.douban.com/subject/20274038/)|1981|白景瑞|[Huang tian hou tu](https://www.imdb.com/title/tt0082189/)
-|南海之后|2016|王男栿|[Hooligan Sparrow](https://www.imdb.com/title/tt4079902/)
-|1428|2009|杜海滨|[1428](https://www.imdb.com/title/tt1500679/)
-|一部塞尔维亚电影|2010|斯尔詹·斯帕索耶维奇|[A Serbian Film](https://www.imdb.com/title/tt1273235/)
-|竞相灭绝|2015|路易·西霍尤斯|[Racing Extinction](https://www.imdb.com/title/tt1618448/)
-|颍州的孩子|2006|杨紫烨|[The Blood of Yingzhou District](https://www.imdb.com/title/tt0859595/)
-|[动词变位](https://movie.douban.com/subject/1308140/)|2001|唐晓白|[Conjugation](https://www.imdb.com/title/tt0293107/)
-|河殇|1988|夏骏|[River Elegy](https://www.imdb.com/title/tt1441409/)
-|不再恐惧|2008|之项欠/久美嘉措|[Leaving Fear Behind](https://www.imdb.com/title/tt3464336/)
-|达赖的一生|1997|马丁·斯科塞斯|[Kundun](https://www.imdb.com/title/tt0119485/)
-|难以置信|2016|肯·斯通|[Hard to Believe](https://www.imdb.com/title/tt4675470/)
-|致命中国|2012|彼得·纳瓦罗|[Death by China](https://www.imdb.com/title/tt2304583/)
-|嘉农|2014|马志翔|[Kano](https://www.imdb.com/title/tt2247566/)
-|天与地|2011|戚其义、陆天华|[When Heaven Burns](https://www.imdb.com/title/tt2165489/)
-|西藏七年|1997|让·雅克·阿诺|[Seven Years in Tibet](https://www.imdb.com/title/tt0120102/)
-|绿帽子|2004|刘奋斗|[Green Hat](https://www.imdb.com/title/tt0416943/)
-|掩埋|2009|王利波|[Buried](https://www.imdb.com/title/tt4370770/)
-|死灵魂|2018|王兵|[Dead Souls](https://www.imdb.com/title/tt8296608/)
-|夹边沟祭事|2017|艾晓明|[Jiabiangou Elegy: Life and Death of the Rightists](https://www.imdb.com/title/tt7877136/)
-|南海之后|2016|王男栿|[Hooligan Sparrow](https://www.imdb.com/title/tt4079902/)
-|寻找林昭的灵魂|2004|胡杰|[In Search of Lin Zhao's Soul](https://www.imdb.com/title/tt6083394/)
-|穹顶之下|2015|柴静|[Under the Dome](https://www.imdb.com/title/tt4495750)
-|我們的青春，在台灣|2018|傅榆|[Our Youth in Taiwan](https://www.imdb.com/title/tt8711506/)
-|我們的那時此刻|2014|楊力州|[The Moment](https://www.imdb.com/title/tt7529652/)
-|独生子女国度|2019|Zhang Lynn（张嘉玲）, Nanfu Wang（王男栿）|[One Child Nation](https://www.imdb.com/title/tt8923482/)
-|公民哈维尔|2008|Miroslav Janek|[Obcan Havel(Citizen Havel)](https://www.imdb.com/title/tt0843329/)
-|中美共同体|2019|Channel 4 Television Corporation|[Chimerica](https://www.imdb.com/title/tt7948996)
-|出柜，中国LGBT的呐喊|2019|NHK|[ザ・カミングアウト～中国・LGBTの叫び～](https://www.nhk.or.jp/docudocu/program/2443/2409379/index.html)
-|切诺尔贝利|2019|乔韩·瑞克(Johan Renck)|[Chernobyl](https://www.imdb.com/title/tt7366338/)
-|傲骨之战 第三季|2018|罗伯特·金、弗雷德·托耶|[The Good Fight Season 3](https://www.imdb.com/title/tt8363128/)
-|凶年之畔|2017|黄闻海|[We the Workers](https://www.imdb.com/title/tt6433144/)
-|未来岁月（此去经年）|2019|西蒙·赛伦·琼斯（Simon Cellan Jones）|[Years and Years](https://www.imdb.com/title/tt8694364/)
-|地厚天高|2017|林子穎（Tze Wing Nora Lam）|[Lost in the fumes](https://www.imdb.com/title/tt7875626/)
-|光海，成为王的男人（광해: 왕이 된 남자）|2012|秋昌旼（추창민）|[Masquerade](https://www.imdb.com/title/tt2290840/)
-|空港城市（에어시티）|2007|林泰佑（임태우）|[Air City](https://www.imdb.com/title/tt1672137/)
-|棕榈店轶事|2004|Matthew Moore|[Wet Palms](https://www.imdb.com/title/tt0428185/)
-|[广场](https://movie.douban.com/subject/3087502/)|1994|张元，段锦川|[Guang Chang](https://www.imdb.com/title/tt0109948/)
-|[金正恩：未经授权的传记（Le dernier prince rouge）](https://movie.douban.com/subject/26759764/)|2016|Anthony Dufour|[Kim Jong Un: The Unauthorized Biography](https://www.imdb.com/title/tt5838396/)
-|浮云|1993|Keith Lock（骆奇光）|[Small Pleasures](https://www.imdb.com/title/tt0108164/)
-|流亡天堂|2010|Omar W. Rosales|[Heaven in Exile](https://www.imdb.com/title/tt1583263/)
-|他們在畢業的前一天爆炸（Days We Stared at the Sun）|第一季2010、第二季2017|鄭有傑|[Ta men zai bi ye de qian yi tian bao zha](https://www.imdb.com/title/tt1813893/)
-|西藏瑜珈士|2002|Jeffrey M. Pill|[The Yogis of Tibet](https://www.imdb.com/title/tt1429400/)
-|七月|2007|张虹|[July](https://www.imdb.com/title/tt4370918/)
-|中国是如何愚弄世界的|2014|Guy Smith|[How China Fooled the World: With Robert Peston](https://www.imdb.com/title/tt3553962/)
-|雪下之火|2008|Makoto Sasa|[Fire Under the Snow](https://www.imdb.com/title/tt1202564/)
-|大宝法王噶玛巴：神性的两种方式|1998|阿尔托·哈洛宁（Arto Halonen）|[Karmapa - Two Ways of Divinity](https://www.imdb.com/title/tt0166236/)
-|[主席的话](https://movie.douban.com/subject/1858675/)|1969|哈伦·法罗基（Harun Farocki）|[Die Worte des Vorsitzenden](https://www.imdb.com/title/tt0121880/)
-|[彭丽媛与阜艾会](https://movie.douban.com/subject/27181774/)|2006|杨紫烨|[Peng Liyuan & the Fu'Ai Charity](https://www.imdb.com/title/tt2034077/)
-|伊斯兰国：英国妇女支持者揭幕|2015|Joanna Potts|[Isis: The British Women Supporters Unveiled](https://www.imdb.com/title/tt5219198/)
-|云上佛童|2013|蔡杰|[Yun shang fo tong](https://www.imdb.com/title/tt4378432/)
-|酥油灯|2013|胡伟|[Butter Lamp](https://www.imdb.com/title/tt2922078/)
-|毛泽东的激情|2006|Lee Feigon|[The Passion of the Mao](https://www.imdb.com/title/tt0800157/)
-|鬼节|2012|沈洁|[Gui Jie](https://www.imdb.com/title/tt4400182/)
-|[天安门上太阳升](https://movie.douban.com/subject/1789621/)|1998|王水泊|[Sunrise Over Tiananmen Square](https://www.imdb.com/title/tt0189121/)
-|1989|2009|Camilo Matiz|[1989](https://www.imdb.com/title/tt1426316/)
-|为器官而死|2012|Tal Atzmon|[Killed for Organs: China's Secret State Transplant Business](https://www.imdb.com/title/tt5713106/)
-|行动中的同情心|2014|Khashyar Darvich|[Compassion in Action](https://www.imdb.com/title/tt3962058/)
-|麦里丝梦游辣境|2010|Lew Xypher|[Malice in Lalaland](https://www.imdb.com/title/tt1482454/)
-|[纽约](https://movie.douban.com/subject/3841966/)|2009|卡比尔·汗（Kabir Khan）|[New York](https://www.imdb.com/title/tt1328634/)
-|修道院图像|1979|Joe D'Amato|[Immagini di un convento](https://www.imdb.com/title/tt0165325/)
-|卡农|2011|Paul Tunge|[Kano](https://www.imdb.com/title/tt2112175/)
-|格林童话里的淫荡夫妇|1969|Rolf Thiele|[Grimms Märchen von lüsternen Pärchen](https://www.imdb.com/title/tt0064394/)
-|[毛泽东的故事](https://movie.douban.com/subject/1980954/)|1992|韩三平|[Mao zedong de gu shi](https://www.imdb.com/title/tt6394548/)
-|马三家的来信|2018|Leon Lee|[Letter from Masanjia](https://www.imdb.com/title/tt6390580/)
-|孩子不惧怕死亡，但是害怕魔鬼|2017|荣光荣|[Children Are Not Afraid of Death, Children Are Afraid of Ghosts](https://www.imdb.com/title/tt7059538/)
-|转世小活佛|2008|Nati Baratz|[Unmistaken Child](https://www.imdb.com/title/tt1286798/)
-|最后的达赖喇嘛|2016|Mickey Lemle|[The Last Dalai Lama?](https://www.imdb.com/title/tt6865478/)
-|我们还剩下什么（Ce qu'il reste de nous）|2004|Hugo Latulippe, François Prévost|[What Remains of Us](https://www.imdb.com/title/tt0420541/)
-|流亡中的自在：十四世达赖喇嘛的生活|1993|Mickey Lemle|[Compassion in Exile: The Life of the 14th Dalai Lama](https://www.imdb.com/title/tt0103995/)
-|十相自在|2017|Fuchs Natalie|[Kalachakra - L'éveil](https://www.imdb.com/title/tt5016542/)
-|[天安门](https://movie.douban.com/subject/3369389/)|2009|叶大鹰|[Tiananmen](https://www.imdb.com/title/tt5840762/)
-|严峻的现实/正义|1964|Chetan Anand|[Haqeeqat](https://www.imdb.com/title/tt0154565/)
-|自由中国：相信的勇气|2011|Michael Perlman|[Free China: The Courage to Believe](https://www.imdb.com/title/tt2248803/)
-|[白毛女](https://movie.douban.com/subject/26708775/)|2016|侯克明|[Bai Mao Nu](https://www.imdb.com/title/tt5624218/)
-|活佛|1994|Clemens Kuby|[Living Buddha](https://www.imdb.com/title/tt0110371/)
-|如何发动一场革命|2011|Ruaridh Arrow|[How to Start a Revolution](https://www.imdb.com/title/tt1956516/)
-|西藏七年|1959|Hans Nieter|[Seven Years in Tibet](https://www.imdb.com/title/tt0405304/)
-|[神仙代言人](https://movie.douban.com/subject/26881163/)|2016|许慧晶|[The Spokesperson](https://www.imdb.com/title/tt6089678/)
-|走起！|2012|陈小雨|[Zou qi!](https://www.imdb.com/title/tt4378472/)
-|议程：粉碎美国|2010|Curtis Bowers|[Agenda: Grinding America Down](https://www.imdb.com/title/tt2360880/)
-|日常反抗|2013|Arash T. Riahi, Arman T. Riahi|[Everyday Rebellion](https://www.imdb.com/title/tt3391782/)
-|橙色革命|2007|Steve York|[Orange Revolution](https://www.imdb.com/title/tt1073135/)
-|中国问题|2011|Brook Silva-Braga|[The China Question](https://www.imdb.com/title/tt1866258/)
-|青龙复仇|2014|卢宏轩，刘伟强|[Revenge of the Green Dragons](https://www.imdb.com/title/tt1396523/)
-|摇滚明星|2011|Imtiaz Ali|[Rockstar](https://www.imdb.com/title/tt1839596/)
-|西藏战士|2015|Dodo Hunziker|[Tibetan Warrior](https://www.imdb.com/title/tt4285612/)
-|高科技，低生活|2012|Stephan Maing|[High Tech, Low Life](https://www.imdb.com/title/tt2151988/)
-|第三次世界大战|2016|Sugan Kartthi|[Moondraam Ullaga Por](https://www.imdb.com/title/tt4020644/)
-|未夠秤|2014|杜浩綸（Matthew Torne）|[Lessons in Dissent](https://www.imdb.com/title/tt3425898/)
-|达赖喇嘛觉醒|2014|Khashyar Darvich|[Dalai Lama Awakening](https://www.imdb.com/title/tt3325392/)
-|移山|1994|Michael Apted|[Moving the Mountain](https://www.imdb.com/title/tt0110583/)
-|[黑太阳731之死亡列车](https://movie.douban.com/subject/3631034/)|1994|何志强|[Maruta 3 ... Destroy all Evidence](https://www.imdb.com/title/tt0105401/)
-|[黑太阳731续集之杀人工厂](https://movie.douban.com/subject/1300695/)|1992|何志强|[Hei tai yang 731 xu ji zhi sha ren gong chang](https://www.imdb.com/title/tt0099757/)
-|缅甸起义：看不到的真相|2008|Anders Østergaard|[Burma VJ: Reporting from a Closed Country](https://www.imdb.com/title/tt1333634/)
-|罪行摘要|2014|徐星|[Zuixing Zhaiyao](https://www.imdb.com/title/tt4370220/)
-|[即将到来的对华战争](https://movie.douban.com/subject/26929113/)|2016|John Pilger|[The Coming War on China](https://www.imdb.com/title/tt6197028/)
-|黃之鋒：青年對強權|2017|Joe Piscatella|[Joshua: Teenager vs. Superpower](https://www.imdb.com/title/tt6333072/)
-|故乡劫|1966|张曾泽|[Gu xiang jie](https://www.imdb.com/title/tt0193992/)
-|乌坎三日|2012|艾晓明|[Three Days in Wukan](https://www.imdb.com/title/tt9712038/)
-|[天下无诈](https://movie.douban.com/subject/27028777/)|2019|余丁|[Tian Xia Wu Zha](https://www.imdb.com/title/tt9685348/)
-|亂世備忘|2016|陳梓桓|[Yellowing](https://www.imdb.com/title/tt5456136/)
-|当龙吞了太阳|2010|Dirk Simon|[When the Dragon Swallowed the Sun](https://www.imdb.com/title/tt1379210/)
-|时间之轮|2003|Werner Herzog|[Wheel of Time](https://www.imdb.com/title/tt0331080/)
-|色情片天王|1999|Wesley Emerson|[Wadd: The Life & Times of John C. Holmes](https://www.imdb.com/title/tt0207195/)
-|超越恐惧：高智晟的故事|2012|马文静|[Transcending Fear: The Story of Gao Zhisheng](https://www.imdb.com/title/tt2415718/)
-|西藏：雪山狮子的哭泣|2002|Tom Piozet|[Tibet: Cry of the Snow Lion](https://www.imdb.com/title/tt0373389/)
-|习因素|2015|Jane McMullen|[The Xi Factor](https://www.imdb.com/title/tt5111650/)
-|仇岗卫士|2010|杨紫烨|[The Warriors of Qiugang](https://www.imdb.com/title/tt1744887/)
-|乌云背后的太阳：西藏自由的斗争|2010|Ritu Sarin, Tenzing Sonam|[The Sun Behind the Clouds: Tibet's Struggle for Freedom](https://www.imdb.com/title/tt1540068/)
-|理想国|2017|Peter Kosminsky|[The State](https://www.imdb.com/title/tt6068620/)
-|苏联故事|2008|Edvins Snore|[The Soviet Story](https://www.imdb.com/title/tt1305871/)
-|[中国：革命的世纪 之二：毛时代](https://movie.douban.com/subject/26966710/)|1994|Sue Williams|[The Mao Years: 1949-1976](https://www.imdb.com/title/tt0293392/)
-|[中国：革命的世纪 之三：生在红旗下](https://movie.douban.com/subject/26966710/)|1997|Sue Williams|[China: Born Under the Red Flag](https://www.imdb.com/title/tt0118850/)
-|情人与暴君|2016|Ross Adam, Robert Cannan|[The Lovers & the Despot](https://www.imdb.com/title/tt5278868/)
-|西藏失落的世界|2006|Emma Hindley|[The Lost World of Tibet](https://www.imdb.com/title/tt1198072/)
-|中国骗局|2017|Jed Rothstein|[The China Hustle](https://www.imdb.com/title/tt7215388/)
-|爱的十个条件|2009|Jeff Daniels|[The 10 Conditions of Love](https://www.imdb.com/title/tt1512237/)
-|夏季放牧|2010|Lynn True, Nelson Walker III, Tsering Perlo|[Summer Pasture](https://www.imdb.com/title/tt1566405/)
-|麦地冲的歌声|2016|胡杰|[Songs from Maidichong](https://www.imdb.com/title/tt6144090/)
-|霾途|2015|贾樟柯|[Smog Journeys](https://www.imdb.com/title/tt4382154/)
-|朝鲜秘密国|2014|James Jones|[Secret State of North Korea](https://www.imdb.com/title/tt3401176/)
-|天狐入侵/红色黎明/赤色黎明|1984|John Milius|[Red Dawn](https://www.imdb.com/title/tt0087985/)
-|资本主义人民共和国|2008|Ted Koppel|[People's Republic of Capitalism](https://www.imdb.com/title/tt1260252/)
-|长城之外|2011|韩光|[Outside the Great Wall](https://www.imdb.com/title/tt1942092/)
-|中国人来了|2011|Justin Rowlatt|[The Chinese are Coming](https://www.imdb.com/title/tt1840837/)
-|中国的秘密|2015|Billie JD Porter, Sicong Wang|[Secrets of China](https://www.imdb.com/title/tt4979490/)
-|坦克人|2006|Antony Thomas|[The Tank Man](https://www.imdb.com/title/tt0872938/)
-|沙尘暴|2004|Michael Mahonen|[Sandstorm](https://www.imdb.com/title/tt0445693/)
-|朝鲜：家戮|2017|Jane McMullen|[North Korea: Murder in the Family](https://www.imdb.com/title/tt7254114/)
-|八九点钟的太阳|2003|Geramie Barmé, Richard Gordon, Carma Hinton|[Morning Sun](https://www.imdb.com/title/tt0381430/)
-|米拉热帕|2006|Neten Chokling|[Milarepa](https://www.imdb.com/title/tt0499238/)
-|毛泽东（反潮流/魔法师的门徒/革命不是请客吃饭/幽魂不散）|2006|Adrian Maben|[Mao, une histoire chinoise](https://www.imdb.com/title/tt1502738/)
-|毛的大饥荒|2012|Patrick Cabouat|[La grande famine de Mao](https://www.imdb.com/title/tt2793436/)
-|假孔子之名|2017|Doris Liu|[In the Name of Confucius](https://www.imdb.com/title/tt5529788/)
-|活摘|2014|Leon Lee|[Human Harvest](https://www.imdb.com/title/tt3886488/)
-|自由西藏|1998|Sarah Pirozek|[Free Tibet](https://www.imdb.com/title/tt0169921/)
-|噤声|2012|Barbara Miller|[Forbidden Voices](https://www.imdb.com/title/tt2149692/)
-|反对者陈独秀1879-1942|2012|阳光卫视|[Fan dui zhe Chen Du Xiu 1879-1942](https://www.imdb.com/title/tt4958750/)
-|逃离伊斯兰国|2015|Edward Watts|[Escaping ISIS](https://www.imdb.com/title/tt4689754/)
-|逃离西藏|2012|Maria Blumencron|[Escape from Tibet](https://www.imdb.com/title/tt1793915/)
-|一路向西|2012|胡耀辉|[Due West: Our Sex Journey](https://www.imdb.com/title/tt2370792/)
-|梦拉萨|2005|Ritu Sarin, Tenzing Sonam|[Dreaming Lhasa](https://www.imdb.com/title/tt0469686/)
-|死于丝绸之路|1998|Richard Hering, Stuart Tanner|[Death on the Silk Road](https://www.imdb.com/title/tt3848640/)
-|达赖喇嘛的复兴|2007|Khashyar Darvich|[Dalai Lama Renaissance](https://www.imdb.com/title/tt0953363/)
-|旷工|2012|郭宗福|[Kuang gong](https://www.imdb.com/title/tt4400162/)
-|中国崛起|2006||[China Rises](https://www.imdb.com/title/tt0823876/)
-|带西藏回家|2013|Tenzin Tsetan Choklay|[Bringing Tibet Home](https://www.imdb.com/title/tt2983140/)
-|闭目塞听|2015|Vanessa Hope|[All Eyes and Ears](https://www.imdb.com/title/tt2505376/)
-|艾未未：无惧无求|2010|Matthew Springford|[Ai Weiwei: Without Fear or Favour](https://www.imdb.com/title/tt1977700/)
-|艾未未：证据|2014|Grit Lederer|[Ai Weiwei: Evidence](https://www.imdb.com/title/tt3789040/)
-|我无话可说|2017|应亮|[I Have Nothing to Say](https://www.imdb.com/title/tt7593300/)
-|达赖喇嘛的十个问题|2006|Rick Ray|[10 Questions for the Dalai Lama](https://www.imdb.com/title/tt0819354/)
-|我还有话要说|2012|应亮|[When Night Falls](https://www.imdb.com/title/tt2164662/)
-|沒有太陽的日子|1990|舒琪|[Meiyou taiyang de rizi](https://www.imdb.com/title/tt0100717/)
-|星火|2013|胡杰|[Xing huo](https://www.imdb.com/title/tt4141314/)
-|我虽死去|2006|胡杰|[Wo sui si qu](https://www.imdb.com/title/tt1666814/)
-|西藏的夜莺|2012|IYER|[The Nightingale of Tibet](https://www.imdb.com/title/tt1929237/)
-|艾未未：绝不道歉|2012|Alison Klayman|[Ai Weiwei: Never Sorry](https://www.imdb.com/title/tt1845773/)
-|艾未未：假案件|2013|Andreas Johnsen|[Ai Weiwei: The Fake Case](https://www.imdb.com/title/tt3281074/)
-|平安乐清|2013|艾未未|[Ping'an yueqing](https://www.imdb.com/title/tt6083312/)
-|Ai Weiwei's Appeal ¥15,220,910.50|2014|艾未未|[Ai Weiwei's Appeal ¥15,220,910.50](https://www.imdb.com/title/tt3508890/)
-|鄂尔多斯100|2012|艾未未|[Eerduosi 100](https://www.imdb.com/title/tt2355551/)
-|非常遗憾|2012|艾未未|[Fei chang yi han](https://www.imdb.com/title/tt2355571/)
-|非常抱歉|2010|艾未未|[Fei chang bao qian](https://www.imdb.com/title/tt2355569/)
-|老妈蹄花|2009|艾未未|[Lao ma ti hua](https://www.imdb.com/title/tt2355695/)
-|童话|2008|艾未未|[Tong hua](https://www.imdb.com/title/tt2355935/)
-|蜻蜓之眼|2017|徐冰|[Qing ting zhi yan](https://www.imdb.com/title/tt6576482/)
-|大同|2015|周浩|[Datong](https://www.imdb.com/title/tt4056808/)
-|无处为家：一个在北京的藏族人|2014|Jocelyn Ford|[Nowhere to Call Home: A Tibetan in Beijing](https://www.imdb.com/title/tt3451314/)
-|我毕业了|1992|王光利|[Wo Biye le](https://www.imdb.com/title/tt4370650/)
-|中英街1號|2018|趙崇基|[No. 1 Chung Ying Street](https://www.imdb.com/title/tt7473032/)
-|凶年之畔|2017|黄文海、曾金燕|[We the Workers](https://www.imdb.com/title/tt6433144/)
-|選老項|2016|邱禮濤|[The Mobfathers](https://www.imdb.com/title/tt5609302/)
-|不再恐惧|2008|Dhondup Wangchen|[Leaving Fear Behind](https://www.imdb.com/title/tt3464336/)
-|竞相灭绝|2015|Louie Psihoyos|[Racing Extinction](https://www.imdb.com/title/tt1618448/)
-|烏坎：民主之光|2013|梁思衆|[Wukan: The Flame of Democracy](https://www.imdb.com/title/tt3461160/)
-|傘上：遍地開花|2018|梁思衆|Umbrella Diaries: The First Umbrella
-|撐傘|2016|陳耀成|[Raise the Umbrellas](https://www.imdb.com/title/tt6337076/)
-|分域大道|2018|杜浩綸（Matthew Torne）|[Last Exit to Kai Tak](https://www.imdb.com/title/tt8668616/)
-|迷航|2019|Jill Li|[Lost Course](https://www.viff.org/Online/2019-series-dragonsandtigers)
-|[自由行](https://movie.douban.com/subject/30197582/)|2018|应亮|[A Family Tour](https://www.imdb.com/title/tt8731042/)
-|我还有话要说|2012|应亮|[When Night Falls](https://www.imdb.com/title/tt2164662/)
-|大堡小劳教|2014|谢贻卉|[Juvenile Laborers Confined in Dabao](https://www.imdb.com/title/tt4406580/)
-|自由城的囚徒|2007|胡佳、曾金燕|[Prisoners in Freedom City](https://www.nchrd.org/2008/02/eyewitness-article-3/)
-|超越恐惧：高智晟的故事|2012|马文璟|[Transcending Fear: The Story of Gao Zhisheng](https://www.imdb.com/title/tt2415718/)
-|小鬼头上的女人|2013|杜斌|[The Women of Masanjia Labor Camp](https://www.imdb.com/title/tt4505062/)
-|孩子不惧怕死亡，但是害怕魔鬼|2017|荣光荣|[Children Are Not Afraid of Death, Children Are Afraid of Ghosts](https://www.imdb.com/title/tt7059538/)
-|媒婆|1995|胡杰|[Women Matchmaker](https://www.chineseupress.com/index.php?route=product/product&product_id=2896)
-|晒太阳|2002|胡杰|[Basking in the Sun](https://www.chineseupress.com/index.php?route=product/product&product_id=2897)
-|[中原纪事](https://movie.douban.com/subject/30354477/)|2006|艾晓明|[The Epic of Central Plains](https://www.chineseupress.com/index.php?route=product/product&product_id=2994)
-|[天堂花园](https://movie.douban.com/subject/2131861/)|2005|艾晓明、胡杰|[Garden in Heaven](https://www.chineseupress.com/index.php?route=product/product&product_id=2957)
-|为革命画画：户县农民画|2005|艾晓明、胡杰|[Painting for the Revolution](https://www.chineseupress.com/index.php?route=product/product&product_id=2943)
-|阴道独白：幕后故事|2004|胡杰、艾晓明|[The Vagina Monologues: Stories from China](https://www.chineseupress.com/index.php?route=product/product&product_id=2978)
-|阴道独白：中山大学师生演出|2003|艾晓明、宋素凤|[The Vagina Monologues](https://www.chineseupress.com/index.php?route=product/product&product_id=2979)
-|[开往家乡的列车](https://movie.douban.com/subject/26280526/)|2008|艾晓明|[The Train to My Home Town](https://www.chineseupress.com/index.php?route=product/product&product_id=2921)
-|国家的敌人|2010|艾晓明|[Guojia de diren](https://www.chineseupress.com/index.php?route=product/product&product_id=2948)
-|人民代表姚立法|2006|艾晓明|[People's Representative YAO](https://www.chineseupress.com/index.php?route=product/product&product_id=2955)
-|性、性別与权利|2006|艾晓明|[Sexualities Genders & Rights in Asia](https://www.chineseupress.com/index.php?route=product/product&product_id=2956)
-|我们的娃娃|2009|艾晓明|[Our Children](https://www.chineseupress.com/index.php?route=product/product&product_id=2971)
-|忘川|2010|艾晓明|[Wang Chuan](https://www.chineseupress.com/index.php?route=product/product&product_id=2951)
-|花儿为什么这样红|2010|艾晓明|[Why the flower is red](https://www.chineseupress.com/index.php?route=product/product&product_id=2965)
-|档案|2014|朱日坤|[Dang an](https://www.imdb.com/title/tt3902570/)
-|欢迎|2016|朱日坤|[Welcome](https://www.imdb.com/title/tt5772470/)
-|安妮|2018|朱日坤|[Anni](https://www.imdb.com/title/tt8223320/)
-|尘|2014|朱日坤|[Dust](https://zhurikun.blogspot.com/2014/11/blog-post.html)
-|回到原处|2002|郭熙志|
-|喉舌|2009|郭熙志|
-|红日风暴|2007|彭小莲、魏时煜|[Storm Under the Sun](https://www.imdb.com/title/tt1387278/)
-|赫索格的日子|2010|何杨|[Herzog's Days](https://www.youtube.com/watch?v=hPwrOEM0dec)
-|吊照门|2010|何杨|[Disbarment](https://www.youtube.com/watch?v=SWtxHLFhncQ)
-|应急避难场所|2010|何杨|[Emergency shelter](https://www.youtube.com/watch?v=EHFHWmTM0uQ)
-|退无可退|2017|何杨|https://www.youtube.com/watch?v=B_a8csMNBZ4
-|血色年华|2010|何杨|https://www.youtube.com/watch?v=w4V7FjubOek
-|亡命|2012|翰光|[Outside the Great Wall](https://www.youtube.com/watch?v=qGVd7phN148)
-|让阳光撒到地上|2011|艾晓明|[Let the Sun Shine on the Ground](https://www.youtube.com/playlist?list=PL60F211CDC816434A)
-|我的母亲王佩英|2010|胡杰|[My Mother is Wang Pei Ying](https://www.chineseupress.com/index.php?route=product/product&product_id=3148)
-|并：控制|2017|李惠仁|https://www.youtube.com/watch?v=ozlVdidEH_I
-|乡村牧师布道记|2012|佟卫军|https://www.douban.com/event/22075939/
-|China: A New World Order|2019|Richard Cookson|https://www.bbc.co.uk/programmes/m0007znv
-|[V字仇杀队](http://movie.douban.com/subject/1309046/)|2005|James McTeigue（詹姆斯·麦克特格）|[V for Vendetta](https://www.imdb.com/title/tt0434409/)
-{: #movie .display}
-
-### 参考资料
-
-1. [品葱：有哪些豆瓣上不存在（被封杀）的电影名单？](https://www.pin-cong.com/p/46356/?s=52259)
-2. [维基百科：中华人民共和国被禁影视作品列表](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A2%AB%E7%A6%81%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8)
-3. [imdb 豆瓣无条目/无法标记](https://www.imdb.com/list/ls023736798/)
-4. [決絕---1997年年以來的中國獨立紀錄片展映](http://www.usc.cuhk.edu.hk/activities/summer-film-screening)
-
-## 书籍
+> 非登录状态不可见的 也会收录，因为这部分是对普通用户和搜索引擎不友好的  https://github.com/Terminus2049/Not-exist-in-douban/pull/9
 
 |书名|出版社|作者|ISBN
 |---|---|---|---
@@ -328,10 +29,12 @@ layout: default
 |抉擇 1949：中國知識分子的私人記錄|八旗文化|傅國涌|9789868563254
 |中國的人口危機：結婚難民、空巢青年、5億老人，了解這個超高齡大國的危機，你就知道中國為何突然急著統一臺灣（未来の中国年表 超高齢大国でこれから起こること）|大是文化|近藤大介、譯者：林農凱|9789579654586
 |大國空巢：走入歧途的中國計劃生育|大風|易富賢|9789889972530
-|獨生：中國最激進的社會工程實驗（*One Child: The Story of China’s Most Radical Experiment*）|衛城出版|方鳳美（Mei Fong）9789869533461
+|獨生：中國最激進的社會工程實驗（*One Child: The Story of China’s Most Radical Experiment*）|衛城出版|方鳳美（Mei Fong）|9789869533461
 |*Secrets and Siblings: The Vanished Lives of China’s One Child Policy*|Zed Books|Mari Manninen|9781786997326
 |罪在當代 遺禍千秋——中國計劃生育政策實施三十周年研究報告|勞改基金會|吳弘達、沈括|931550573
 |她們的征途：直擊、迂迴與衝撞，中國女性的公民覺醒之路|八旗文化|趙思樂|9789869516884
+|「米兔」在中國（思想 39）|聯經|思想編輯委員會 編|9789570853926
+|文化研究：游與疑（思想 15）|聯經|思想編輯委員會 編|9789570836134
 |民以何食為天|開益|周勍|9789881771087
 |纳粹德国的腐败与反腐|译林出版社|弗兰克·巴约尔（译者：陆大鹏）|9787544754750
 |违宪审查与民主制的平衡：一项比较研究|中国社会科学出版社|翟桔红|9787516113943
@@ -343,10 +46,10 @@ layout: default
 |中國女工：新興打工階級的呼喚（*Made In China: Women Factory Workers In a Global Workplace*）|明報（九州出版社）（Duke University Press）|潘毅（Pun Ngai）|9789628958252（9787510807848）（9781932643008）
 |富士康辉煌背后的连环跳|商務印書館(香港)有限公司|潘毅、盧暉臨、郭于華、沈原|9789620764639
 |當代中國的國家與勞工：制度、衝突與變遷|香港中文大學|陳峰|9789882371705
-|合法性的政治：當代中國的國家與社會關係（平裝版）（二版）|國立臺灣大學出版中心|趙鼎新|9789863503101
+|合法性的政治：當代中國的國家與社會關係（平裝版）|國立臺灣大學出版中心|趙鼎新|9789863503101
 |中國農民調查之小崗村的故事|發言權|陳桂棣、春桃|9789868528314
 |中国农民调查|人民文学出版社（大地）|陈桂棣、春桃|9787020044368（9789867480194）
-|[武漢封城日記](https://book.douban.com/subject/34988327/)|聯經|郭晶|9789570854985|
+|[武漢封城日記](https://book.douban.com/subject/34988327/)|聯經|郭晶|9789570854985
 |[定西孤儿院纪事](https://book.douban.com/subject/26671188/)|花城出版社|杨显惠|9781780421834
 |一滴淚：從肅反到文革的回憶（*A Single Tear*）|允晨文化|巫宁坤|9789867178398
 |暴風雨中一羽毛：動亂中失去的童年|明報出版社|巫一毛|9789628958245
@@ -401,8 +104,8 @@ layout: default
 |人生伴侶：詩歌・散文|新世紀|馬建|9624996362
 |我是毛澤東的兒子|大地|葛銀、馬建|9622576028
 |*Stick Out Your Tongue: Stories*|Farrar Straus Giroux|Ma Jian, Trans. Flora Drew|9780374269883
-|中國夢（*China Dream*）|傾向（Chatto & Windus）|馬建（Trans. Flora Drew）|（）9781784742492
-|[丁庄梦](https://www.worldcat.org/title/ding-zhuang-meng/oclc/952361538?loc=)|上海文艺出版社|阎连科|[7532129489](https://www.goodreads.com/book/show/20869383)
+|中國夢（*China Dream*）|傾向（Chatto & Windus）|馬建（Trans. Flora Drew）|（9789868479968）9781784742492
+|[丁庄梦](https://www.worldcat.org/title/ding-zhuang-meng/oclc/952361538)|上海文艺出版社|阎连科|[7532129489](https://www.goodreads.com/book/show/20869383)
 |為人民服務|麥田|閻連科|9867252942
 |四書|麥田|閻連科|9789861204901
 |软埋|人民文学出版社(民國歷史文化學社)|方方|[7020116140](https://www.goodreads.com/book/show/35414562)(9789887851097)
@@ -472,7 +175,8 @@ layout: default
 |弄潮兒（*Tide Players : The Movers and Shakers of a Rising China*）|牛津大學|查建英|9780198002093
 |中國波普（*China Pop*）|牛津大學|查建英、譯者：李家真|9780190486402
 |驚蟄·中國（*China Wakes: The Struggle for the Soul of a Rising Power*）|智庫股份有限公司|紀思道（Nicholas Kristof）、伍潔芳（Sheryl WuDunn）、譯者：陳妙香|9789579553209
-|低端人口：中國，是地下這幫鼠族撐起來的（*Le peuple des rats: Dans les sous-sols interdits de la Chine*）|聯經|派屈克‧聖保羅（Patrick Saint-Paul），譯者：陳文瑤|9789570851090
+|低端人口：中國，是地下這幫鼠族撐起來的（*Le peuple des rats: Dans les sous-sols interdits de la Chine*）|聯經|派屈克‧聖保羅（Patrick Saint-Paul）、譯者：陳文瑤|9789570851090
+|不存在的3億人：漂流、貧困、難以翻身，中國農民工的掙扎與悲歌（3億人の中国農民工 食いつめものブルース）|聯經|山田泰司、譯者：劉格安|9789570855135
 |[甲骨文：一次占卜當代中國的旅程（*Oracle Bones, A Journey Through Time In China*）](https://book.douban.com/subject/6539859/)|八旗文化|何偉（Peter Hessler）、譯者：盧秋瑩|9789868727519
 |走出毛澤東的陰影（*Out of Mao's Shadow*）|新世紀|潘公凱（Philip P. Pan）|9789881329615
 |野心時代：在新中國追求財富、真相和信仰（*Age of Ambition: Chasing Fortune, Truth and Faith in the New China*）|八旗文化|歐逸文（Evan Osnos）、譯者：潘勛|9789865842475
@@ -517,6 +221,7 @@ layout: default
 |中華人民共和國史十五講（二版）|聯經|王丹|9789570847697
 |邓小平时代：中国改革开放二十年纪实|中央编译出版社|杨继绳|7801093062
 |被埋葬的中國共產黨史：國民黨不提起的那些事，如何改變了中(華民)國的命運？|大是文化|譚璐美、譯者：潘承瑤|9789866037887
+|獨立革命的世界史：一百個民族解放運動故事|前衛|楊碧川|9789578019027
 |消失的「國民」：近代中國「少數民族」的國家認同與民族認同|香港中文大學|王柯|9789629966515
 |蒙古騎兵在西藏揮舞日本刀：蒙藏民族的時代悲劇（チベットに舞う日本刀 モンゴル騎兵の現代史）|大塊文化|楊海英、譯者：吉普呼蘭|9789862137864
 |在中國與蒙古的夾縫之間：一個蒙古人未竟的民族自決之夢（中囯とモンゴルのはざまで：ウラーンフーの実らなかった民族自決の夢）|八旗文化|楊海英|9789578654235
@@ -565,9 +270,9 @@ layout: default
 |第十四世達賴喇嘛傳|雪域|幸徹、譯者：索朗多吉|9789868562394
 |達賴喇嘛談：使命、佛法、教育、西藏|雪域|第十四世達賴喇嘛|9789869619349
 |聆聽達賴喇嘛|雪域|第十四世達賴喇嘛、譯者：盧惠娟、雪域智庫|9789868986855
-|慈悲如海：達賴喇嘛壽辰紀念專輯（*An Ocean of Compassion*）|雪域|譯者：賴育寧 等|編者：雪域智庫|9789868986817
+|慈悲如海：達賴喇嘛壽辰紀念專輯（*An Ocean of Compassion*）|雪域|譯者：賴育寧 等、編者：雪域智庫|9789868986817
 |尋找共同點|雪域|盧惠娟、雪域智庫|9789869308830
-|藏中港臺對話：2014-2016西藏研討會對話及論文|雪域|Thubten Samphel、Dagpo Sonam Norbu、唐丹鴻、李酉潭、曾建元 等|編者：盧惠娟, 雪域智庫|9789869308878
+|藏中港臺對話：2014-2016西藏研討會對話及論文|雪域|Thubten Samphel、Dagpo Sonam Norbu、唐丹鴻、李酉潭、曾建元 等、編者：盧惠娟, 雪域智庫|9789869308878
 |反彈的彎枝與巨無霸：西藏問題評論集|雪域|茉莉|9789869308854
 |西藏問題：華人新思考|雪域|雪域智庫|9789868753570
 |自焚藏人檔案|雪域|唯色|9789868753594
@@ -619,6 +324,7 @@ layout: default
 |近代史的墮落‧晚清北洋卷：劉仲敬點評近現代人物|八旗文化|劉仲敬|9789869335348
 |近代史的墮落．國共卷：劉仲敬點評近現代人物|八旗文化|劉仲敬|9789869356206
 |近代史的墮落：民國文人卷|八旗文化|劉仲敬|9789578654174
+|香港：破局與困局（思想40）|聯經|思想編輯委員會 編|9789570855432
 |香港簡史：從殖民地至特別行政區（*A Concise History of Hong Kong*）|中華書局|高馬可（John M. Carroll）、译者：林立偉|9789888263202
 |社運年代：香港抗爭政治的軌跡|香港中文大學|鄭煒、袁瑋熙 編|9789882370661
 |民現：在後佔領時代思考城市民主（*The Appearing Demos: Hong Kong During and After the Umbrella Movement*）|手民（University of Michigan Press）|彭麗君（Pang Laikwan）、譯者：李祖喬|9789887416135（9780472131785）
@@ -679,13 +385,25 @@ layout: default
 |香港獨立|主流出版社|余杰|9789869665391
 |關於香港，#我冇嘢講|白卷出版社|健吾|9789887904458
 |誰賣走了我的香港|白卷出版社|傘下的人|9789887904427
+|有些醜陋的香港人|白卷出版社|傘下的人、木、心、黎明、E君、陳煩、李由之、何沛鈞、梁翊婷、wingkykwong|9789887904304
+|有冇人熱烈慶祝香港回歸祖國二十年|白卷出版社|傘下的人|9789887711889
+|我們的最後進化|一人出版社|傘下的人|9789869795135
 |*City of Protest: A Recent History of Dissent in Hong Kong*|Penguin Random House Australia|Antony Dapiran|9780734399625
 |*Civil Unrest and Governance in Hong Kong: Law and Order from Historical and Cultural Perspectives*|Routledge|Edited by Michael H. K. Ng, John D Wong|pbk:9780367141912,hbk:9781138689978
+|*China’s Influence and the Centre-periphery Tug of War in Hong Kong, Taiwan and Beyond*|Routledge|Edited by Brian C. H. Fong, Jieh-min Wu, Andrew J. Nathan|9780367533564
 |民主推進器：兩岸三地的公民社會|獨立作家|蘇佳善|9789869006293
+|百年追求：臺灣民主運動的故事 卷一 自治的夢想（自治之夢：日治時期到二二八的臺灣民主運動）|衛城（春山）|陳翠蓮|9789868962637（9789869907255）
+|百年追求：臺灣民主運動的故事 卷二 自由的挫敗|衛城|吳乃德|9789868962644
+|百年追求：臺灣民主運動的故事 卷三 民主的浪潮|衛城|胡慧玲|9789868962651
 |為什麼要佔領街頭？從太陽花、雨傘，到反送中運動（*Challenging Beijing's Mandate of Heaven: Taiwan's Sunflower Movement and Hong Kong's Umbrella Movement*）|左岸文化（Temple University Press）|何明修（Ming-sho Ho）|9789869800648（9781439917060）
+|[台灣一黨獨裁體制的建立（台湾における一党独裁体制の成立）](https://book.douban.com/subject/20400958/) | 政大 |松田康博、譯者：黃偉修| 9789869830430
 |蔣介石與現代中國的奮鬥（*The Generalissimo: Chiang Kai-shek and the Struggle for Modern China*）|時報|陶涵（Jay Taylor）、譯者：林添貴|9789571351728
+|意外的國父：蔣介石、蔣經國、李登輝與現代臺灣|八旗文化 |汪浩|9789869486507（新版 9789865524166）
+|借殼上市：蔣介石與中華民國臺灣的形塑|八旗文化 |汪浩|9789865524159
+|本刊文責一律由總編輯鄭南榕負責：《自由時代》雜誌編輯室報告文選|逗點文創結社 |鄭南榕 | 9789869817073
 |民主台灣：後威權時代的社會運動與文化政治|香港中文大學|莊雅仲|9789629965921
 |台灣的中國兩難：台灣認同下的兩岸經貿困境（*Taiwan’s China Dilemma: Contested Identities and Multiple Interests in Taiwan’s Cross-Strait Economic Policy*）|商周出版|林夏如（Syaru Shirley Lin）、譯者：陳方隅、林添貴|9789864776290
+|記憶與遺忘的鬥爭：臺灣轉型正義階段報告|衛城|臺灣民間真相與和解促進會 |9789869211307
 |台灣獨立運動史|玉山|陳佳宏|9867375785
 |太陽花之後（思想27）|聯經|思想編輯委員會|9789570844993
 |學運世代：從野百合到太陽花（全新增訂版）|時報|何榮幸|9789571360188
@@ -705,9 +423,27 @@ layout: default
 |福爾摩沙實錄：2020大選以及台灣的前世今生|天下雜誌|吳豐山|9789863985365 
 |台灣獨曆2020：台灣歷史上的今天|前衛|Mock Mayson|9789578018921
 |台灣獨曆：台灣歷史上的今天（2019限定版）|前衛|Mock Mayson|9789578018594
+|餘生：我的生命之旅與台灣民主之路|大都會文化事業有限公司|李登輝、譯者：劉又菘|9789865719746
+|新．台灣的主張|遠足文化|李登輝|9789869208154
+|二十一世紀台灣要到哪裡去|遠流|李登輝|9789573272083
+|生命之旅：李前總統2012~2015台灣深度訪察實錄暨言論集| 允晨文化|財團法人李登輝基金會|9789868897120
+|李登輝總統訪談錄(全四冊)|允晨文化|李登輝、張炎憲|9789867178640
+|921大地震救災日記|允晨文化|李登輝|9570329882
+|為主作見證：李登輝的信仰告白|遠流|李登輝|9789573272090
+|見證台灣：蔣經國與我|允晨文化|李登輝、國史館|9570329793
+|最高領導者的條件|允晨文化|李登輝|9789867178855
+|李登輝總統照片集|允晨文化|國史館李登輝口述歷史小組|9570329904
+|李登輝學校的教誨|先覺|李登輝|9576076811
+|亞洲的智略|遠流|李登輝、譯者：駱文森、楊明珠|9573241706
+|台灣的主張|遠流|李登輝|9573237245
+|經營大台灣|遠流|李登輝、編者：楊菁|9573224437（新刊本 9573226510）
+|臺灣農業發展的經濟分析|聯經|李登輝|
+|「武士道」解題（「武士道」解題 ノーブレス・オブリージュとは）|前衛（小学館）|李登輝、譯者：蕭志強|9578014252（9784094057928）
+|總統直選與民主臺灣 |致知學術出版||9789865681838
 |大拋錨？！中國號超級拼裝巴士駛向何方？|八旗文化|范疇|9789868790681
 |與習近平聊聊台灣和中國|八旗文化|范疇|9789865842727
 |中共百年：看習近平十年|新銳文創|洪耀南|9789869545204
+|24小時解放臺灣？：中共攻臺的N種可能與想定|時報出版|黃河 |9789571382753
 |台灣政府閉口不提的中國戰力報告：解放軍打算如何攻下台灣？台海為何是中、美、日的最主要戰場？（中国の戦争力）|大是文化|小川和久、西恭之、譯者：郭凡嘉|9789865770914
 |國家的決斷：給台灣人看的二戰後國際關係史|八旗文化|張國城|9789578654846
 |全面滲透：中國正在遙控臺灣|主流|曾韋禎|9789869665377
@@ -913,6 +649,8 @@ layout: default
 |真实的朝鲜|天津教育出版社|叶永烈|9787530951330
 |我與中共和柬共 赤色華人解秘：柬共如何興亡 (第二版)|田園書屋|周德高 筆述、朱學淵 撰寫|9623390688
 |無聲的入侵：中國因素在澳洲（*Silent Invasion: China’s Influence in Australia*）|左岸文化|克萊夫．漢密爾頓（Clive Hamilton）、譯者：江南英|9789865727833
+|大熊貓的利爪：中國如何滲透、影響與威嚇加拿大（*Claws of the Panda: Beijing’s Campaign of Influence and Intimidation in Canada*）|左岸文化|文達峰（Jonathan Manthorpe）、譯者：王湘瑋|9789869865630
+|全球只剩北京標準時間：中國正以金援、國民觀光、駭客、貓熊、收購和影城……根本不用出兵，不知不覺主宰了全世界和你的日常。（*Il est midi à Pékin*）|大是文化|艾利克．寇爾（Éric Chol）、吉勒．峰丹（Gilles Fontaine）、譯者：黃明玲|9789579654975
 |茉莉花開：中東革命與民主路|圓桌文化|陳婉容|9789888270750
 |中國的第二個大陸：百萬中國移民如何在非洲投資新帝國（*China’s Second Continent: How a Million Migrants Are Building a New Empire in Africa*）|麥田|傅好文（Howard W. French）、譯者：李奧森|9789863441830
 |毛主義革命：二十世紀的中國與世界|田園書屋|程映虹|9623390718
@@ -1016,7 +754,7 @@ layout: default
 |*Cries For Democracy: Writings and Speeches from the Chinese Democracy Movement*|Princeton University Press|Minzhu Han|9780691008578
 |中國「六四」真相（*The Tiananmen Papers*）|明鏡（Public Affairs）|Compiled by Liang Zhang（張良）; Edited by Andrew J. Nathan and Perry Link; With an introduction by Orville Schell|9628744364（9781586481223）
 |“六四”抗暴者法庭档案|国史出版社|中国政治及宗教受难者后援会（澳大利亚） 编|9781936895830
-|最後的秘密——中共十三屆四中全會「六四」結論文檔|新世紀|9789881329646
+|最後的秘密——中共十三屆四中全會「六四」結論文檔|新世紀||9789881329646
 |[回顾与反思：八九学运历史回顾与反思研讨会](http://www.tsquare.tv/chinese/archives/hname.html)|德国莱茵笔会、德国亚琛八九学社|六四流亡學生17人|
 |李鹏六四日记：被官方禁止出版的六四内幕|西点出版社|李鹏|9780615379401
 |李鵬六四日記真相：附錄李鵬六四日記原文|澳亞|李鵬。編：張剛華|9781921815003
@@ -1031,7 +769,7 @@ layout: default
 |六四的內情：未完成的涅槃|風雲時代|包遵信|9576458129
 |商海雲帆：四通故事|天語|萬潤南|9783981091687
 |我的入獄|明報|戴晴|
-|六四日记：广场上的共和国（简体中文版 2018）（增訂版 2013）|溯源書社|封从德|[9781387800186](http://www.lulu.com/shop/feng-congde-封從德/六四日记a-tiananmen-journal/ebook/product-23636029.html);[9789881644268](https://www.goodreads.com/book/show/12825175)
+|六四日记：广场上的共和国（简体中文版 2018）（增訂版 2013）|溯源書社|封从德|[9781387800186](http://www.lulu.com/shop/feng-congde-封從德/六四日记a-tiananmen-journal/ebook/product-23636029.html); [9789881644268](https://www.goodreads.com/book/show/12825175)
 |王丹回憶錄：從六四到流亡|時報|王丹|9789571356525
 |王丹．獄中回憶錄|渠成文化|王丹|9789868888722
 |王丹獄中家書|明鏡|王丹|1894370007
@@ -1138,7 +876,7 @@ layout: default
 |八九六四 「天安門事件」は再び起きるか|角川書店|安田 峰俊|9784041067352
 |趙紫陽文集（1980–1989）|香港中文大學|《趙紫陽文集》編輯組 編|第一卷：9789629968069，第二卷：9789629968076，第三卷：9789629968083，第四卷：9789629968090
 |趙紫陽文集，1975-1980（四川卷）|香港中文大學|《趙紫陽文集》編輯組 編|9789882371149
-|改革歷程：完整錄音 還原歷史（英譯本*Prisoner of the State: The Secret Journal of Premier Zhao Ziyang*）（台版 國家的囚徒：趙紫陽的祕密錄音）|新世紀（台灣：時報）|9789881720276（台版：9789571350523）
+|改革歷程：完整錄音 還原歷史（英譯本*Prisoner of the State: The Secret Journal of Premier Zhao Ziyang*）（台版 國家的囚徒：趙紫陽的祕密錄音）|新世紀（台灣：時報）|趙紫陽| 9789881720276（台版：9789571350523）
 |[改革历程：献给改革开放30年](https://book.douban.com/subject/3393295/)|经济科学出版社|高尚全|9787505877009
 |趙紫陽傳：一位失敗改革家的一生|印刻|盧躍剛|9789863873204
 |趙紫陽與政治改革|太平洋世紀硏究所|吳國光|
@@ -1185,11 +923,10 @@ layout: default
 |極端年代的公民政治：群眾的文化大革命史|中國文化傳播出版社|童小溪|9789881970381
 |文革時期中國農村的集體殺戮（*Collective Killings in Rural China during the Cultural Revolution*）|香港中文大學|蘇陽、譯者：宋熙|9789629965761
 |失蹤者的足跡：文化大革命期間的青年思潮|香港中文大學|印紅標|9789629963897
-|文革中的公民權競爭與集體暴力（文化大革命と中国の社会構造：公民権の配分と集団的暴力行為）|香港中文大學|楊麗君、譯者：趙曉靚|9789882370807
 |崇拜毛：文化大革命中的言辭崇拜與儀式崇拜（*Mao Cult: Rhetoric and Ritual in China's Cultural Revolution*）|香港中文大學|丹尼爾‧里斯（Daniel Leese）、譯者：秦禾聲、高康、楊雯琦、校：唐少傑|9789629967987
 |文革文鬥：文化大革命時期中國文化喧囂怪狀|海馬|鄭光路|9780966542189
 |毛沢東最高指示: プロレタリア文化大革命期の発言|三一書房|新島淳良 編|1031702003-2726
-|文革中的公民權競爭與集體暴力（文化大革命と中国の社会構造 : 公民権の配分と集団的暴力行為）|香港中文大學（御茶の水書房）|楊麗君|9789882370807（9784275003010）
+|文革中的公民權競爭與集體暴力（文化大革命と中国の社会構造 : 公民権の配分と集団的暴力行為）|香港中文大學（御茶の水書房）|楊麗君、譯者：趙曉靚|9789882370807（9784275003010）
 |文化大革命の遺制と闘う―徐友漁と中国のリベラリズム|社会評論社|徐 友漁、遠藤 乾、川島 真、石井 知章、鈴木 賢|9784784513444 
 |*The Politics of the Chinese Cultural Revolution: A Case Study*|University of California Press|Hong Yung Lee|9780520040656
 |*The Cultural Revolution at the Margins: Chinese Socialism in Crisis*|Harvard University Press|Yiching Wu|9780674728790
@@ -1198,7 +935,7 @@ layout: default
 |青春無痕：一個造反派工人的十年文革|香港中文大學|陳益南|9789629962975
 |紅衛兵日記|香港中文大學|陳煥仁|9789629962579
 |形形色色的造反：紅衛兵精神素質的形成及演變|香港中文大學|徐友漁|9789622018945
-|失落的一代：中國的上山下鄉運動·1968-1980（*The Lost Generation: The Rustification of Chinese Youth 1968-1980*）|香港中文大學|[法]潘鳴嘯（Michel Bonnin）、譯者：歐陽因|9789629963910
+|失落的一代：中國的上山下鄉運動·1968-1980（*The Lost Generation: The Rustification of Chinese Youth 1968-1980*）|香港中文大學|潘鳴嘯（Michel Bonnin）、譯者：歐陽因|9789629963910
 |故事不是歷史：文革的紀實與書寫|要有光|啟之 編|9789868912878
 |我曾經的名字叫知青|釀出版|子蘊|9789865871840
 |一個紅衛兵小報主編的文革記憶|新銳文創|周孜仁|9789866094651
@@ -1211,14 +948,21 @@ layout: default
 |紅色工程師的崛起：清華大學與中國技術官僚階層的起源（*Rise of the Red Engineers: The Cultural Revolution and the Origins of China's New Class*）|香港中文大學|安舟（Joel Andreas）、譯者：何大明|9789629967963
 |*Hundred Day War: The Cultural Revolution at Tsinghua University*|Monthly Review Press|William Hinton|9780853452812
 |*Fractured Rebellion: The Beijing Red Guard Movement*|Harvard University Press|Andrew G. Walder|9780674064133
+|抢救记忆：一个北大学生的文革回忆录|中国文化传播出版社|王复兴|9789887705505
+|回顾暴风雨年代：北大文革亲历者文集|Dixie W Publishing Corporation|王复兴 编|9781683721291
+|回顾暴风雨年代：北大文革亲历者文集（第二集）|Dixie W Publishing Corporation|王复兴 编| 9781683721857
+|回顾暴风雨年代：北大文革亲历者文集（第三集）|美国华忆出版社|王复兴 编| 9781951135348
 |革命造反年代：上海文革運動史稿|牛津大學|李遜|9780199441686
 |理性與瘋狂：文化大革命中的群衆（*Failure of Charisma: The Cultural Revolution in Wuhan*）|牛津大學|王紹光、译者：燕青山、易飞先、张爱茹|9780195860221 
+|既非一個文革，也非兩個文革：南外紅衛兵打死工人王金事件個案分析| 博客思 | 喬晞華 | 9789865789787
+| 文革在中國歷史的定位| 博客思 | 薛遒 | 9789865789756
 |血的神話：公元1967年湖南道縣文革大屠殺紀實（第二版）|天行健|譚合成|9789881895608
 |紅色新聞兵：一個攝影記者密藏底片中的文化大革命|香港中文大學|李振盛|9789882370586
 |沒有墓碑的草原：內蒙古的文革大屠殺實錄(墓標なき草原――内モンゴルにおける文化大革命・虐殺の記録)|八旗文化|楊海英、譯者：劉英伯、劉燕子|9789865842406
 |內蒙文革實錄：「民族分裂」與「挖肅」運動|天行健|啟之|9789881751584
 |內蒙文革風雷：一位造反派領袖的口述史（*Cultural revolution in inner Mongolia : oral history of a rebel leader*）|明鏡|高樹華、程鐵軍|9781932138566
 |モンゴル人の民族自決と「対日協力」-いまなお続く中国文化大革命|集広舎|楊海英|9784904213414
+|云南文革史稿|美国华忆出版社|周孜仁|上（9781951135140）下（9781951135164）
 |廣西文革痛史鉤沉|新世紀|曉明|9789889942021
 |文革機密檔案：廣西報告|明鏡|中共廣西壯族自治區委員會整黨領導小組辦公室 編|9781940004587
 |浙江“文革”纪事（1966．5—1976．10）|《浙江方志》编辑部|程超 魏皓奔 主编|OCLC757009795
@@ -1246,6 +990,8 @@ layout: default
 |モンゴル人ジェノサイドに関する基礎資料. 9, 紅衛兵新聞(一)|風響社|楊海英 編|9784894898899
 |モンゴル人ジェノサイドに関する基礎資料. 10, 紅衛兵新聞(二)|風響社|楊海英 編|9784894898905
 |モンゴル人ジェノサイドに関する基礎資料：加害者に対する清算|風響社|楊海英|9784894898912
+|有關內蒙古人民革命黨的政府文件和領導講話|新銳文創|楊海英|上（9789865540036）下（9789865540043）
+|滕海清將軍有關內蒙古人民革命黨講話集|新銳文創|楊海英|上（9789578924994）中（9789865540005）下（9789865540012）
 |*On the Cultural Revolution in Tibet: The Nyemo Incident of 1969*|University of California Press|Melvyn C. Goldstein、Ben Jiao、Tanzen Lhundrup|9780520256828 
 |在如來佛掌中（增訂版）：張東蓀和他的時代|香港中文大學|戴晴|9789882370098
 |陈伯達遺稿: 獄中自述及其他|天地圖書|陈伯达、陈晓农|
@@ -1255,14 +1001,14 @@ layout: default
 |我的文革檢查：蕭軍自訟錄|牛津大學|蕭軍|9780199426171 
 |王力反思錄：王力遺稿|北星|王力|9628643819
 |現場歷史：文化大革命紀事|牛津大學|王力|0195865871
-|羅瑞卿案|韓鋼 丁凱文 樊真 滬林 羅點點 余汝信、編：余汝信、代序：蕭冬連|9789881557186
+|羅瑞卿案||韓鋼 丁凱文 樊真 滬林 羅點點 余汝信、編：余汝信、代序：蕭冬連|9789881557186
 |落難英雄：丁盛將軍回憶錄|新世紀|丁盛 口述、金光 談話記錄、余汝信 整理編註|9789881943071
 |軍人永勝：原解放軍總參謀長黃永勝將軍前傳|新世紀|黃正|9789881943033
 |邱會作回憶錄|新世紀|邱會作|9789881943064
 |十年一夢：前上海市委書記徐景賢文革回憶錄|時代|徐景賢|9889760819
 |一位大陸作家的文革記憶：訣別史達林模式及其他|秀威資訊|李冰封|9789862216910
 |家族記憶：百年家族的文革歷史實錄|秀威資訊|昌言|9789862217955
-|文革受難者：關於迫害、監禁與殺戮的尋訪實錄|開放雜誌|王友琴|[9627934127](http://ywang.uchicago.edu/history/docs/EBookVictim%2020190528.pdf)[ebook](http://ywang.uchicago.edu/history/victim_ebook_070505.pdf)
+|文革受難者：關於迫害、監禁與殺戮的尋訪實錄|開放雜誌|王友琴|[9627934127](http://ywang.uchicago.edu/history/docs/EBookVictim%2020190528.pdf)；[ebook](http://ywang.uchicago.edu/history/victim_ebook_070505.pdf)
 |「九一三」回望：林彪事件史實與辨析|新世紀|天穹 韓鋼 王海光 余汝信、編：余汝信、序：馬若德|9789881557124
 |林彪的忠與逆：9/13事件重探|新銳文創|翁衍慶|9789866094934 
 |林彪日記|明鏡|李德、舒雲 編著|9781932138986
@@ -1289,11 +1035,14 @@ layout: default
 |中华学人文革论文集（二）：思想与文化|美国华忆出版社（Remembering Publishing, LLC）|启之 编|9781951135065
 |中华学人文革论文集（三）：学校和地方|美国华忆出版社（Remembering Publishing, LLC）|启之 编|9781951135089
 |中华学人文革论文集（四）：政治与群众|美国华忆出版社（Remembering Publishing, LLC）|启之 编|9781951135102
+|中国电影：一个制度和观念的历史（二）文革电影（1966–1976）|美国华忆出版社（Remembering Publishing, LLC）|启之|9781951135324 
+|中国电影：一个制度和观念的历史（一）人民电影（1949–1966）|美国华忆出版社（Remembering Publishing, LLC）|启之|9781951135300 
 |红祸：文革五十周年（1966-2016）论文集|世界华语出版社|吴称谋 编|9781940266091
 |文化大革命：歷史真相和集體記憶|田園書屋|宋永毅 編|上：9623390653，下：9623390661
 |文革密件：美國搜集的中共機密文件|明鏡|唐大宋|9781630328191
 |原版文革密件 第一卷, 關於四人幫事件[1976]|當代名家|丁望 編|9628362194
 |基層文革泥濘路|博大|劉國凱|9628690744
+|孙谦的如影人生|美国华忆出版社|王学礼|9781951135409
 |"文革"故事|文史哲|聶本立、王德勇|9789575497194
 |遇羅克與“中學文革報”：遇羅克爲之而死 被中共封閉至今的六期報紙|晨鐘書局|遇羅錦 編著|9789881620385
 |遇羅克：中國人權先驅|開放|金鐘 編|9627934291
@@ -1398,7 +1147,7 @@ layout: default
 |雪山下的火焰：一个西藏犯人的证词|劳改基金会|Palden Gyatso（班旦加措）、译者：夏加．次仁、廖天琪|9781931550475
 |夹边沟惨案|劳改基金会|赵旭|1931550212
 |集燕园风雨铸人生|劳改基金会|王书瑶|1931550154
-|中国第一罪|劳改基金会|秦耕1931550123
+|中国第一罪|劳改基金会|秦耕|1931550123
 |记忆的声音|劳改基金会|阿妈阿德 口述、乔伊·布雷克斯莉 著、译者：杨莉藜|1931550700
 |赤海漂零记|劳改基金会|曾石荣|1931550174
 |梦断未名湖|劳改基金会|陈奉孝|1931550069
@@ -1414,6 +1163,8 @@ layout: default
 |*The Hijacked War: The Story of Chinese POWs in the Korean War*|Stanford University Press|David Cheng Chang|9781503604605
 |歷史的覆轍：中俄革命之比較（*La récidive, Révolution russe, révolution chinoise*）|香港中文大學|畢仰高（Lucien Bianco）、譯者：夏沛然|9789882370685
 |中國革命的起源，1915-1949（*Les Origines de la Révolution Chinoise 1915-1949*）|聯經|畢仰高（Lucien Bianco），譯者：陳三井，譯校：何啟仁|9789570849486
+|迅猛的力量：1949，毛澤東、杜魯門與現代中國的誕生（*A Force So Swift: Mao, Truman, and the Birth of Modern China, 1949*）|遠足文化|凱文．裴萊諾（Kevin Peraino）、譯者：林添貴|99789865080334
+|支那革命的真相：來自日本的視角與立場（支那革命外史）|八旗文化|北一輝、譯者：董炯明、王敬翔|9789578654808
 |重審毛澤東的土地改革：中共建政初期的政治運動70週年的歷史回顧 | 遠景 |  宋永毅 主編 | 上：9789623391016、下：9789623391023
 |地主‧農民‧共產黨：社會博弈論分析|牛津大學|何高潮|9780195865868
 |光明前之黑暗．中國共產黨之觀察（殷海光全集第5卷）|國立臺灣大學出版中心|殷海光|9789860212242
@@ -1499,25 +1250,7 @@ layout: default
 |反思共產黨：毛澤東要建立家天下，鄧小平改革背後真相(附：九十高齡八十歲的回憶)|亞太政治哲學文化出版有限公司|薛適|9789869373968
 |神州悲歌|亞太政治哲學文化出版有限公司|蔣繼先|上 天堂之路：9789869173988、中 衛星璀璨：9789869173995、下 盧山風雲：9789869373906
 |外交部與歪交部|亞太政治哲學文化出版有限公司|劉順達|9789869173933
-{: #book .display}
 
-#### 参考资料
+### 参考资料
 
 1. [那些在豆瓣上消失的书](http://cul.qq.com/a/20151104/026086.htm)
-
-
-  <script type="text/javascript">
-    $(document).ready(function() {
-      $('#movie').DataTable({
-        "paging": false,
-      });
-    } );
-  </script>
-
-  <script type="text/javascript">
-    $(document).ready(function() {
-      $('#book').DataTable({
-        "paging": false,
-      });
-    } );
-  </script>
